@@ -1,38 +1,360 @@
 [
   {
-    "objectID": "slides/01-introduction.html#welcome-to-nres-315",
-    "href": "slides/01-introduction.html#welcome-to-nres-315",
-    "title": "Introduction to Human Dimensions",
+    "objectID": "slides/07-implementation-learning.html#building-from-monday",
+    "href": "slides/07-implementation-learning.html#building-from-monday",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Building from Monday",
+    "text": "Building from Monday\nMonday: Evidence and framing shape a management plan.\nToday: Implementation, monitoring, and evaluation show whether that plan works.\n\nTime: 3 minutes. Source: Chapter 6, §§6.3.3–6.3.4. Retrieve Plan–Do–Learn and ask students what could go wrong after a plan is adopted.\n\n\nSource: Chapter 6, §§6.3.3–6.3.4"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#the-central-question",
+    "href": "slides/07-implementation-learning.html#the-central-question",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "The central question",
+    "text": "The central question\n\nHow can managers learn whether an action produced both ecological and human benefits?\n\n\nThey need clear objectives, suitable measures, and a willingness to adapt.\n\n\nTime: 2 minutes. Source: Chapter 6, §§6.3.3–6.3.4.2.\n\n\nSource: Chapter 6, §§6.3.3–6.3.4.2"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#from-plan-to-action",
+    "href": "slides/07-implementation-learning.html#from-plan-to-action",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "From plan to action",
+    "text": "From plan to action\nImplementation is where a plan meets real conditions.\n\nTime: 1 minute. Transition slide."
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#doing-is-more-than-announcing-a-plan",
+    "href": "slides/07-implementation-learning.html#doing-is-more-than-announcing-a-plan",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Doing is more than announcing a plan",
+    "text": "Doing is more than announcing a plan\nImplementation can include:\n\nrule-making and policy;\nhabitat restoration;\npublic involvement;\nlaw enforcement;\nsurveys; and\nday-to-day professional decisions.\n\n\nTime: 5 minutes. Source: Chapter 6, §6.3.3. Explain that implementation occurs within legal mandates, agency missions, capacity, and constraints.\n\n\nSource: Chapter 6, §6.3.3"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#plandolearn-each-stage-asks-a-different-question",
+    "href": "slides/07-implementation-learning.html#plandolearn-each-stage-asks-a-different-question",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Plan–Do–Learn: each stage asks a different question",
+    "text": "Plan–Do–Learn: each stage asks a different question\n\n\nPlan\nWhat is the problem? What outcomes and alternatives matter?\n\nDo\nWhat action will be carried out, by whom, and under what constraints?\n\nLearn\nWhat changed? What should be adjusted next?\n\n\nThe cycle is not complete unless learning informs the next decision.\n\n\nTime: 6 minutes. Source: Chapter 6, §6.3 and Figure 6.1. Invite students to trace one management decision through all three stages.\n\n\nSource: Chapter 6, §6.3 and Figure 6.1"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#monitoring-and-evaluation",
+    "href": "slides/07-implementation-learning.html#monitoring-and-evaluation",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Monitoring and evaluation",
+    "text": "Monitoring and evaluation\nEvidence for learning rather than evidence for its own sake.\n\nTime: 1 minute. Transition slide."
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#monitoring-and-evaluation-are-linked",
+    "href": "slides/07-implementation-learning.html#monitoring-and-evaluation-are-linked",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Monitoring and evaluation are linked",
+    "text": "Monitoring and evaluation are linked\n\n\nMonitoring\nSystematically and repeatedly collects information to guide future decisions.\n\nEvaluation\nDetermines whether goals, objectives, and success measures were met.\n\n\nMonitoring supplies evidence; evaluation interprets it against the decision’s objectives.\n\n\nTime: 6 minutes. Source: Chapter 6, §§6.3.4–6.3.4.2. Ask why managers cannot use the terms as synonyms.\n\n\nSource: Chapter 6, §§6.3.4–6.3.4.2"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#measures-should-match-the-objective",
+    "href": "slides/07-implementation-learning.html#measures-should-match-the-objective",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Measures should match the objective",
+    "text": "Measures should match the objective\n\n\nEcological measures\n\npopulation or habitat indicators\nharvest levels\nother resource conditions\n\n\nHuman-dimensions measures\n\nsupport and satisfaction\nlicense sales or days afield\nperceptions of fairness or access\n\n\n\nAn evidence-informed decision can require both kinds of measures.\n\n\nTime: 5 minutes. Source: Chapter 6, §6.3.2.2. These are examples from the chapter, not a universal checklist.\n\n\nSource: Chapter 6, §6.3.2.2"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#what-will-count-as-success",
+    "href": "slides/07-implementation-learning.html#what-will-count-as-success",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "What will count as success?",
+    "text": "What will count as success?\nBefore collecting data, managers need to decide:\n\nWhat change is expected?\nFor whom should that change matter?\nWhat evidence would show progress or a problem?\nWhat decision could change in response?\n\n\nTime: 5 minutes. Source: Chapter 6, §§6.3.2–6.3.4. This slide synthesizes the chapter’s planning and learning logic. Ask students which question is hardest to answer before implementation begins.\n\n\nSource: Chapter 6, §§6.3.2–6.3.4"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#chapter-application-puget-sound",
+    "href": "slides/07-implementation-learning.html#chapter-application-puget-sound",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Chapter application: Puget Sound",
+    "text": "Chapter application: Puget Sound\nThe Puget Sound recovery effort combines ecological indicators with Human Well-being Vital Signs.\n\nThe effort involves agencies, Tribes, universities, practitioners, and other partners across the region.\n\n\nIts measures help partners see whether recovery is affecting people as well as ecological conditions.\n\n\nTime: 6 minutes. Source: Chapter 6, Box 6.2. Keep claims within the box; this is the shared case for Friday.\n\n\nSource: Chapter 6, Box 6.2"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#human-well-being-vital-signs",
+    "href": "slides/07-implementation-learning.html#human-well-being-vital-signs",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Human Well-being Vital Signs",
+    "text": "Human Well-being Vital Signs\n\n\n\nair quality and drinking water\nlocal foods and outdoor activity\ncultural well-being\neconomic vitality\n\n\n\ngood governance\nsense of place\nstewardship behaviors\n\n\n\nOne indicator is not the whole story. Together, they broaden what recovery can mean.\n\n\nTime: 5 minutes. Source: Chapter 6, Box 6.2. Ask pairs to select one indicator and explain why it belongs in a recovery effort.\n\n\nSource: Chapter 6, Box 6.2"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#learning-can-change-the-next-plan",
+    "href": "slides/07-implementation-learning.html#learning-can-change-the-next-plan",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Learning can change the next plan",
+    "text": "Learning can change the next plan\n\n\nNew evidence may change the problem frame, objectives, implementation, or measures—not simply confirm the original plan.\n\n\nTime: 5 minutes. Source: Chapter 6, §6.3.4 and Box 6.2. Explain the diagram in words. The alt text provides the text equivalent.\n\n\nSource: Chapter 6, §6.3.4 and Box 6.2"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#friday-puget-sound-application",
+    "href": "slides/07-implementation-learning.html#friday-puget-sound-application",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Friday: Puget Sound application",
+    "text": "Friday: Puget Sound application\nPrepare to explain:\n\nthe effort’s why, who, what, and how;\none Human Well-being Vital Sign and its relevance;\none implementation or coordination feature; and\nhow monitoring could guide the next planning cycle.\n\n\nTime: 5 minutes. Source: Chapter 6, Box 6.2. Pair students to locate direct support in the box. Remind them that the next reading quiz is due Sunday night before Monday’s class.\n\n\nSource: Chapter 6, Box 6.2"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#close-what-counts-as-a-strong-decision",
+    "href": "slides/07-implementation-learning.html#close-what-counts-as-a-strong-decision",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Close: what counts as a strong decision?",
+    "text": "Close: what counts as a strong decision?\nAn evidence-informed decision is transparent about:\n\nits objectives;\nthe evidence and values it uses;\nimplementation constraints; and\nthe ecological and human outcomes it will monitor.\n\n\nTime: 2 minutes. Source: Chapter 6, §§6.2–6.4. Close the week with the idea that learning is part of management, not a final add-on.\n\n\nSource: Chapter 6, §§6.2–6.4"
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#this-week-begins-wednesday",
+    "href": "slides/05-justice-governance.html#this-week-begins-wednesday",
+    "title": "Justice, Participation, and Governance",
+    "section": "This week begins Wednesday",
+    "text": "This week begins Wednesday\nMonday is Labor Day. Today integrates Chapters 4 and 5 to prepare for Friday’s application.\n\nTime: 2 minutes. Confirm that the quiz is due Tuesday at 11:59 p.m., before Wednesday’s class, because Monday is Labor Day."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#todays-question",
+    "href": "slides/05-justice-governance.html#todays-question",
+    "title": "Justice, Participation, and Governance",
+    "section": "Today’s question",
+    "text": "Today’s question\nHow do equity, inclusion, justice, and governance shape whether a conservation decision is legitimate and durable?\n\nSource: Chapter 4, §4.1–4.2; Chapter 5, §5.1–5.2.\n\n\nTime: 3 minutes. Position the topics as integral to management practice."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#what-you-should-be-able-to-do",
+    "href": "slides/05-justice-governance.html#what-you-should-be-able-to-do",
+    "title": "Justice, Participation, and Governance",
+    "section": "What you should be able to do",
+    "text": "What you should be able to do\nBy the end of today, you should be able to:\n\nidentify how access, recognition, participation, and influence affect a decision;\ndistinguish governance from a single agency’s day-to-day action; and\npropose one accountable process that could strengthen the durability of a conservation decision.\n\n\nSource: Chapters 4–5, §§4.1–4.2 and §§5.1–5.3.\n\n\nTime: 2 minutes. Explain that Friday asks students to make both a justice and a governance claim using the same case."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#justice-is-a-management-condition",
+    "href": "slides/05-justice-governance.html#justice-is-a-management-condition",
+    "title": "Justice, Participation, and Governance",
+    "section": "Justice is a management condition",
+    "text": "Justice is a management condition\nAccess, influence, and recognition shape whether a conservation decision can be publicly legitimate.\n\nTime: 1 minute. Do not present DEIJ as separate from ecological outcomes or implementation."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#deij-is-part-of-management-practice",
+    "href": "slides/05-justice-governance.html#deij-is-part-of-management-practice",
+    "title": "Justice, Participation, and Governance",
+    "section": "DEIJ is part of management practice",
+    "text": "DEIJ is part of management practice\nChapter 4 connects DEIJ to:\n\naccess to land and water;\nwhose knowledge is recognized;\nwho bears costs and receives benefits; and\nwho has influence in public processes.\n\n\nSource: Chapter 4, §4.2.\n\n\nTime: 6 minutes. Do not reduce DEIJ to representation alone. Ask students what each bullet means in a decision context."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#four-related-terms",
+    "href": "slides/05-justice-governance.html#four-related-terms",
+    "title": "Justice, Participation, and Governance",
+    "section": "Four related terms",
+    "text": "Four related terms\n\nDiversity: varying attributes within a community.\nEquity: fair opportunity to engage and benefit, including attention to barriers.\nInclusion: being accepted, supported, and able to contribute.\nJustice: fair practices that dismantle barriers and enable full participation.\n\n\nSource: Chapter 4, Table 4.1.\n\n\nTime: 7 minutes. This is a concise text equivalent for Table 4.1. Ask students to distinguish equity from equality using only the table’s definitions."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#a-process-can-include-people-without-sharing-influence",
+    "href": "slides/05-justice-governance.html#a-process-can-include-people-without-sharing-influence",
+    "title": "Justice, Participation, and Governance",
+    "section": "A process can include people without sharing influence",
+    "text": "A process can include people without sharing influence\n\n\nPresence only\nPeople are invited, but barriers limit their participation or their knowledge has no effect on the decision.\n\nMeaningful inclusion\nRelevant publics can participate, their knowledge is recognized, and the process makes clear how their input can affect the decision.\n\n\nSource: Chapter 4, §§4.2–4.3.\n\n\nTime: 4 minutes. Ask: “What would make an invitation insufficient?” Listen for access barriers, token participation, recognition, and a lack of meaningful influence. Do not require personal disclosure."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#governance-makes-process-consequential",
+    "href": "slides/05-justice-governance.html#governance-makes-process-consequential",
+    "title": "Justice, Participation, and Governance",
+    "section": "Governance makes process consequential",
+    "text": "Governance makes process consequential\nRules, institutions, and power determine who can decide, implement, enforce, and participate.\n\nTime: 1 minute. Bridge from justice concerns to the mechanisms that can either reproduce or address them."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#governance-turns-commitments-into-action",
+    "href": "slides/05-justice-governance.html#governance-turns-commitments-into-action",
+    "title": "Justice, Participation, and Governance",
+    "section": "Governance turns commitments into action",
+    "text": "Governance turns commitments into action\nGovernance is the interplay of rules, policies, institutions, and powers that guide decision-making, implementation, and enforcement.\n\nThe chapter’s governance model asks students to identify:\n\ndecision-making;\nimplementation; and\nenforcement.\n\n\nSource: Chapter 5, §5.2.\n\n\nTime: 6 minutes. Use the figure’s alt text as the text equivalent. Emphasize that this Idaho figure is an example, not a universal structure; governance determines what actions are allowed, expected, and feasible."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#governance-asks-four-practical-questions",
+    "href": "slides/05-justice-governance.html#governance-asks-four-practical-questions",
+    "title": "Justice, Participation, and Governance",
+    "section": "Governance asks four practical questions",
+    "text": "Governance asks four practical questions\n\nAuthority: Who can make or change the decision?\nImplementation: Who has to carry it out?\nAccountability: Who can evaluate or challenge the decision?\nRelationships: Which governments, publics, and partners must be involved for the decision to work?\n\n\nSource: Chapter 5, §§5.2–5.3.\n\n\nTime: 4 minutes. These are an instructional synthesis of the chapter’s governance definition and principles. Use them as a checklist, not a claim that every decision has the same answer."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#good-governance-is-more-than-biological-success",
+    "href": "slides/05-justice-governance.html#good-governance-is-more-than-biological-success",
+    "title": "Justice, Participation, and Governance",
+    "section": "Good governance is more than biological success",
+    "text": "Good governance is more than biological success\nChapter 5 identifies governance that is transparent, inclusive, accountable, sustainable, adaptable, and capable of coordination across boundaries.\n\nSource: Chapter 5, §5.3.2–5.3.3.\n\n\nTime: 6 minutes. Ask students to identify which of these qualities would be hardest to assess and why."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#working-across-knowledge-traditions",
+    "href": "slides/05-justice-governance.html#working-across-knowledge-traditions",
+    "title": "Justice, Participation, and Governance",
+    "section": "Working across knowledge traditions",
+    "text": "Working across knowledge traditions\n\n\nSource: Chapter 4, Figure 4.1.\n\n\nTime: 5 minutes. Use this figure to deepen the DEIJ discussion. Ask students which principle is most relevant to meaningful participation and why."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#chapter-application-grand-staircaseescalante",
+    "href": "slides/05-justice-governance.html#chapter-application-grand-staircaseescalante",
+    "title": "Justice, Participation, and Governance",
+    "section": "Chapter application: Grand Staircase–Escalante",
+    "text": "Chapter application: Grand Staircase–Escalante\nChapter 4 explains that the monument became a flashpoint when many local communities and Indigenous nations felt insufficiently consulted.\nThe chapter links meaningful participation to legitimacy, trust, and durable conservation support.\n\nSource: Chapter 4, §4.4.2.\n\n\nTime: 7 minutes. State only the chapter’s facts: designation in 1996 and reduction in 2017. Do not supply external policy details."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#diagnose-the-process-not-only-the-outcome",
+    "href": "slides/05-justice-governance.html#diagnose-the-process-not-only-the-outcome",
+    "title": "Justice, Participation, and Governance",
+    "section": "Diagnose the process, not only the outcome",
+    "text": "Diagnose the process, not only the outcome\n\nThe case asks more than whether a monument’s boundaries should be larger or smaller.\n\n\nIt asks whose relationships, authority, knowledge, and participation shaped the decision—and what happens when affected communities and Indigenous nations see consultation as insufficient.\n\n\n\nProcess can affect legitimacy, trust, and the durability of conservation support.\n\n\n\nSource: Chapter 4, §4.4.2; Chapter 5, §§5.2–5.3.\n\n\nTime: 4 minutes. Keep the case chapter-bound. The aim is to help students see why a governance analysis includes both the formal decision and the relationships that give it legitimacy."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#friday-preparation-four-prompts",
+    "href": "slides/05-justice-governance.html#friday-preparation-four-prompts",
+    "title": "Justice, Participation, and Governance",
+    "section": "Friday preparation: four prompts",
+    "text": "Friday preparation: four prompts\nUse Chapters 4 and 5 to prepare:\n\nWhat decision and governance context are described?\nWhat DEIJ concern is visible?\nHow can consultation shape legitimacy and support?\nWhat participation or collaboration practice could make a decision more durable?\n\n\nTime: 10 minutes. In pairs, have students annotate the relevant Chapter 4 section and identify a Chapter 5 concept that applies."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#pair-rehearsal-make-one-accountable-process-claim",
+    "href": "slides/05-justice-governance.html#pair-rehearsal-make-one-accountable-process-claim",
+    "title": "Justice, Participation, and Governance",
+    "section": "Pair rehearsal: make one accountable-process claim",
+    "text": "Pair rehearsal: make one accountable-process claim\nWith a partner, complete this claim:\n\nA more durable process would involve ______ early enough to ______. This matters because ______; one constraint or uncertainty is ______.\n\nUse only a participation or collaboration practice described in Chapters 4–5.\n\nSource: Chapters 4–5, §§4.3–4.5 and §§5.2–5.3.\n\n\nTime: 5 minutes. Give pairs two minutes, hear two claims, then ask the class to name the participation practice and the governance constraint each claim identifies. This is the direct rehearsal for Friday response item 4."
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#close-a-management-standard",
+    "href": "slides/05-justice-governance.html#close-a-management-standard",
+    "title": "Justice, Participation, and Governance",
+    "section": "Close: a management standard",
+    "text": "Close: a management standard\nConservation decisions are more durable when they are ecologically sound and publicly accountable to diverse publics, authorities, and contexts.\n\nSource: Chapters 4–5.\n\n\nTime: 3 minutes. Reiterate Friday’s application source anchors and quiz deadline."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#todays-question",
+    "href": "slides/03-conservation-history.html#todays-question",
+    "title": "Conservation History as Living Context",
+    "section": "Today’s question",
+    "text": "Today’s question\n\nHow do earlier eras of fish and wildlife management still shape current decisions?\n\n\nHistory is not background information. It helps explain the institutions, priorities, and conflicts a manager inherits.\n\n\nSource: Chapter 2, §§2.1–2.2.\n\n\nTime: 3 minutes. Ask students to name one current management practice that may have a history. Do not supply examples beyond the chapter yet."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#what-you-should-be-able-to-do",
+    "href": "slides/03-conservation-history.html#what-you-should-be-able-to-do",
+    "title": "Conservation History as Living Context",
+    "section": "What you should be able to do",
+    "text": "What you should be able to do\nBy the end of today, you should be able to:\n\ndescribe why Chapter 2 treats management history as cumulative;\nconnect one historical era to a current priority, institution, or conflict; and\nexplain why a human-dimensions orientation is part of management history rather than an add-on to it.\n\n\nSource: Chapter 2, guiding questions and §2.2.\n\n\nTime: 2 minutes. Tell students that Wednesday asks who benefits from the institutions and priorities they identify today."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#history-lives-in-institutions",
+    "href": "slides/03-conservation-history.html#history-lives-in-institutions",
+    "title": "Conservation History as Living Context",
+    "section": "History lives in institutions",
+    "text": "History lives in institutions\nThe past remains present in the way management is organized, funded, and expected to act.\n\nTime: 1 minute. Use this as a transition, not a content-heavy slide."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#the-chapters-history-is-cumulative",
+    "href": "slides/03-conservation-history.html#the-chapters-history-is-cumulative",
+    "title": "Conservation History as Living Context",
+    "section": "The chapter’s history is cumulative",
+    "text": "The chapter’s history is cumulative\n\n\nSource: Chapter 2, Figure 2.1 and §§2.2.1–2.2.8.\n\n\nTime: 4 minutes. Explain the figure verbally before discussing it. The onion does not say that every era had equal power or that one era neatly ended before another began. Its point is that newer approaches were added to earlier institutions, assumptions, and practices."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#a-timeline-tells-order-a-history-explains-inheritance",
+    "href": "slides/03-conservation-history.html#a-timeline-tells-order-a-history-explains-inheritance",
+    "title": "Conservation History as Living Context",
+    "section": "A timeline tells order; a history explains inheritance",
+    "text": "A timeline tells order; a history explains inheritance\n\n\nTimeline question\n\nWhat came next?\n\n\nHistorical question\n\nWhat did that era leave behind for today’s decisions?\n\n\n\nAn institution, funding arrangement, professional norm, or public expectation can outlast the era that produced it.\n\n\nSource: Chapter 2, §2.2.\n\n\nTime: 3 minutes. Have students use the phrase “left behind” rather than “caused” when the chapter does not establish a simple one-to-one cause. This keeps the lesson from becoming a date list."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#indigenous-stewardship-comes-first",
+    "href": "slides/03-conservation-history.html#indigenous-stewardship-comes-first",
+    "title": "Conservation History as Living Context",
+    "section": "Indigenous stewardship comes first",
+    "text": "Indigenous stewardship comes first\nChapter 2 begins with Indigenous stewardship before European colonization.\n\nIt recognizes long-standing relationships, knowledge, governance systems, and practices of caring for land, water, fish, and wildlife.\n\n\nThe later conservation history cannot be understood as if those systems did not exist.\n\n\nSource: Chapter 2, §2.2.1.\n\n\nTime: 4 minutes. This is not a preface to skip past. Chapter 2 places Indigenous stewardship inside the historical account; later chapters develop authority, justice, and governance more directly."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#exploitation-helped-produce-protection",
+    "href": "slides/03-conservation-history.html#exploitation-helped-produce-protection",
+    "title": "Conservation History as Living Context",
+    "section": "Exploitation helped produce protection",
+    "text": "Exploitation helped produce protection\n\n\nAbundance and exploitation\n\nassumptions of plentiful resources;\ncommercial use and extraction; and\nweak or limited restraint.\n\n\nProtection\n\nconcern about depletion;\nlegal and ethical responses; and\nnew limits on use.\n\n\n\n\nA historical layer can be a response to the limits of an earlier layer.\n\n\n\nSource: Chapter 2, §§2.2.2–2.2.4.\n\n\nTime: 5 minutes. Ask students to distinguish “protection followed exploitation” from an explanation of why protection emerged. Keep the discussion in the chapter’s account."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#management-priorities-also-changed",
+    "href": "slides/03-conservation-history.html#management-priorities-also-changed",
+    "title": "Conservation History as Living Context",
+    "section": "Management priorities also changed",
+    "text": "Management priorities also changed\n\n\n\n\n\n\n\n\nEra\nA continuing question for management\n\n\n\n\nGame management\nHow should populations and harvest be managed?\n\n\nEnvironmental management\nHow do habitats, ecosystems, pollution, and broader environmental conditions matter?\n\n\nGlobalization and governance challenges\nHow do institutions, publics, scales, and changing conditions shape what is possible?\n\n\n\n\n\nSource: Chapter 2, §§2.2.5–2.2.8.\n\n\nTime: 5 minutes. This comparison does not claim that one era solved the previous era’s problems. Ask what changes when management moves from a population-only concern to broader ecosystem and governance concerns."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#people-remain-part-of-the-history",
+    "href": "slides/03-conservation-history.html#people-remain-part-of-the-history",
+    "title": "Conservation History as Living Context",
+    "section": "People remain part of the history",
+    "text": "People remain part of the history\nThe chapter links management’s evolution to:\n\nsocietal values and cultural practices;\neconomic and political forces;\ngovernance systems and institutions; and\nchanging relationships between people and nature.\n\n\nSource: Chapter 2, §§2.1–2.2.\n\n\nTime: 4 minutes. Human dimensions helps explain these relationships. It does not replace biological knowledge; it asks how social, institutional, and ecological conditions jointly shape a decision."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#read-a-legacy",
+    "href": "slides/03-conservation-history.html#read-a-legacy",
+    "title": "Conservation History as Living Context",
+    "section": "Read a legacy",
+    "text": "Read a legacy\nUse the historical layers to diagnose a present decision.\n\nTime: 1 minute. Give students a clear transition to the active-learning exercise."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#practice-trace-one-legacy-forward",
+    "href": "slides/03-conservation-history.html#practice-trace-one-legacy-forward",
+    "title": "Conservation History as Living Context",
+    "section": "Practice: trace one legacy forward",
+    "text": "Practice: trace one legacy forward\nChoose one era from Chapter 2. With a partner, prepare a 45-second explanation:\n\nWhat conservation priority, institution, or assumption is associated with that era?\nHow could it still shape a current fish or wildlife decision?\nWhat question would a manager need to ask before treating that legacy as neutral or inevitable?\n\n\nSource: Chapter 2, §2.2.\n\n\nTime: 9 minutes. Give pairs 3 minutes to prepare, hear three explanations, then use 3 minutes to compare the legacy and manager-question portions. Require chapter-grounded reasoning rather than added examples."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#from-history-to-public-responsibility",
+    "href": "slides/03-conservation-history.html#from-history-to-public-responsibility",
+    "title": "Conservation History as Living Context",
+    "section": "From history to public responsibility",
+    "text": "From history to public responsibility\n\nIf management inherits layered priorities and institutions, it must also ask:\n\n\n\nFor whom should it act now?\n\n\nWednesday: public trust thinking, beneficiaries, trustees, trust managers, and accountability.\n\nSource: Chapter 2, §2.2; Chapter 3, §§3.1–3.3.\n\n\nTime: 3 minutes. Make Wednesday a continuation, not a new topic. Direct students to bring one historical legacy they think matters for the public-trust question."
+  },
+  {
+    "objectID": "slides/03-conservation-history.html#exit-check",
+    "href": "slides/03-conservation-history.html#exit-check",
+    "title": "Conservation History as Living Context",
+    "section": "Exit check",
+    "text": "Exit check\nComplete both statements:\n\nA current management decision is shaped by history because ______.\nA human-dimensions question about that history would ask ______.\n\n\nSource: Chapter 2, §§2.1–2.2.\n\n\nTime: 4 minutes. Listen for institutions, values, publics, governance, or inherited priorities—not only “the past affects the future.”"
+  },
+  {
+    "objectID": "slides/01-course-launch.html#welcome-to-nres-315",
+    "href": "slides/01-course-launch.html#welcome-to-nres-315",
+    "title": "NRES 315: Course Launch",
     "section": "Welcome to NRES 315",
-    "text": "Welcome to NRES 315\nHuman dimensions asks how people, institutions, values, evidence, and ethics shape fish and wildlife management.\n\nIntroduce the course as a way of making management reasoning more visible. Canvas remains the authoritative source for course administration."
+    "text": "Welcome to NRES 315\nThis course examines the human actions, social processes, and social-ecological relationships that shape fish and wildlife management.\nToday is a brief launch. Wednesday is our full Chapter 1 session.\n\nCourse framing: Chapter 1, §1.3. Schedule: course syllabus.\n\n\nTime: 2 minutes. Welcome students and establish that today is an orientation, not an abbreviated version of Wednesday’s lecture."
   },
   {
-    "objectID": "slides/01-introduction.html#a-recurring-management-question",
-    "href": "slides/01-introduction.html#a-recurring-management-question",
-    "title": "Introduction to Human Dimensions",
-    "section": "A recurring management question",
-    "text": "A recurring management question\n\nWhat decision is being made, what evidence matters, who is affected, and which tradeoffs must be addressed?"
+    "objectID": "slides/01-course-launch.html#the-recurring-course-question",
+    "href": "slides/01-course-launch.html#the-recurring-course-question",
+    "title": "NRES 315: Course Launch",
+    "section": "The recurring course question",
+    "text": "The recurring course question\nFish and wildlife management decisions involve people, habitats, and species.\nAcross the semester, we will ask:\n\nWhat decision is being made, what evidence matters, who is affected, and which tradeoffs must be addressed?\n\n\nChapter 1 framing: §§1.2.1–1.3.\n\n\nTime: 3 minutes. This is the course’s recurring reasoning routine. Do not unpack the terms fully yet; Wednesday’s Chapter 1 lecture will do that."
   },
   {
-    "objectID": "slides/01-introduction.html#todays-starting-points",
-    "href": "slides/01-introduction.html#todays-starting-points",
-    "title": "Introduction to Human Dimensions",
-    "section": "Today’s starting points",
-    "text": "Today’s starting points\n\nManagement decisions affect people, habitats, and species.\nEvidence can clarify consequences, but it does not choose values or priorities.\nDifferent affected publics may reasonably see the same decision differently."
+    "objectID": "slides/01-course-launch.html#how-our-weeks-work",
+    "href": "slides/01-course-launch.html#how-our-weeks-work",
+    "title": "NRES 315: Course Launch",
+    "section": "How our weeks work",
+    "text": "How our weeks work\n\n\n\n\n\n\n\n\n\n\n\nMonday\nWednesday\nFriday\n\n\n\n\nFrame the chapter and management question\nLecture, concept check, and case preparation\nRotating small-group application\n\n\nComplete reading preparation\nBring one claim and one question\nSubmit one shared response and a private Friday Group Check\n\n\n\n\n\n\nSource: course syllabus, “Weekly rhythm.”\n\n\nTime: 4 minutes. Explain that the weekly pattern is predictable. In Week 1, Monday is shorter and Wednesday carries the chapter framing. Friday is the first graded application; from Week 2 onward, groups rotate weekly."
   },
   {
-    "objectID": "slides/01-introduction.html#figure-example",
-    "href": "slides/01-introduction.html#figure-example",
-    "title": "Introduction to Human Dimensions",
-    "section": "Figure example",
-    "text": "Figure example\nUse descriptive alternative text whenever an image carries instructional meaning."
+    "objectID": "slides/01-course-launch.html#how-the-course-is-assessed",
+    "href": "slides/01-course-launch.html#how-the-course-is-assessed",
+    "title": "NRES 315: Course Launch",
+    "section": "How the course is assessed",
+    "text": "How the course is assessed\n\nReading quizzes — 25%: short, individual preparation checks; the lowest one score is dropped.\nWeekly group applications — 75%: fifteen in-class applications; the lowest one score is dropped.\nEach application score is 80% shared reasoning and 20% individual contribution accountability.\n\n\nSource: course syllabus, “Assessment and grading.”\n\n\nTime: 3 minutes. Emphasize the point of the structure: prepare individually, reason with others in class, and show meaningful contribution. Mention that there are no unit exams or cumulative final exam."
   },
   {
-    "objectID": "slides/01-introduction.html#before-you-leave",
-    "href": "slides/01-introduction.html#before-you-leave",
-    "title": "Introduction to Human Dimensions",
-    "section": "Before you leave",
-    "text": "Before you leave\nBring one management question to the next class: What evidence would you need, whose perspective might be missing, and what tradeoff could follow?"
+    "objectID": "slides/01-course-launch.html#your-week-1-checklist",
+    "href": "slides/01-course-launch.html#your-week-1-checklist",
+    "title": "NRES 315: Course Launch",
+    "section": "Your Week 1 checklist",
+    "text": "Your Week 1 checklist\n\nFind the Week 1 module in Canvas.\nRead Chapter 1.\nComplete the individual quiz by Sunday, August 30, at 11:59 p.m., before Week 02 Monday class.\nCome Wednesday ready to discuss one management question from the chapter.\nCome Friday ready for the first graded Chesapeake Bay application.\n\n\nSource: Week 1 Canvas module and Chapter 1.\n\n\nTime: 4 minutes. Direct students to the blank Canvas course’s Week 1 module once published. Be explicit that the Friday exercise uses the shared-response and private Friday Group Check routines; it is graded."
+  },
+  {
+    "objectID": "slides/01-course-launch.html#a-question-to-carry-into-wednesday",
+    "href": "slides/01-course-launch.html#a-question-to-carry-into-wednesday",
+    "title": "NRES 315: Course Launch",
+    "section": "A question to carry into Wednesday",
+    "text": "A question to carry into Wednesday\nChapter 1 argues that biology and ecology are essential—but cannot independently determine:\n\nwhich goals should be pursued;\nwhich tradeoffs are acceptable; or\nwho should participate.\n\nWrite down one fish or wildlife decision for which you think one of those questions would matter.\n\nSource: Chapter 1, §§1.2–1.2.1.\n\n\nTime: 3 minutes. Give one quiet minute to write, then invite two short examples. Do not answer or evaluate them in depth; collect the question and use it as the bridge to Wednesday."
+  },
+  {
+    "objectID": "slides/01-course-launch.html#wednesday-begins-chapter-1-in-full",
+    "href": "slides/01-course-launch.html#wednesday-begins-chapter-1-in-full",
+    "title": "NRES 315: Course Launch",
+    "section": "Wednesday begins Chapter 1 in full",
+    "text": "Wednesday begins Chapter 1 in full\nBring your Chapter 1 question back on Wednesday.\nWe will work through values and actions, people–habitats–species, research and participation, and the everyday work of human dimensions.\n\nSource: Chapter 1, §§1.2–1.5.\n\n\nTime: 1 minute. Close clearly: read Chapter 1, complete the quiz by Sunday night, and return Wednesday ready to use the chapter’s full argument."
   },
   {
     "objectID": "index.html",
@@ -46,6 +368,349 @@
     "href": "index.html#module-1-foundations-for-human-dimensions-decisions",
     "title": "NRES 315",
     "section": "Module 1 — Foundations for human-dimensions decisions",
-    "text": "Module 1 — Foundations for human-dimensions decisions\n\nLecture 01 — Introduction to human dimensions\n\nNew lectures appear here only after they are ready for students."
+    "text": "Module 1 — Foundations for human-dimensions decisions\n\nLecture 01 — Course launch\nLecture 02 — People, habitats, and species"
+  },
+  {
+    "objectID": "index.html#module-2-conservation-history-and-public-trust",
+    "href": "index.html#module-2-conservation-history-and-public-trust",
+    "title": "NRES 315",
+    "section": "Module 2 — Conservation history and public trust",
+    "text": "Module 2 — Conservation history and public trust\n\nLecture 03 — Conservation history as living context\nLecture 04 — Public trust: for whom and for what?"
+  },
+  {
+    "objectID": "index.html#module-3-justice-participation-and-governance",
+    "href": "index.html#module-3-justice-participation-and-governance",
+    "title": "NRES 315",
+    "section": "Module 3 — Justice, participation, and governance",
+    "text": "Module 3 — Justice, participation, and governance\n\nLecture 05 — Justice, participation, and governance"
+  },
+  {
+    "objectID": "index.html#module-4-evidence-planning-and-learning",
+    "href": "index.html#module-4-evidence-planning-and-learning",
+    "title": "NRES 315",
+    "section": "Module 4 — Evidence, planning, and learning",
+    "text": "Module 4 — Evidence, planning, and learning\n\nLecture 06 — Evidence, framing, and planning\nLecture 07 — Implementation, monitoring, and learning\n\nNew lectures appear here only after they are ready for students."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#todays-question",
+    "href": "slides/02-people-habitats-species.html#todays-question",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Today’s question",
+    "text": "Today’s question\nWhen biological evidence is sound, what still has to be worked out before a fish or wildlife decision can succeed?\n\nSource: Chapter 1, guiding questions; §§1.2–1.5.\n\n\nTime: 2 minutes. Frame this as the chapter’s central question, not as an argument against biological science. Invite one or two initial responses without resolving them yet."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#what-you-should-be-able-to-do",
+    "href": "slides/02-people-habitats-species.html#what-you-should-be-able-to-do",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "What you should be able to do",
+    "text": "What you should be able to do\nBy the end of today, you should be able to:\n\nexplain why management is value-laden;\nuse human dimensions as a problem orientation, not merely a set of public-opinion tools;\ndistinguish research, participation, and transdisciplinary collaboration; and\nidentify the human work embedded in a conservation decision.\n\n\nSource: Chapter 1, guiding questions and §§1.2–1.5.\n\n\nTime: 1 minute. These objectives follow the chapter’s guiding questions. Tell students that Friday’s practice will use the Chesapeake Bay example from this chapter."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#chesapeake-bay-is-a-shared-socialecological-system",
+    "href": "slides/02-people-habitats-species.html#chesapeake-bay-is-a-shared-socialecological-system",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Chesapeake Bay is a shared social–ecological system",
+    "text": "Chesapeake Bay is a shared social–ecological system\n\n\n\nThe Bay is degraded by overfishing, pollution, nutrient loading, and habitat destruction.\n\nRunoff from agricultural and urban areas contributes to seasonal low-oxygen “dead zones.”\nUnderwater grass beds and oyster reefs have declined, reducing nursery habitat for fishery species.\nRestoration decisions affect fisheries, livelihoods, recreation, and a place with deep cultural and Indigenous significance.\n\n\n\n\n\n\nInstructional content: Chapter 1, §1.2. Illustrative image: Steve Adams / Unsplash.\n\n\nTime: 2 minutes. Establish the Bay as the chapter’s recurring example. The point is not to memorize its facts; it is to see a management problem as an ecological system and a working landscape."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#the-same-bay-contains-different-stakes",
+    "href": "slides/02-people-habitats-species.html#the-same-bay-contains-different-stakes",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "The same Bay contains different stakes",
+    "text": "The same Bay contains different stakes\nDifferent publics may agree that the Bay matters while disagreeing about the problem, its causes, and acceptable solutions.\n\nCommercial fishers may focus on livelihood effects.\nRecreational anglers may emphasize fish abundance, clean water, and access.\nFarmers and landowners may face new runoff or conservation expectations.\nEnvironmental organizations may seek stricter standards.\n\n\nSource: Chapter 1, §1.2.\n\n\nTime: 2 minutes. Ask: “Does naming all of these interests decide what to do?” No. It makes the management problem more accurately visible. Avoid turning these groups into caricatures."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#diagnosing-the-bay-is-not-the-same-as-deciding-what-to-do",
+    "href": "slides/02-people-habitats-species.html#diagnosing-the-bay-is-not-the-same-as-deciding-what-to-do",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Diagnosing the Bay is not the same as deciding what to do",
+    "text": "Diagnosing the Bay is not the same as deciding what to do\n\nEcological science identifies the Bay’s condition and the likely effects of actions. It does not choose the action.\n\n\nScience can clarify\n\nnutrient inputs, water quality, and habitat condition;\nlikely effects of management actions.\n\n\nA decision must still address\n\npriority outcomes;\nacceptable tradeoffs; and\naffected publics and costs.\n\n\n\nEcological evidence identifies choices; values shape which choice is pursued.\n\n\n\nSource: Chapter 1, §§1.2–1.2.1.\n\n\nTime: 2 minutes. Use the two columns as the handoff. First, ecological evidence identifies the condition and likely effects of options. Then ask: “Once we know that, what tells us which option to pursue?” The next slide names the answer: values shape the outcomes and actions people support."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#management-is-an-expression-of-human-values-and-actions",
+    "href": "slides/02-people-habitats-species.html#management-is-an-expression-of-human-values-and-actions",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Management is an expression of human values and actions",
+    "text": "Management is an expression of human values and actions\nManagement and conservation are value-laden enterprises.\n\n\nA value is a belief that an action—or the end state it produces—is desirable.\nValues shape the outcomes people prefer for fish, wildlife, and habitats.\nValues also shape the actions and policies people support to reach those outcomes.\nBecause values differ, management choices can create conflict and tradeoffs.\n\n\n\nSource: Chapter 1, §1.2.1, “Human Values Are Fish and Wildlife Management.”\n\n\nTime: 3 minutes. Use the chapter’s sequence: What end state is preferred for a species—protection, conservation, or hunting—and which actions are thought to lead there? Do not collapse the chapter’s distinctions among instrumental/intrinsic, anthropocentric/biological, or utilitarian/mutualistic values; flag them as later vocabulary."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#decisions-are-nested-within-people-habitats-and-species",
+    "href": "slides/02-people-habitats-species.html#decisions-are-nested-within-people-habitats-and-species",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Decisions are nested within people, habitats, and species",
+    "text": "Decisions are nested within people, habitats, and species\n\n\nSource: Chapter 1, Figure 1.1 and §1.2.1.\n\n\nTime: 3 minutes. The published chapter caption calls this the three-legged-stool model; use the figure as a visible synthesis. Habitats and species draw heavily on biological and ecological sciences; the people dimension draws on social science, governance, and engagement. A stable decision integrates all three."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#people-and-natural-resources-affect-each-other",
+    "href": "slides/02-people-habitats-species.html#people-and-natural-resources-affect-each-other",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "People and Natural Resources Affect Each Other",
+    "text": "People and Natural Resources Affect Each Other\nHuman dimensions concerns the human actions, social processes, and social-ecological relationships that shape management.\n\nPeople affect fish, wildlife, and habitats through development, agriculture, harvest, recreation, and extraction.\nFish, wildlife, and habitats affect people through subsistence, livelihoods, meanings, places, and other benefits.\nThose relationships shape management decisions.\n\n\nSource: Chapter 1, §1.3.\n\n\nTime: 2 minutes. Emphasize reciprocity. HD is not a late-stage communication task after a biological decision is made; it describes relationships that are already shaping the system and the decision."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#human-dimensions-broadens-the-questions-we-ask",
+    "href": "slides/02-people-habitats-species.html#human-dimensions-broadens-the-questions-we-ask",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Human dimensions broadens the questions we ask",
+    "text": "Human dimensions broadens the questions we ask\nFor a deer season structure, biological analysis might ask:\n\nHow will the population change?\nWhat harvest level is sustainable?\nAre population goals being met?\n\nA human dimensions orientation also asks:\n\nHow will hunters respond to the season structure?\nHow might it affect satisfaction, crowding, access, safety, or local economies?\nWho is affected, and what values may be in conflict?\nWhat evidence and public participation are needed?\n\n\nSource: Chapter 1, §1.3.\n\n\nTime: 3 minutes. This is the chapter’s deer-season example. Explain that human and biological evidence together improve the chances of decisions that can be implemented and publicly supported; neither is a substitute for the other."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#two-complementary-ways-of-working",
+    "href": "slides/02-people-habitats-species.html#two-complementary-ways-of-working",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Two complementary ways of working",
+    "text": "Two complementary ways of working\n\n\nSource: Chapter 1, Figure 1.2 and §1.3.\n\n\nTime: 3 minutes. Keep the two columns distinct. Research investigates; participation includes publics and beneficiaries in governance, planning, and decisions. Professional judgment and lived experience remain part of the broader HD practice described in the text."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#research-asks-systematic-questions-about-people",
+    "href": "slides/02-people-habitats-species.html#research-asks-systematic-questions-about-people",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Research asks systematic questions about people",
+    "text": "Research asks systematic questions about people\n\nThe social sciences provide principles, theories, methods, standards, and criteria for rigor.\nThey help professionals describe and explain human values, attitudes, behaviors, institutions, causes, and outcomes—and critically examine assumptions and biases.\n\n \n\n“Social science” is not one expertise. Psychology, sociology, anthropology, economics, law, policy science, political ecology, and environmental humanities bring different tools.\n\n\nSource: Chapter 1, §1.3.1 and Table 1.1.\n\n\nTime: 2 minutes. Use the chapter’s analogy: an entomologist and mammalogist are not interchangeable, nor are a sociologist and political scientist. This is why transdisciplinary work needs specific expertise rather than a generic “social science” box."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#participation-has-two-related-forms",
+    "href": "slides/02-people-habitats-species.html#participation-has-two-related-forms",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Participation has two related forms",
+    "text": "Participation has two related forms\n \n\n\n\n\n\n\n\n\n\n\nPublic involvement\nEngagement\n\n\n\n\nFormal and legally required within a planning or decision process\nContinual interaction and dialogue with publics\n\n\nIncludes notice, opportunity to participate, and a record of decision\nEmphasizes shared learning, relationship-building, and trust\n\n\nExample: notice-and-comment rulemaking\nExample: an advisory group, community event, extension, or outreach\n\n\n\n\n\n\nSource: Chapter 1, §1.3.2.\n\n\nTime: 3 minutes. This is an important nuance. Do not imply that engagement is legally optional and therefore unimportant; the chapter presents it as a sustained practice that can make management more effective and trustworthy."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#collaboration-is-more-than-assembling-experts",
+    "href": "slides/02-people-habitats-species.html#collaboration-is-more-than-assembling-experts",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Collaboration is more than assembling experts",
+    "text": "Collaboration is more than assembling experts\nTransdisciplinary work goes beyond assembling academic expertise: it includes non-academic partners in defining the problem and producing useful knowledge.\n\n\n\nSource: Chapter 1, §1.3.3.\n\n\nTime: 2 minutes. Read the diagram left to right. The key distinction is that transdisciplinary work does not merely integrate academic fields; non-academic partners jointly orient the problem and produce knowledge. Connect this to questions such as predator management, anadromous fish conservation, Tribal sovereignty and treaty rights, and access disputes, where the chapter says participation, deliberation, trust, lived experience, and Indigenous knowledge may all matter."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#collaboration-requires-understanding-different-perspectives",
+    "href": "slides/02-people-habitats-species.html#collaboration-requires-understanding-different-perspectives",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Collaboration requires understanding different perspectives",
+    "text": "Collaboration requires understanding different perspectives\nWorking with publics means recognizing that people may understand the same problem very differently.\nTheir perspectives are shaped by:\n\nvalues, beliefs, and attitudes\nnorms and direct experiences\nrisk perceptions and satisfaction\npolitical, historical, and cultural context\n\nHuman dimensions helps make these differences visible and asks:\n\nWill different publics experience the decision as fair, legitimate, and acceptable?\n\n\nSource: Chapter 1, §1.4.1.\n\n\nTime: 2 minutes. Explain that systematic research, principled participation, and multiple knowledge systems help professionals align ecological goals with social realities. This is not a promise that all publics will agree."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#different-perspectives-can-create-conflictand-exclusion",
+    "href": "slides/02-people-habitats-species.html#different-perspectives-can-create-conflictand-exclusion",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Different perspectives can create conflict—and exclusion",
+    "text": "Different perspectives can create conflict—and exclusion\n\n\n\nHuman–wildlife interactions are rarely solved by technical fixes alone.\nLasting responses may require:\n\ndialogue among people with different interests and values;\ntrust in agencies, processes, and other participants; and\nmeaningful participation by affected publics.\n\n\n\n\nHuman dimensions also asks:\nWho gets to participate—and who bears the costs of conservation decisions?\n\n\n\nInstructional content: Chapter 1, §§1.4.2–1.4.3. Illustrative image: Emmanuel Munoz / Unsplash.\n\n\nTime: 2 minutes. Use chapter examples sparingly: elk and agricultural losses, mountain lions and livestock, urban raccoons and property damage. Then make explicit that the chapter identifies Indigenous peoples, racial and ethnic minorities, economically disadvantaged groups, and some rural populations as facing barriers to participation or disproportionate burdens. Indigenous leadership, traditional knowledge, community-led restoration, mentorship, and removing financial or logistical barriers can strengthen both justice and conservation relevance."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#management-decisions-happen-in-the-real-world",
+    "href": "slides/02-people-habitats-species.html#management-decisions-happen-in-the-real-world",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Management decisions happen in the real world",
+    "text": "Management decisions happen in the real world\n\nNatural resource professionals work within changing social, political, economic, and environmental conditions.\nThat means navigating:\n\npolitics and resources — political influence, budgets, development, and competing uses;\ntrust and communication — misinformation, public trust, and shared responsibility;\ntechnology — new opportunities for research and access, alongside ethical and equity concerns; and\nlarge-scale change — climate change and urbanization that require engagement, incentives, and collaboration.\n\n\n\nGood science is necessary—but it does not determine what is feasible, acceptable, or durable.\n\n\nSource: Chapter 1, §§1.4.4–1.4.7.\n\n\nTime: 2 minutes. This is the chapter’s final practice arc, not a miscellaneous list. Link economics to policy impacts and nonmarket values; policy analysis to power and institutional structures; digital engagement to both access and digital exclusion; and climate adaptation to implementation with governments, communities, and conservation organizations."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#practice-reframe-chesapeake-bay-restoration",
+    "href": "slides/02-people-habitats-species.html#practice-reframe-chesapeake-bay-restoration",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Practice: reframe Chesapeake Bay restoration",
+    "text": "Practice: reframe Chesapeake Bay restoration\nIn groups, use only the Chapter 1 account of the Bay. Prepare a 60-second explanation that answers:\n\nWhat is the ecological condition or management concern?\nWhose values, actions, or responsibilities make this a human-dimensions problem?\nWhat is one research need and one participation need before a durable decision?\n\n\nSource: Chapter 1, §§1.2–1.3.3.\n\n\nTime: 7 minutes. Give groups 3 minutes to prepare, hear two 60-second responses, then use 2 minutes to compare their research and participation choices. This prepares students for Friday’s first graded application."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#effective-management-has-a-wider-standard",
+    "href": "slides/02-people-habitats-species.html#effective-management-has-a-wider-standard",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Effective management has a wider standard",
+    "text": "Effective management has a wider standard\nEffective management and conservation must be:\n\nbiologically sound;\nsocially informed;\npublicly defensible;\nethically grounded; and\npractical to implement on the ground.\n\n\nSource: Chapter 1, §1.5.\n\n\nTime: 2 minutes. Return to the opening question. Human dimensions is woven into daily work—from defining a problem to implementing a decision—not a separate final step."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#from-wednesday-to-friday",
+    "href": "slides/02-people-habitats-species.html#from-wednesday-to-friday",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "From Wednesday to Friday",
+    "text": "From Wednesday to Friday\nFor Friday’s graded Chesapeake Bay application:\n\nmake people, habitats, and species visible;\nidentify two affected publics and a tradeoff; and\ndistinguish evidence needed from participation needed.\n\nThe Week 1 reading quiz is due Sunday, August 30, at 11:59 p.m., before Week 02 Monday class.\n\nSource: Chapter 1, §§1.2–1.3.3; Week 1 Canvas module.\n\n\nTime: 1 minute. Connect the week’s sequence to the Canvas page. Do not add case facts beyond Chapter 1."
+  },
+  {
+    "objectID": "slides/02-people-habitats-species.html#exit-check",
+    "href": "slides/02-people-habitats-species.html#exit-check",
+    "title": "NRES 315: People, Habitats, and Species",
+    "section": "Exit check",
+    "text": "Exit check\nComplete both statements:\n\nBiological evidence cannot by itself decide ______.\nA human-dimensions problem orientation changes a decision by asking ______.\n\n\nSource: Chapter 1, §§1.2.1, 1.3, and 1.5.\n\n\nTime: 1 minute. Use a written or verbal response. Listen for values/tradeoffs/affected publics/participation and the reciprocal connection among people, habitats, and species."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#todays-question",
+    "href": "slides/04-public-trust.html#todays-question",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "Today’s question",
+    "text": "Today’s question\nWhat does it mean to manage fish and wildlife as a public trust?\n\nSource: Chapter 3, §3.1–3.2.\n\n\nTime: 3 minutes. Retrieve the Week 2 Monday question: How does history shape present management?"
+  },
+  {
+    "objectID": "slides/04-public-trust.html#what-you-should-be-able-to-do",
+    "href": "slides/04-public-trust.html#what-you-should-be-able-to-do",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "What you should be able to do",
+    "text": "What you should be able to do\nBy the end of today, you should be able to:\n\ndistinguish public trust thinking from the public trust doctrine;\nidentify assets, beneficiaries, trustees, and trust managers in a management problem; and\nexplain why accountability to current and future publics matters for a defensible decision.\n\n\nSource: Chapter 3, §§3.1–3.4.\n\n\nTime: 2 minutes. Preview that the Friday case asks students to use these terms, not only recognize them."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#a-public-responsibility",
+    "href": "slides/04-public-trust.html#a-public-responsibility",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "A public responsibility",
+    "text": "A public responsibility\nFish and wildlife management asks not only what works, but for whom it must work.\n\nTime: 1 minute. Use this as a bridge from Monday’s historical inheritance to Chapter 3’s present responsibility."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#the-public-trust-starting-point",
+    "href": "slides/04-public-trust.html#the-public-trust-starting-point",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "The public-trust starting point",
+    "text": "The public-trust starting point\nFree-ranging fish and wildlife are generally treated as public resources rather than objects of private ownership.\n\nPublic trust thinking asks managers to steward these resources for current and future publics.\n\n\nSource: Chapter 3, §3.2.\n\n\nTime: 5 minutes. Explain that this is a philosophical and practical framework, not merely a slogan."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#core-public-trust-questions",
+    "href": "slides/04-public-trust.html#core-public-trust-questions",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "Core public-trust questions",
+    "text": "Core public-trust questions\n\nWhat are the trust assets?\nWho are the beneficiaries?\nWho acts as trustee, trust manager, or trust administrator?\nHow are current and future generations considered?\nHow can beneficiaries hold administrators accountable?\n\n\nSource: Chapter 3, §3.1–3.3.\n\n\nTime: 7 minutes. Use the chapter’s terminology precisely. Students will use these terms Friday."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#a-trust-has-connected-roles",
+    "href": "slides/04-public-trust.html#a-trust-has-connected-roles",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "A trust has connected roles",
+    "text": "A trust has connected roles\n\n\nAssets\nFish and wildlife within a government’s jurisdiction.\n\nBeneficiaries\nCurrent and future publics with legitimate interests in how assets are managed.\n\nTrust administrators\nTrustees make public decisions; trust managers carry out daily professional work.\n\n\nThe public-trust question is relational: who is responsible to whom, for what, and across what time horizon?\n\n\nSource: Chapter 3, §§3.3.1–3.3.3.\n\n\nTime: 5 minutes. Clarify that beneficiaries are broader than the loudest or most direct users. Trustees are elected or appointed officials with decision authority; trust managers are professional civil servants responsible for implementation and communication."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#intergenerational-equity",
+    "href": "slides/04-public-trust.html#intergenerational-equity",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "Intergenerational equity",
+    "text": "Intergenerational equity\nPresent generations have responsibilities to steward resources so that current choices do not foreclose important future options.\n\nSource: Chapter 3, §3.2.\n\n\nTime: 5 minutes. Ask students what makes this more demanding than simply serving current users. Do not introduce extra examples."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#accountability-is-part-of-stewardship",
+    "href": "slides/04-public-trust.html#accountability-is-part-of-stewardship",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "Accountability is part of stewardship",
+    "text": "Accountability is part of stewardship\n\nTrust administrators need to explain what information they considered, how public input was used, and why a decision was made.\n\n\nTransparency does not guarantee agreement.\n\n\nIt gives beneficiaries a basis to understand and evaluate whether administrators are serving the public interest.\n\n\nSource: Chapter 3, §3.4.\n\n\nTime: 4 minutes. Distinguish accountability from unanimity. This is the bridge from the framework to human-dimensions research and participation."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#public-trust-thinking-and-doctrine",
+    "href": "slides/04-public-trust.html#public-trust-thinking-and-doctrine",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "Public trust thinking and doctrine",
+    "text": "Public trust thinking and doctrine\n\nPublic trust thinking guides law, policy, and practice; the doctrine is one legal expression of that responsibility.\n\nSource: Chapter 3, §3.2–3.3.\n\n\nTime: 6 minutes. Use the figure’s alt text as the text equivalent. Ask students to make the distinction in their own words before revealing the final sentence."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#from-framework-to-case",
+    "href": "slides/04-public-trust.html#from-framework-to-case",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "From framework to case",
+    "text": "From framework to case\nThe Montana stream-access conflict asks how public responsibility works when water and private property interests meet.\n\nTime: 1 minute. Tell students that the case does not ask them to settle a general property-law debate; it asks them to use the chapter’s account accurately."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#friday-application-montana-stream-access",
+    "href": "slides/04-public-trust.html#friday-application-montana-stream-access",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "Friday application: Montana stream access",
+    "text": "Friday application: Montana stream access\nChapter 3’s application asks whether public use of water can be protected when adjacent landowners claim control of a riverbed or bank.\n\nDearborn River and Beaverhead River conflicts\nCurran and Hildreth\nnavigability for title versus navigability for use\nMontana Stream Access Law\n\n\nSource: Chapter 3, §3.5.1.\n\n\nTime: 8 minutes. This is a concise case preview. Students should reread §3.5.1 before Friday; do not use facts beyond it."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#case-preparation-pair-work",
+    "href": "slides/04-public-trust.html#case-preparation-pair-work",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "Case-preparation pair work",
+    "text": "Case-preparation pair work\nWith a partner, prepare four labels for Friday:\n\nasset;\nbeneficiaries;\nauthority and accountability; and\nthe boundary on public access recognized in the chapter.\n\n\nTime: 10 minutes. Require students to locate support in §3.5.1, then cold-call two pairs for one label each."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#practice-the-distinction-before-friday",
+    "href": "slides/04-public-trust.html#practice-the-distinction-before-friday",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "Practice the distinction before Friday",
+    "text": "Practice the distinction before Friday\nComplete this sentence with a partner:\n\nNavigability for title asks ______; navigability for use asks ______.\n\nThen add: why did that distinction matter for public access in the chapter’s Montana example?\n\nSource: Chapter 3, §3.5.1.\n\n\nTime: 4 minutes. Give pairs one minute to formulate the distinction, then have two pairs share. The expected contrast is ownership of land beneath water versus whether the public may use water for recreation. Do not ask students to supply facts beyond the chapter."
+  },
+  {
+    "objectID": "slides/04-public-trust.html#close-a-defensible-public-trust-answer",
+    "href": "slides/04-public-trust.html#close-a-defensible-public-trust-answer",
+    "title": "Public Trust: For Whom and For What?",
+    "section": "Close: a defensible public-trust answer",
+    "text": "Close: a defensible public-trust answer\nA defensible answer does more than name a law. It explains how assets, beneficiaries, authority, and accountability relate to an actual management conflict.\n\nSource: Chapter 3, §3.5.\n\n\nTime: 4 minutes. Remind students: the next reading quiz is due Sunday at 11:59 p.m. before Monday’s class; Friday uses the chapter-grounded application."
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#building-from-week-3",
+    "href": "slides/06-evidence-planning.html#building-from-week-3",
+    "title": "Evidence, Framing, and Planning",
+    "section": "Building from Week 3",
+    "text": "Building from Week 3\nLast week: Legitimate conservation decisions require attention to justice, participation, and governance.\nThis week: How do managers use evidence to plan, act, and learn?\n\nTime: 3 minutes. Source: Chapter 6, §§6.1–6.2. Retrieve the prior connection: authority and participation shape which problems are recognized and whose evidence counts.\n\n\nSource: Chapter 6, §§6.1–6.2"
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#the-central-question",
+    "href": "slides/06-evidence-planning.html#the-central-question",
+    "title": "Evidence, Framing, and Planning",
+    "section": "The central question",
+    "text": "The central question\n\nHow does a human-dimensions orientation improve an evidence-based management decision?\n\n\nIt broadens both the evidence managers use and the outcomes they seek.\n\n\nTime: 3 minutes. Source: Chapter 6, §§6.1–6.2. Ask students to listen for two threads today: evidence and problem framing.\n\n\nSource: Chapter 6, §§6.1–6.2"
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#evidence-and-framing",
+    "href": "slides/06-evidence-planning.html#evidence-and-framing",
+    "title": "Evidence, Framing, and Planning",
+    "section": "Evidence and framing",
+    "text": "Evidence and framing\nFrom a management question to a defensible plan.\n\nTime: 1 minute. Transition slide."
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#a-decision-needs-more-than-biological-evidence",
+    "href": "slides/06-evidence-planning.html#a-decision-needs-more-than-biological-evidence",
+    "title": "Evidence, Framing, and Planning",
+    "section": "A decision needs more than biological evidence",
+    "text": "A decision needs more than biological evidence\n\n\nWhat is happening?\n\nBiological or ecological conditions\nTechnical feasibility\nLegal mandates\n\n\nWhat should be done?\n\nEconomic feasibility\nSocial values\nPublic knowledge and experience\n\n\n\nKey point: These evidence sources complement one another; none resolves every management question alone.\n\n\nTime: 6 minutes. Source: Chapter 6, §6.2.1. Emphasize balance rather than a hierarchy of evidence.\n\n\nSource: Chapter 6, §6.2.1"
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#four-questions-organize-a-decision",
+    "href": "slides/06-evidence-planning.html#four-questions-organize-a-decision",
+    "title": "Evidence, Framing, and Planning",
+    "section": "Four questions organize a decision",
+    "text": "Four questions organize a decision\n\n\nWhy?\nWhy manage or conserve this resource?\nWho?\nWhich publics, beneficiaries, and partners are involved?\n\nWhat?\nWhat impacts or outcomes are desired?\nHow?\nHow will the decision be made, carried out, and assessed?\n\n\nTime: 6 minutes. Source: Chapter 6, §6.2. Ask students which question is easiest to overlook when a decision is framed only as a biological problem.\n\n\nSource: Chapter 6, §6.2"
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#research-and-participation-have-different-jobs",
+    "href": "slides/06-evidence-planning.html#research-and-participation-have-different-jobs",
+    "title": "Evidence, Framing, and Planning",
+    "section": "Research and participation have different jobs",
+    "text": "Research and participation have different jobs\nResearch can describe conditions, relationships, and likely consequences.\nParticipation can reveal values, concerns, local knowledge, and acceptable tradeoffs.\n\n\nMeaningful participation is more than a legal requirement. It needs a structured process, capable staff, and genuine integration of input.\n\n\n\nTime: 5 minutes. Source: Chapter 6, §6.2.1. Connect to Grand Staircase–Escalante: participation affects both information and legitimacy.\n\n\nSource: Chapter 6, §6.2.1"
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#plandolearn-is-iterative",
+    "href": "slides/06-evidence-planning.html#plandolearn-is-iterative",
+    "title": "Evidence, Framing, and Planning",
+    "section": "Plan–Do–Learn is iterative",
+    "text": "Plan–Do–Learn is iterative\n\n\nLearning can revise the action, the objectives, or even the original problem frame.\n\n\nTime: 6 minutes. Source: Chapter 6, §6.3 and Figure 6.1. Explain the image in words before discussing it. The alt text provides the text equivalent.\n\n\nSource: Chapter 6, §6.3 and Figure 6.1"
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#planning-turns-a-broad-concern-into-a-choice",
+    "href": "slides/06-evidence-planning.html#planning-turns-a-broad-concern-into-a-choice",
+    "title": "Evidence, Framing, and Planning",
+    "section": "Planning turns a broad concern into a choice",
+    "text": "Planning turns a broad concern into a choice\nClear framing, objectives, alternatives, and measures.\n\nTime: 1 minute. Transition slide."
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#problem-framing-shapes-the-whole-cycle",
+    "href": "slides/06-evidence-planning.html#problem-framing-shapes-the-whole-cycle",
+    "title": "Evidence, Framing, and Planning",
+    "section": "Problem framing shapes the whole cycle",
+    "text": "Problem framing shapes the whole cycle\nHow a problem is framed influences:\n\nwho is involved;\nwhat evidence is gathered;\nwhich alternatives are considered; and\nhow success is measured.\n\n\nDifferent frames can produce different, defensible management choices.\n\n\nTime: 5 minutes. Source: Chapter 6, §§6.3–6.4. Have students apply why/who/what/how to the Puget Sound effort as a low-stakes preview.\n\n\nSource: Chapter 6, §§6.3–6.4"
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#objectives-actions-and-measures-are-not-interchangeable",
+    "href": "slides/06-evidence-planning.html#objectives-actions-and-measures-are-not-interchangeable",
+    "title": "Evidence, Framing, and Planning",
+    "section": "Objectives, actions, and measures are not interchangeable",
+    "text": "Objectives, actions, and measures are not interchangeable\n\n\nObjective\nThe desired change.\nExample: Improve access.\n\nAction\nWhat managers do.\nExample: Restore a boat ramp.\n\nMeasure\nEvidence of change.\nExample: Reported ability to access the site.\n\n\nSMART objectives are specific, measurable, achievable, relevant, and time-bound.\n\n\nTime: 7 minutes. Source: Chapter 6, §§6.3.2–6.3.2.2. Use the example only to distinguish the three terms; do not treat it as a Chapter 6 case claim.\n\n\nSource: Chapter 6, §§6.3.2–6.3.2.2"
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#preparing-for-friday-puget-sound",
+    "href": "slides/06-evidence-planning.html#preparing-for-friday-puget-sound",
+    "title": "Evidence, Framing, and Planning",
+    "section": "Preparing for Friday: Puget Sound",
+    "text": "Preparing for Friday: Puget Sound\nThe chapter’s Puget Sound example follows a long-term recovery effort that considers ecological conditions and human well-being.\n\nCome Friday ready to identify:\n\nthe why, who, what, and how;\none kind of evidence that matters; and\none outcome worth monitoring.\n\n\n\nTime: 4 minutes. Source: Chapter 6, Box 6.2. Preview only; Wednesday will develop implementation, monitoring, and the Human Well-being Vital Signs.\n\n\nSource: Chapter 6, Box 6.2"
+  },
+  {
+    "objectID": "slides/06-evidence-planning.html#exit-check",
+    "href": "slides/06-evidence-planning.html#exit-check",
+    "title": "Evidence, Framing, and Planning",
+    "section": "Exit check",
+    "text": "Exit check\nAn agency relies only on biological information to choose an action.\nWhich of the four decision questions is most likely to be weakened—and why?\n\nTime: 3 minutes. Source: Chapter 6, §6.2. Collect a short written response or pair-share. Close by previewing the Plan–Do–Learn cycle for Wednesday.\n\n\nSource: Chapter 6, §6.2"
   }
 ]
