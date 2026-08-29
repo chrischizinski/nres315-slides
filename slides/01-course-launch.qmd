@@ -1,0 +1,161 @@
+---
+title: "NRES 315: Course Launch"
+subtitle: "Fall 2026<br>Week 01"
+author: "Human Dimensions of Fish and Wildlife Management"
+date: "Last updated: August 24, 2026"
+title-slide-attributes:
+  data-background-image: "../assets/images/tropic-alize-SrxxQ9UzjGs-unsplash.jpg"
+  data-background-size: fill
+  data-background-opacity: "0.85"
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## Welcome to NRES 315
+
+This course examines the human actions, social processes, and social-ecological relationships that shape fish and wildlife management.
+
+Today is a brief launch. Wednesday is our full Chapter 1 session.
+
+::: {.source-note}
+Course framing: Chapter 1, §1.3. Schedule: course syllabus.
+:::
+
+::: notes
+Time: 2 minutes. Welcome students and establish that today is an orientation, not an abbreviated version of Wednesday's lecture.
+:::
+
+## The recurring course question
+
+Fish and wildlife management decisions involve people, habitats, and species.
+
+Across the semester, we will ask:
+
+> What decision is being made, what evidence matters, who is affected, and which tradeoffs must be addressed?
+
+::: {.source-note}
+Chapter 1 framing: §§1.2.1–1.3.
+:::
+
+::: notes
+Time: 3 minutes. This is the course's recurring reasoning routine. Do not unpack the terms fully yet; Wednesday's Chapter 1 lecture will do that.
+:::
+
+## How our weeks work
+
+```{r}
+#| echo: false
+#| output: asis
+
+data.frame(
+  Monday = c(
+    "Frame the chapter and management question",
+    "Complete reading preparation"
+  ),
+  Wednesday = c(
+    "Lecture, concept check, and case preparation",
+    "Bring one claim and one question"
+  ),
+  Friday = c(
+    "Rotating small-group application",
+    "Submit one shared response and a private Friday Group Check"
+  ),
+  check.names = FALSE
+) |>
+  gt::gt() |>
+  gt::cols_width(gt::everything() ~ gt::pct(33.33)) |>
+  gt::tab_options(
+    table.width = gt::pct(100),
+    table.font.names = c("Lato", "sans-serif"),
+    table.font.size = gt::px(24),
+    column_labels.font.size = gt::px(26),
+    column_labels.font.weight = "bold",
+    column_labels.background.color = "#e0ebe0",
+    column_labels.border.top.style = "solid",
+    column_labels.border.top.color = "#2f6b57",
+    column_labels.border.top.width = gt::px(4),
+    data_row.padding = gt::px(12),
+    table_body.hlines.style = "solid",
+    table_body.hlines.color = "#c1d2c5",
+    table_body.vlines.style = "none",
+    table.border.top.style = "none",
+    table.border.bottom.style = "none",
+    table.border.left.style = "none",
+    table.border.right.style = "none"
+  )
+```
+
+::: {.source-note}
+Source: course syllabus, “Weekly rhythm.”
+:::
+
+::: notes
+Time: 4 minutes. Explain that the weekly pattern is predictable. In Week 1, Monday is shorter and Wednesday carries the chapter framing. Friday is the first graded application; from Week 2 onward, groups rotate weekly.
+:::
+
+## How the course is assessed
+
+- **Reading quizzes — 25%:** short, individual preparation checks; the lowest one score is dropped.
+- **Weekly group applications — 75%:** fifteen in-class applications; the lowest one score is dropped.
+- Each application score is **80% shared reasoning** and **20% individual contribution accountability**.
+
+::: {.source-note}
+Source: course syllabus, “Assessment and grading.”
+:::
+
+::: notes
+Time: 3 minutes. Emphasize the point of the structure: prepare individually, reason with others in class, and show meaningful contribution. Mention that there are no unit exams or cumulative final exam.
+:::
+
+## Your Week 1 checklist
+
+1. Find the Week 1 module in Canvas.
+2. Read Chapter 1.
+3. Complete the individual quiz by Sunday, August 30, at 11:59 p.m., before Week 02 Monday class.
+4. Come Wednesday ready to discuss one management question from the chapter.
+5. Come Friday ready for the first graded Chesapeake Bay application.
+
+::: {.source-note}
+Source: Week 1 Canvas module and Chapter 1.
+:::
+
+::: notes
+Time: 4 minutes. Direct students to the blank Canvas course's Week 1 module once published. Be explicit that the Friday exercise uses the shared-response and private Friday Group Check routines; it is graded.
+:::
+
+## A question to carry into Wednesday
+
+Chapter 1 argues that biology and ecology are essential—but cannot independently determine:
+
+- which goals should be pursued;
+- which tradeoffs are acceptable; or
+- who should participate.
+
+Write down one fish or wildlife decision for which you think one of those questions would matter.
+
+::: {.source-note}
+Source: Chapter 1, §§1.2–1.2.1.
+:::
+
+::: notes
+Time: 3 minutes. Give one quiet minute to write, then invite two short examples. Do not answer or evaluate them in depth; collect the question and use it as the bridge to Wednesday.
+:::
+
+## Wednesday begins Chapter 1 in full
+
+Bring your Chapter 1 question back on Wednesday.
+
+We will work through values and actions, people–habitats–species, research and participation, and the everyday work of human dimensions.
+
+::: {.source-note}
+Source: Chapter 1, §§1.2–1.5.
+:::
+
+::: notes
+Time: 1 minute. Close clearly: read Chapter 1, complete the quiz by Sunday night, and return Wednesday ready to use the chapter's full argument.
+:::

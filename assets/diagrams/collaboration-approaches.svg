@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title description">
+  <title id="title">Three approaches to collaboration</title>
+  <desc id="description">Three panels compare multidisciplinary, interdisciplinary, and transdisciplinary collaboration. Multidisciplinary work shows separate disciplinary circles working alongside one another. Interdisciplinary work shows overlapping circles integrating concepts and methods. Transdisciplinary work shows overlapping circles that include scientific disciplines, resource professionals, and community partners who jointly define a problem and co-produce knowledge.</desc>
+  <rect width="1600" height="760" fill="#fcfbf7"/>
+  <g font-family="Lato, Arial, sans-serif" fill="#1e2d36">
+    <g transform="translate(35 45)">
+      <rect width="490" height="650" rx="18" fill="#f4f7f2" stroke="#c1d2c5" stroke-width="3"/>
+      <rect width="490" height="88" rx="18" fill="#e0ebe0"/>
+      <text x="245" y="55" text-anchor="middle" font-size="35" font-weight="700">Multidisciplinary</text>
+      <text x="245" y="125" text-anchor="middle" font-size="23">Disciplines work alongside one another</text>
+      <circle cx="150" cy="300" r="94" fill="#d4e7d1" stroke="#2f6b57" stroke-width="4"/>
+      <circle cx="340" cy="300" r="94" fill="#dbeaf0" stroke="#146778" stroke-width="4"/>
+      <circle cx="245" cy="470" r="94" fill="#f1e6c9" stroke="#9a751c" stroke-width="4"/>
+      <text x="150" y="292" text-anchor="middle" font-size="26" font-weight="700">Ecology</text>
+      <text x="150" y="326" text-anchor="middle" font-size="22">and biology</text>
+      <text x="340" y="302" text-anchor="middle" font-size="26" font-weight="700">Social</text>
+      <text x="340" y="336" text-anchor="middle" font-size="22">science</text>
+      <text x="245" y="462" text-anchor="middle" font-size="26" font-weight="700">Policy</text>
+      <text x="245" y="496" text-anchor="middle" font-size="22">and law</text>
+      <text x="245" y="600" text-anchor="middle" font-size="24" font-weight="700">Common problem; separate boundaries</text>
+    </g>
+    <g transform="translate(555 45)">
+      <rect width="490" height="650" rx="18" fill="#f4f7f2" stroke="#c1d2c5" stroke-width="3"/>
+      <rect width="490" height="88" rx="18" fill="#e0ebe0"/>
+      <text x="245" y="55" text-anchor="middle" font-size="35" font-weight="700">Interdisciplinary</text>
+      <text x="245" y="125" text-anchor="middle" font-size="23">Disciplines integrate concepts and methods</text>
+      <circle cx="180" cy="350" r="128" fill="#d4e7d1" fill-opacity=".82" stroke="#2f6b57" stroke-width="4"/>
+      <circle cx="310" cy="350" r="128" fill="#dbeaf0" fill-opacity=".78" stroke="#146778" stroke-width="4"/>
+      <text x="143" y="340" text-anchor="middle" font-size="24" font-weight="700">Ecology</text>
+      <text x="143" y="372" text-anchor="middle" font-size="22">and biology</text>
+      <text x="347" y="340" text-anchor="middle" font-size="24" font-weight="700">Social</text>
+      <text x="347" y="372" text-anchor="middle" font-size="22">science</text>
+      <text x="245" y="343" text-anchor="middle" font-size="22" font-weight="700">Integrated</text>
+      <text x="245" y="373" text-anchor="middle" font-size="22" font-weight="700">approach</text>
+      <text x="245" y="600" text-anchor="middle" font-size="24" font-weight="700">Shared concepts, theories, or methods</text>
+    </g>
+    <g transform="translate(1075 45)">
+      <rect width="490" height="650" rx="18" fill="#f4f7f2" stroke="#c1d2c5" stroke-width="3"/>
+      <rect width="490" height="88" rx="18" fill="#e0ebe0"/>
+      <text x="245" y="55" text-anchor="middle" font-size="35" font-weight="700">Transdisciplinary</text>
+      <text x="245" y="125" text-anchor="middle" font-size="23">Disciplines and partners jointly orient the problem</text>
+      <circle cx="175" cy="305" r="112" fill="#d4e7d1" fill-opacity=".78" stroke="#2f6b57" stroke-width="4"/>
+      <circle cx="315" cy="305" r="112" fill="#dbeaf0" fill-opacity=".78" stroke="#146778" stroke-width="4"/>
+      <circle cx="245" cy="425" r="112" fill="#f1e6c9" fill-opacity=".84" stroke="#9a751c" stroke-width="4"/>
+      <text x="145" y="292" text-anchor="middle" font-size="22" font-weight="700">Scientific</text>
+      <text x="145" y="322" text-anchor="middle" font-size="22" font-weight="700">disciplines</text>
+      <text x="345" y="292" text-anchor="middle" font-size="22" font-weight="700">Resource</text>
+      <text x="345" y="322" text-anchor="middle" font-size="22" font-weight="700">professionals</text>
+      <text x="245" y="424" text-anchor="middle" font-size="22" font-weight="700">Community</text>
+      <text x="245" y="454" text-anchor="middle" font-size="22" font-weight="700">partners</text>
+      <text x="245" y="600" text-anchor="middle" font-size="24" font-weight="700">Co-define problems; co-produce knowledge</text>
+    </g>
+  </g>
+</svg>

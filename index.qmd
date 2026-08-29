@@ -9,6 +9,21 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 
 ## Module 1 — Foundations for human-dimensions decisions
 
-- [Lecture 01 — Introduction to human dimensions](slides/01-introduction.qmd)
+- [Lecture 01 — Course launch](slides/01-course-launch.qmd)
+- [Lecture 02 — People, habitats, and species](slides/02-people-habitats-species.qmd)
+
+## Module 2 — Conservation history and public trust
+
+- [Lecture 03 — Conservation history as living context](slides/03-conservation-history.qmd)
+- [Lecture 04 — Public trust: for whom and for what?](slides/04-public-trust.qmd)
+
+## Module 3 — Justice, participation, and governance
+
+- [Lecture 05 — Justice, participation, and governance](slides/05-justice-governance.qmd)
+
+## Module 4 — Evidence, planning, and learning
+
+- [Lecture 06 — Evidence, framing, and planning](slides/06-evidence-planning.qmd)
+- [Lecture 07 — Implementation, monitoring, and learning](slides/07-implementation-learning.qmd)
 
 New lectures appear here only after they are ready for students.

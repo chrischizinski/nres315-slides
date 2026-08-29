@@ -8,8 +8,9 @@ The website is intentionally small: it is a stable home for lecture slides and s
 
 - `index.qmd` is the student-facing slide directory. Only lectures linked here are advertised to students.
 - `slides/` contains independent Quarto Reveal.js presentations. Use two-digit, lowercase, hyphenated filenames such as `07-habitat-selection.qmd`.
-- `assets/images/`, `assets/figures/`, and `assets/logos/` contain shared public assets. Refer to them from a slide with a relative path, for example `![](../assets/images/mallard-habitat-selection.png)`.
-- `styles/slides.scss` supplies the shared Reveal.js visual defaults.
+- `assets/` contains shared public images, figures, diagrams, and logos. Refer to them from a slide with a relative path, for example `![](../assets/images/mallard-habitat-selection.png)`.
+- `styles/slides.scss` is the shared NRES 315 Reveal.js field-guide stylesheet used by every released deck.
+- `source-footer.lua` supports the Week 4 decks' visible source-footnote workflow.
 - `.github/workflows/publish.yml` renders and publishes the site after each push to `main`.
 
 ## Local workflow
@@ -36,21 +37,11 @@ git push
 
 For a focused change, use a descriptive commit message such as `Update habitat selection lecture` or `Add lecture 08 slides`.
 
-## First GitHub Pages publication
+## GitHub Pages publication
 
-1. Create an empty GitHub repository for this directory, for example `nres315-slides`.
-2. Add the GitHub remote and push the local `main` branch.
-3. In GitHub, go to **Settings → Actions → General**.
-4. Under **Workflow permissions**, select **Read and write permissions**, then save.
-5. From this directory, run:
+This repository has already completed its initial GitHub Pages publication. Subsequent pushes to `main` trigger the **Quarto Publish** GitHub Action automatically.
 
-   ```bash
-   quarto publish gh-pages
-   ```
-
-   This first publish creates the `gh-pages` destination and updates `_publish.yml` with the target record.
-
-6. Subsequent pushes to `main` trigger the **Quarto Publish** GitHub Action automatically.
+For a new course-slide repository, create an empty GitHub repository, push `main`, then enable **Settings → Actions → General → Workflow permissions → Read and write permissions**. Run `quarto publish gh-pages` once to initialize the publishing destination before relying on the Action.
 
 For a repository named `nres315-slides` owned by `USERNAME`, the site URL will be approximately:
 
@@ -61,22 +52,22 @@ https://USERNAME.github.io/nres315-slides/
 The first lecture’s stable Canvas URL will be approximately:
 
 ```text
-https://USERNAME.github.io/nres315-slides/slides/01-introduction.html
+https://USERNAME.github.io/nres315-slides/slides/01-course-launch.html
 ```
 
 Once a lecture is linked from Canvas, keep its filename unchanged. Editing the contents does not change its URL; renaming the file does.
 
 ## Adding a new lecture
 
-Start with the example deck:
+Start with a recently released deck:
 
 ```bash
-cp slides/01-introduction.qmd slides/07-new-topic.qmd
+cp slides/07-implementation-learning.qmd slides/08-new-topic.qmd
 ```
 
 Then:
 
-1. Edit the YAML metadata and replace the example slide content.
+1. Edit the YAML metadata and replace the copied slide content.
 2. Add public images or figures under `assets/` with descriptive filenames.
 3. Include alternative text for instructional images and avoid relying on color alone.
 4. Preview locally with `quarto preview`.
@@ -84,6 +75,8 @@ Then:
 6. Render, commit, and push.
 
 Future lecture files can remain in `slides/` without appearing in the course directory until their links are deliberately added to `index.qmd`.
+
+The released website sources are the files in this repository’s `slides/` directory. If you also retain working copies elsewhere, update them deliberately rather than assuming the copies will synchronize automatically.
 
 ## Accessibility and PDF behavior
 
