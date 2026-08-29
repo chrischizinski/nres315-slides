@@ -1,0 +1,14 @@
+---
+title: "NRES 315"
+subtitle: "Human Dimensions of Fish and Wildlife Management"
+---
+
+Welcome to the lecture slides for **NRES 315: Human Dimensions of Fish and Wildlife Management**.
+
+Canvas remains the course home for assignments, deadlines, grades, announcements, and submissions. This site provides the HTML lecture slides released for the course.
+
+## Module 1 — Foundations for human-dimensions decisions
+
+- [Lecture 01 — Introduction to human dimensions](slides/01-introduction.qmd)
+
+New lectures appear here only after they are ready for students.
