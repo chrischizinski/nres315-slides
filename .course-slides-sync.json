@@ -1,0 +1,29 @@
+{
+  "generated_by": "scripts/sync_course_slides.py",
+  "managed_paths": [
+    "assets/diagrams/collaboration-approaches.svg",
+    "assets/images/c-cai-68t6GDB0CUg-unsplash.jpg",
+    "assets/images/tropic-alize-SrxxQ9UzjGs-unsplash.jpg",
+    "assets/manuscript-figures/figure-1-1-people-habitats-species.png",
+    "assets/manuscript-figures/figure-1-2-research-participation.png",
+    "assets/manuscript-figures/figure-2-1-history-onion.png",
+    "assets/manuscript-figures/figure-3-1-public-trust.png",
+    "assets/manuscript-figures/figure-4-1-knowledge-traditions.png",
+    "assets/manuscript-figures/figure-5-1-governance-structure.png",
+    "assets/manuscript-figures/figure-6-1-plan-do-learn.png",
+    "assets/manuscript-figures/figure-6-2-problem-framing.jpg",
+    "assets/unsplash/ATTRIBUTION.md",
+    "assets/unsplash/chesapeake-bay-steve-adams.jpg",
+    "assets/unsplash/deer-road-emmanuel-munoz.jpg",
+    "index.qmd",
+    "slides/01-course-launch.qmd",
+    "slides/02-people-habitats-species.qmd",
+    "slides/03-conservation-history.qmd",
+    "slides/04-public-trust.qmd",
+    "slides/05-justice-governance.qmd",
+    "slides/06-evidence-planning.qmd",
+    "slides/07-implementation-learning.qmd",
+    "source-footer.lua",
+    "styles/slides.scss"
+  ]
+}

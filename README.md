@@ -1,5 +1,10 @@
 # NRES 315 course slides
 
+> This is a generated public release. The parent NRES 315 course workspace is
+> the only editable source of truth for lectures, shared styling, and released
+> assets. Use `python3 scripts/sync_course_slides.py --publish` from that
+> workspace; do not edit `slides/`, `styles/`, `assets/`, or `index.qmd` here.
+
 This repository hosts the public HTML lecture slides for **NRES 315: Human Dimensions of Fish and Wildlife Management**. Canvas remains the primary learning-management system for course schedules, assignments, quizzes, grades, announcements, deadlines, and submissions.
 
 The website is intentionally small: it is a stable home for lecture slides and selected public resources. Do not add student information, grades, answer keys, private Canvas material, restricted assessments, unpublished sensitive data, or copyrighted material that cannot be publicly redistributed.
@@ -13,29 +18,19 @@ The website is intentionally small: it is a stable home for lecture slides and s
 - `source-footer.lua` supports the Week 4 decks' visible source-footnote workflow.
 - `.github/workflows/publish.yml` renders and publishes the site after each push to `main`.
 
-## Local workflow
+## Publication workflow
 
-Preview during development:
-
-```bash
-quarto preview
-```
-
-Before publishing a substantial change, render the complete site:
+Edit and preview the canonical lecture in the course workspace. When it is
+ready for public release, add it to `course-design/course-slides.toml` and run:
 
 ```bash
-quarto render
+python3 scripts/sync_course_slides.py --publish
 ```
 
-Then commit and push:
-
-```bash
-git add .
-git commit -m "Update lecture slides"
-git push
-```
-
-For a focused change, use a descriptive commit message such as `Update habitat selection lecture` or `Add lecture 08 slides`.
+That command synchronizes the allowlisted public files, verifies a Quarto
+render, commits the generated changes, and pushes them to `main`. The GitHub
+Action then publishes the site. The full workflow is documented in the parent
+course workspace at `docs/course-slides-sync.md`.
 
 ## GitHub Pages publication
 
@@ -59,24 +54,11 @@ Once a lecture is linked from Canvas, keep its filename unchanged. Editing the c
 
 ## Adding a new lecture
 
-Start with a recently released deck:
-
-```bash
-cp slides/07-implementation-learning.qmd slides/08-new-topic.qmd
-```
-
-Then:
-
-1. Edit the YAML metadata and replace the copied slide content.
-2. Add public images or figures under `assets/` with descriptive filenames.
-3. Include alternative text for instructional images and avoid relying on color alone.
-4. Preview locally with `quarto preview`.
-5. Add the lecture link to `index.qmd` only when it is ready for students.
-6. Render, commit, and push.
-
-Future lecture files can remain in `slides/` without appearing in the course directory until their links are deliberately added to `index.qmd`.
-
-The released website sources are the files in this repository’s `slides/` directory. If you also retain working copies elsewhere, update them deliberately rather than assuming the copies will synchronize automatically.
+Create and develop the lecture under `lectures/` in the course workspace. When
+it is ready, add one entry to the appropriate module in
+`course-design/course-slides.toml`, choose a permanent two-digit destination
+filename, and run the publication command above. Future course lectures remain
+private until they are explicitly listed in that manifest.
 
 ## Accessibility and PDF behavior
 
