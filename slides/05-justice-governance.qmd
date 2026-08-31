@@ -73,6 +73,22 @@ Source: Chapter 4, §4.2.
 Time: 6 minutes. Do not reduce DEIJ to representation alone. Ask students what each bullet means in a decision context.
 :::
 
+## Why DEIJ matters to the profession
+
+Chapter 4 connects DEIJ to three practical concerns:
+
+- **capacity:** who enters, stays, and leads in the profession;
+- **representation:** whether the profession reflects the publics it serves; and
+- **relevancy:** whether conservation institutions can respond to changing communities, values, and relationships with nature.
+
+::: {.source-note}
+Source: Chapter 4, §§4.3.1–4.3.3.
+:::
+
+::: notes
+Time: 3 minutes. Avoid treating these as recruitment-only questions. The chapter connects professional composition and institutional culture to the ability to recognize problems, build relationships, and act effectively.
+:::
+
 ## Four related terms
 
 - **Diversity:** varying attributes within a community.
@@ -115,6 +131,23 @@ Source: Chapter 4, §§4.2–4.3.
 Time: 4 minutes. Ask: “What would make an invitation insufficient?” Listen for access barriers, token participation, recognition, and a lack of meaningful influence. Do not require personal disclosure.
 :::
 
+## Participation has to be designed, not announced
+
+Meaningful participation requires more than an open meeting.
+
+- Identify affected publics and barriers to access.
+- Engage early enough for input to shape the problem and alternatives.
+- Explain the scope of influence and how input was used.
+- Build collaboration and accountability into the continuing relationship.
+
+::: {.source-note}
+Source: Chapter 4, §4.4.2.
+:::
+
+::: notes
+Time: 3 minutes. This provides a concrete bridge from terms to process. Be clear that meaningful participation does not mean every participant receives the outcome they prefer.
+:::
+
 ## Governance makes process consequential {background-color="#2f6b57" .section-slide}
 
 Rules, institutions, and power determine who can decide, implement, enforce, and participate.
@@ -141,6 +174,27 @@ Source: Chapter 5, §5.2.
 
 ::: notes
 Time: 6 minutes. Use the figure's alt text as the text equivalent. Emphasize that this Idaho figure is an example, not a universal structure; governance determines what actions are allowed, expected, and feasible.
+:::
+
+## Governance rests on competing but connected principles
+
+Chapter 5 identifies foundations that can pull a decision in different directions:
+
+- deliberative democracy;
+- public trust thinking;
+- sustainable use; and
+- the precautionary principle.
+
+::: {.key-idea}
+Governance is not only a chart of authority. It is also the principles used to justify how authority is exercised.
+:::
+
+::: {.source-note}
+Source: Chapter 5, §§5.3.1–5.3.1.4.
+:::
+
+::: notes
+Time: 3 minutes. Invite students to notice potential tensions: a decision can seek participation, public benefit, sustainable use, and caution under uncertainty at the same time.
 :::
 
 ## Governance asks four practical questions
@@ -170,6 +224,22 @@ Source: Chapter 5, §5.3.2–5.3.3.
 Time: 6 minutes. Ask students to identify which of these qualities would be hardest to assess and why.
 :::
 
+## Funding is also a governance mechanism
+
+Funding shapes what agencies can do, who they answer to, and which conservation work is feasible.
+
+- Federal excise-tax programs support state fish and wildlife work.
+- State, Tribal, Canadian, nongovernmental, and mitigation sources create additional pathways.
+- Diverse revenue can expand capacity, while each source can also bring constraints and expectations.
+
+::: {.source-note}
+Source: Chapter 5, §5.6.
+:::
+
+::: notes
+Time: 3 minutes. Link this back to Chapter 2's funding legacy. The point is not that one source is inherently good or bad; it is that funding is part of governance and affects capacity and accountability.
+:::
+
 ## Working across knowledge traditions
 
 ![](../assets/manuscript-figures/figure-4-1-knowledge-traditions.png){fig-alt="Five principles for working across knowledge traditions in conservation: ask whose work is being built on; recognize limits of expertise; understand epistemology; remember knowledge is positional and relative; and balance inquiry and practice." height=440}
@@ -180,6 +250,23 @@ Source: Chapter 4, Figure 4.1.
 
 ::: notes
 Time: 5 minutes. Use this figure to deepen the DEIJ discussion. Ask students which principle is most relevant to meaningful participation and why.
+:::
+
+## Work across knowledge traditions with humility
+
+The Chapter 4 guidelines ask professionals to:
+
+- identify whose work and knowledge they are building on;
+- recognize the limits of their expertise;
+- understand that knowledge is positional; and
+- balance inquiry with practice.
+
+::: {.source-note}
+Source: Chapter 4, §4.5.2 and Figure 4.1.
+:::
+
+::: notes
+Time: 2 minutes. This text slide reinforces the figure rather than placing essential content only in an image. It is a practice standard, not an invitation to treat all knowledge claims as interchangeable.
 :::
 
 ## Chapter application: Grand Staircase–Escalante

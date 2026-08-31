@@ -64,6 +64,22 @@ Source: Chapter 3, §3.2.
 Time: 5 minutes. Explain that this is a philosophical and practical framework, not merely a slogan.
 :::
 
+## An endowment, not a private commodity
+
+Public trust thinking begins from three linked claims:
+
+- fish and wildlife are an endowment held across generations;
+- their benefits deserve fair consideration for all citizens; and
+- government has a stewardship responsibility that cannot be reduced to serving one present-day user group.
+
+::: {.source-note}
+Source: Chapter 3, §§3.2–3.3 and Table 3.1.
+:::
+
+::: notes
+Time: 3 minutes. Connect this to Monday: the legal and institutional layers of conservation are inherited, but public trust thinking asks what present responsibility they create. Do not equate fair consideration with identical outcomes for every public.
+:::
+
 ## Core public-trust questions
 
 - What are the trust assets?
@@ -118,6 +134,37 @@ Source: Chapter 3, §§3.3.1–3.3.3.
 Time: 5 minutes. Clarify that beneficiaries are broader than the loudest or most direct users. Trustees are elected or appointed officials with decision authority; trust managers are professional civil servants responsible for implementation and communication.
 :::
 
+## Trustees and trust managers do different work
+
+::: {.columns}
+::: {.column width="50%"}
+
+**Trustees**
+
+Public officials who set direction, make decisions, and are accountable to beneficiaries.
+
+:::
+::: {.column width="50%"}
+
+**Trust managers**
+
+Professional staff who develop options, implement decisions, communicate, and learn from results.
+
+:::
+:::
+
+::: {.key-idea}
+Authority and expertise are connected, but they are not interchangeable.
+:::
+
+::: {.source-note}
+Source: Chapter 3, §3.3.3.
+:::
+
+::: notes
+Time: 3 minutes. Ask students which role they would expect to set a harvest regulation and which role would collect evidence or communicate implementation. A manager can advise and implement without possessing the same legal authority as a trustee.
+:::
+
 ## Intergenerational equity
 
 Present generations have responsibilities to steward resources so that current choices do not foreclose important future options.
@@ -128,6 +175,33 @@ Source: Chapter 3, §3.2.
 
 ::: notes
 Time: 5 minutes. Ask students what makes this more demanding than simply serving current users. Do not introduce extra examples.
+:::
+
+## Intergenerational equity changes the time horizon
+
+::: {.columns}
+::: {.column width="48%"}
+
+**A narrow present-only question**
+
+Who gains or loses from this decision now?
+
+:::
+::: {.column width="52%"}
+
+**A public-trust question**
+
+What options, resources, and responsibilities will this decision leave for future beneficiaries?
+
+:::
+:::
+
+::: {.source-note}
+Source: Chapter 3, §3.2.
+:::
+
+::: notes
+Time: 2 minutes. This is not a promise that every future outcome can be predicted. It is a duty to make the time horizon visible rather than treating it as irrelevant.
 :::
 
 ## Accountability is part of stewardship
@@ -164,6 +238,24 @@ Source: Chapter 3, §3.2–3.3.
 
 ::: notes
 Time: 6 minutes. Use the figure's alt text as the text equivalent. Ask students to make the distinction in their own words before revealing the final sentence.
+:::
+
+## Doctrine is one tool within a broader responsibility
+
+**Public trust thinking** is the broader philosophical and practical orientation for stewardship.
+
+**Public trust doctrine** is a legal concept that can define or protect public interests in particular settings.
+
+::: {.key-idea}
+Legal compliance matters, but it does not exhaust the question of whether a decision serves current and future beneficiaries well.
+:::
+
+::: {.source-note}
+Source: Chapter 3, §§3.3.4–3.4.
+:::
+
+::: notes
+Time: 3 minutes. This distinction is essential for Friday. Students should avoid saying every public-trust question has a single doctrine-based answer.
 :::
 
 ## From framework to case {background-color="#2f6b57" .section-slide}

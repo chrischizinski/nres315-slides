@@ -28,7 +28,12 @@ $selectionBackgroundColor: #d4e7d1;
   background: linear-gradient(135deg, #123f5a 0%, #123f5a 66%, #2f6b57 66%, #2f6b57 100%);
 }
 
-#title-slide h1, #title-slide .subtitle, #title-slide .author, #title-slide .date {
+#title-slide h1,
+#title-slide .subtitle,
+#title-slide .author,
+#title-slide .quarto-title-author,
+#title-slide .quarto-title-author-name,
+#title-slide .date {
   color: #ffffff;
   text-align: left !important;
 }

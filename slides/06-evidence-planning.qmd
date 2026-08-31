@@ -74,6 +74,27 @@ Time: 1 minute. Transition slide.
 Time: 6 minutes. Source: Chapter 6, §6.2.1. Emphasize balance rather than a hierarchy of evidence.
 :::
 
+## Evidence answers different parts of the decision
+
+::: {.smaller}
+
+| Evidence type | A question it can help answer |
+|---|---|
+| Ecological and biological | What condition, risk, or response is occurring? |
+| Social and economic | Who is affected, what matters, and what tradeoffs are feasible? |
+| Legal and institutional | What authority, duty, or process applies? |
+| Local and experiential | What place-based knowledge or implementation concern should shape the plan? |
+
+:::
+
+::: {.source-note}
+Source: Chapter 6, §6.2.1.
+:::
+
+::: notes
+Time: 3 minutes. Evidence types answer different questions; the table does not create a hierarchy or claim each source resolves a decision alone.
+:::
+
 ## Four questions organize a decision
 
 ::: columns
@@ -118,6 +139,22 @@ Meaningful participation is more than a legal requirement. It needs a structured
 Time: 5 minutes. Source: Chapter 6, §6.2.1. Connect to Grand Staircase–Escalante: participation affects both information and legitimacy.
 :::
 
+## Evidence-informed does not mean expert-only
+
+Research can reduce uncertainty and test relationships. Participation can clarify values, lived experience, local knowledge, and acceptable tradeoffs.
+
+::: {.key-idea}
+A defensible process makes both the evidence considered and the role of public input visible.
+:::
+
+::: {.source-note}
+Source: Chapter 6, §6.2.1.
+:::
+
+::: notes
+Time: 2 minutes. Connect this to Chapters 3–5: public participation and accountability are part of sound decision processes, not extras after a technically complete decision.
+:::
+
 ## Plan–Do–Learn is iterative
 
 ![](../assets/manuscript-figures/figure-6-1-plan-do-learn.png){fig-alt="A circular cycle with three connected stages: Plan, Do, and Learn. Arrows show that learning feeds back into planning." height=380}
@@ -128,6 +165,23 @@ Learning can revise the action, the objectives, or even the original problem fra
 
 ::: notes
 Time: 6 minutes. Source: Chapter 6, §6.3 and Figure 6.1. Explain the image in words before discussing it. The alt text provides the text equivalent.
+:::
+
+## Structured decision making makes choices inspectable
+
+Chapter 6 presents structured decision making as a practical tool for making the links explicit among:
+
+- the decision context and problem;
+- objectives and measurable outcomes;
+- management alternatives; and
+- predicted consequences, tradeoffs, and uncertainty.
+
+::: {.source-note}
+Source: Chapter 6, §6.3.1.
+:::
+
+::: notes
+Time: 3 minutes. The goal is not to make every decision slow or overly technical. It is to make the reasoning visible enough to compare alternatives and learn from results.
 :::
 
 ## Planning turns a broad concern into a choice {background-color="#2f6b57" .section-slide}
@@ -153,6 +207,33 @@ Different frames can produce different, defensible management choices.
 
 ::: notes
 Time: 5 minutes. Source: Chapter 6, §§6.3–6.4. Have students apply why/who/what/how to the Puget Sound effort as a low-stakes preview.
+:::
+
+## A goal gives direction; objectives make it testable
+
+::: {.columns}
+::: {.column width="48%"}
+
+**Goal**
+
+A broad, desired direction for management.
+
+:::
+::: {.column width="52%"}
+
+**Objective**
+
+A specific, measurable statement of what the plan intends to achieve.
+
+:::
+:::
+
+::: {.source-note}
+Source: Chapter 6, §6.3.2.1.
+:::
+
+::: notes
+Time: 2 minutes. Students often jump directly from a broad concern to an action. This distinction makes the missing middle visible.
 :::
 
 ## Objectives, actions, and measures are not interchangeable {.compact}
@@ -189,6 +270,66 @@ SMART objectives are specific, measurable, achievable, relevant, and time-bound.
 
 ::: notes
 Time: 7 minutes. Source: Chapter 6, §§6.3.2–6.3.2.2. Use the example only to distinguish the three terms; do not treat it as a Chapter 6 case claim.
+:::
+
+## A success metric should support a management decision
+
+A useful metric is not merely easy to count. It should be:
+
+- connected to an objective;
+- sensitive enough to detect meaningful change;
+- feasible to collect and interpret; and
+- useful for choosing whether to continue, adjust, or replace an action.
+
+::: {.source-note}
+Source: Chapter 6, §6.3.2.2.
+:::
+
+::: notes
+Time: 3 minutes. A metric is part of the learning system. Ask what would be lost if a plan monitored only activity—such as number of meetings or dollars spent—rather than outcomes.
+:::
+
+## “Do” includes implementation, not just a decision
+
+Once an alternative is chosen, professionals must translate it into action through roles, resources, communication, partnerships, and attention to implementation conditions.
+
+::: {.source-note}
+Source: Chapter 6, §6.3.3.
+:::
+
+::: notes
+Time: 2 minutes. Bring forward the governance link: an action can be technically attractive but infeasible without authority, funding, partners, or an implementation plan.
+:::
+
+## “Learn” requires monitoring and evaluation
+
+::: {.columns}
+::: {.column width="50%"}
+
+**Monitor**
+
+Collect information about conditions, implementation, and outcomes over time.
+
+:::
+::: {.column width="50%"}
+
+**Evaluate**
+
+Interpret that information against objectives to decide what should change.
+
+:::
+:::
+
+::: {.key-idea}
+Learning can change an action, an objective, or the original problem frame.
+:::
+
+::: {.source-note}
+Source: Chapter 6, §§6.3.4–6.3.4.2.
+:::
+
+::: notes
+Time: 3 minutes. Monitoring alone is not learning. Evaluation connects observations to a decision about whether to continue or adapt.
 :::
 
 ## Preparing for Friday: Puget Sound
