@@ -17,19 +17,19 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 ## Module 2 — Conservation history and public trust
 
 - [Lecture 03 — Conservation history as living context](slides/03-conservation-history.qmd)  
-  <small class="deck-updated">Last updated: August 31, 2026 at 8:29 AM CDT</small>
+  <small class="deck-updated">Last updated: August 31, 2026 at 8:54 AM CDT</small>
 - [Lecture 04 — Public trust: for whom and for what?](slides/04-public-trust.qmd)  
-  <small class="deck-updated">Last updated: August 31, 2026 at 8:35 AM CDT</small>
+  <small class="deck-updated">Last updated: August 31, 2026 at 8:53 AM CDT</small>
 
 ## Module 3 — Justice, participation, and governance
 
 - [Lecture 05 — Justice, participation, and governance](slides/05-justice-governance.qmd)  
-  <small class="deck-updated">Last updated: August 31, 2026 at 8:35 AM CDT</small>
+  <small class="deck-updated">Last updated: August 31, 2026 at 8:53 AM CDT</small>
 
 ## Module 4 — Evidence, planning, and learning
 
 - [Lecture 06 — Evidence, framing, and planning](slides/06-evidence-planning.qmd)  
-  <small class="deck-updated">Last updated: August 31, 2026 at 8:36 AM CDT</small>
+  <small class="deck-updated">Last updated: August 31, 2026 at 8:53 AM CDT</small>
 - [Lecture 07 — Implementation, monitoring, and learning](slides/07-implementation-learning.qmd)  
   <small class="deck-updated">Last updated: August 28, 2026 at 4:42 PM CDT</small>
 

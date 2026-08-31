@@ -93,7 +93,7 @@ Source: Chapter 3, §3.1–3.3.
 :::
 
 ::: notes
-Time: 7 minutes. Use the chapter's terminology precisely. Students will use these terms Friday.
+Time: 7 minutes. Use these terms precisely. Students will use them Friday.
 :::
 
 ## A trust has connected roles
@@ -263,12 +263,12 @@ Time: 3 minutes. This distinction is essential for Friday. Students should avoid
 The Montana stream-access conflict asks how public responsibility works when water and private property interests meet.
 
 ::: notes
-Time: 1 minute. Tell students that the case does not ask them to settle a general property-law debate; it asks them to use the chapter's account accurately.
+Time: 1 minute. Tell students that the case does not ask them to settle a general property-law debate; it asks them to analyze a specific public-access conflict accurately.
 :::
 
 ## Friday application: Montana stream access
 
-Chapter 3's application asks whether public use of water can be protected when adjacent landowners claim control of a riverbed or bank.
+The Montana stream-access conflict asks whether public use of water can be protected when adjacent landowners claim control of a riverbed or bank.
 
 - Dearborn River and Beaverhead River conflicts
 - *Curran* and *Hildreth*
@@ -290,7 +290,7 @@ With a partner, prepare four labels for Friday:
 1. asset;
 2. beneficiaries;
 3. authority and accountability; and
-4. the boundary on public access recognized in the chapter.
+4. the boundary on public access in the Montana case.
 
 ::: notes
 Time: 10 minutes. Require students to locate support in §3.5.1, then cold-call two pairs for one label each.
@@ -302,14 +302,14 @@ Complete this sentence with a partner:
 
 > Navigability for **title** asks ______; navigability for **use** asks ______.
 
-Then add: why did that distinction matter for public access in the chapter's Montana example?
+Then add: why did that distinction matter for public access in Montana?
 
 ::: {.source-note}
 Source: Chapter 3, §3.5.1.
 :::
 
 ::: notes
-Time: 4 minutes. Give pairs one minute to formulate the distinction, then have two pairs share. The expected contrast is ownership of land beneath water versus whether the public may use water for recreation. Do not ask students to supply facts beyond the chapter.
+Time: 4 minutes. Give pairs one minute to formulate the distinction, then have two pairs share. The expected contrast is ownership of land beneath water versus whether the public may use water for recreation. Keep the discussion within the facts provided for this case.
 :::
 
 ## Close: a defensible public-trust answer
@@ -321,5 +321,5 @@ Source: Chapter 3, §3.5.
 :::
 
 ::: notes
-Time: 4 minutes. Remind students: the next reading quiz is due Sunday at 11:59 p.m. before Monday's class; Friday uses the chapter-grounded application.
+Time: 4 minutes. Remind students: the next reading quiz is due Sunday at 11:59 p.m. before Monday's class; Friday applies these concepts to the Montana case.
 :::

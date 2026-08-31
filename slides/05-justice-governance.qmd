@@ -58,7 +58,7 @@ Time: 1 minute. Do not present DEIJ as separate from ecological outcomes or impl
 
 ## DEIJ is part of management practice
 
-Chapter 4 connects DEIJ to:
+DEIJ shapes:
 
 - access to land and water;
 - whose knowledge is recognized;
@@ -75,7 +75,7 @@ Time: 6 minutes. Do not reduce DEIJ to representation alone. Ask students what e
 
 ## Why DEIJ matters to the profession
 
-Chapter 4 connects DEIJ to three practical concerns:
+DEIJ has three practical implications for the profession:
 
 - **capacity:** who enters, stays, and leads in the profession;
 - **representation:** whether the profession reflects the publics it serves; and
@@ -86,7 +86,7 @@ Source: Chapter 4, §§4.3.1–4.3.3.
 :::
 
 ::: notes
-Time: 3 minutes. Avoid treating these as recruitment-only questions. The chapter connects professional composition and institutional culture to the ability to recognize problems, build relationships, and act effectively.
+Time: 3 minutes. Avoid treating these as recruitment-only questions. Professional composition and institutional culture affect the ability to recognize problems, build relationships, and act effectively.
 :::
 
 ## Four related terms
@@ -162,7 +162,7 @@ Governance is the interplay of rules, policies, institutions, and powers that gu
 
 ![](../assets/manuscript-figures/figure-5-1-governance-structure.png){fig-alt="A three-column example of state-level fish and wildlife governance in Idaho. Beneficiaries and the state constitution connect to the state legislature and governor, which connect to the department and fish and game commission. The figure illustrates how legal authority flows from beneficiaries to trust administrators." height=390}
 
-The chapter's governance model asks students to identify:
+Use this governance model to identify:
 
 - decision-making;
 - implementation; and
@@ -178,7 +178,7 @@ Time: 6 minutes. Use the figure's alt text as the text equivalent. Emphasize tha
 
 ## Governance rests on competing but connected principles
 
-Chapter 5 identifies foundations that can pull a decision in different directions:
+Several governance foundations can pull a decision in different directions:
 
 - deliberative democracy;
 - public trust thinking;
@@ -209,12 +209,12 @@ Source: Chapter 5, §§5.2–5.3.
 :::
 
 ::: notes
-Time: 4 minutes. These are an instructional synthesis of the chapter's governance definition and principles. Use them as a checklist, not a claim that every decision has the same answer.
+Time: 4 minutes. Use these as a checklist, not a claim that every decision has the same answer.
 :::
 
 ## Good governance is more than biological success
 
-Chapter 5 identifies governance that is transparent, inclusive, accountable, sustainable, adaptable, and capable of coordination across boundaries.
+Good governance is transparent, inclusive, accountable, sustainable, adaptable, and capable of coordination across boundaries.
 
 ::: {.source-note}
 Source: Chapter 5, §5.3.2–5.3.3.
@@ -237,7 +237,7 @@ Source: Chapter 5, §5.6.
 :::
 
 ::: notes
-Time: 3 minutes. Link this back to Chapter 2's funding legacy. The point is not that one source is inherently good or bad; it is that funding is part of governance and affects capacity and accountability.
+Time: 3 minutes. Link this back to the funding legacy discussed last week. The point is not that one source is inherently good or bad; it is that funding is part of governance and affects capacity and accountability.
 :::
 
 ## Working across knowledge traditions
@@ -254,7 +254,7 @@ Time: 5 minutes. Use this figure to deepen the DEIJ discussion. Ask students whi
 
 ## Work across knowledge traditions with humility
 
-The Chapter 4 guidelines ask professionals to:
+Work across knowledge traditions by:
 
 - identify whose work and knowledge they are building on;
 - recognize the limits of their expertise;
@@ -271,16 +271,16 @@ Time: 2 minutes. This text slide reinforces the figure rather than placing essen
 
 ## Chapter application: Grand Staircase–Escalante
 
-Chapter 4 explains that the monument became a flashpoint when many local communities and Indigenous nations felt insufficiently consulted.
+Grand Staircase–Escalante became a flashpoint when many local communities and Indigenous nations felt insufficiently consulted.
 
-The chapter links meaningful participation to legitimacy, trust, and durable conservation support.
+Meaningful participation can shape legitimacy, trust, and durable conservation support.
 
 ::: {.source-note}
 Source: Chapter 4, §4.4.2.
 :::
 
 ::: notes
-Time: 7 minutes. State only the chapter's facts: designation in 1996 and reduction in 2017. Do not supply external policy details.
+Time: 7 minutes. Use the case facts provided here: designation in 1996 and reduction in 2017. Do not supply external policy details.
 :::
 
 ## Diagnose the process, not only the outcome
@@ -317,7 +317,7 @@ Use Chapters 4 and 5 to prepare:
 4. What participation or collaboration practice could make a decision more durable?
 
 ::: notes
-Time: 10 minutes. In pairs, have students annotate the relevant Chapter 4 section and identify a Chapter 5 concept that applies.
+Time: 10 minutes. In pairs, have students locate the relevant case details and identify a governance concept that applies.
 :::
 
 ## Pair rehearsal: make one accountable-process claim

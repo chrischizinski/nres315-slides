@@ -169,7 +169,7 @@ Time: 6 minutes. Source: Chapter 6, §6.3 and Figure 6.1. Explain the image in w
 
 ## Structured decision making makes choices inspectable
 
-Chapter 6 presents structured decision making as a practical tool for making the links explicit among:
+Structured decision making makes the links explicit among:
 
 - the decision context and problem;
 - objectives and measurable outcomes;
@@ -334,7 +334,7 @@ Time: 3 minutes. Monitoring alone is not learning. Evaluation connects observati
 
 ## Preparing for Friday: Puget Sound
 
-The chapter's Puget Sound example follows a long-term recovery effort that considers ecological conditions and human well-being.
+Puget Sound's long-term recovery effort considers ecological conditions and human well-being together.
 
 ::: {.fragment fragment-index=1}
 Come Friday ready to identify:
