@@ -38,17 +38,9 @@ This repository has already completed its initial GitHub Pages publication. Subs
 
 For a new course-slide repository, create an empty GitHub repository, push `main`, then enable **Settings → Actions → General → Workflow permissions → Read and write permissions**. Run `quarto publish gh-pages` once to initialize the publishing destination before relying on the Action.
 
-For a repository named `nres315-slides` owned by `USERNAME`, the site URL will be approximately:
+The live slide site is [chrischizinski.github.io/nres315-slides](https://chrischizinski.github.io/nres315-slides/).
 
-```text
-https://USERNAME.github.io/nres315-slides/
-```
-
-The first lecture’s stable Canvas URL will be approximately:
-
-```text
-https://USERNAME.github.io/nres315-slides/slides/01-course-launch.html
-```
+The first lecture’s stable Canvas URL is [chrischizinski.github.io/nres315-slides/slides/01-course-launch.html](https://chrischizinski.github.io/nres315-slides/slides/01-course-launch.html).
 
 Once a lecture is linked from Canvas, keep its filename unchanged. Editing the contents does not change its URL; renaming the file does.
 
