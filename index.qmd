@@ -14,14 +14,14 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 - [Lecture 02 — People, habitats, and species](slides/02-people-habitats-species.qmd)  
   <small class="deck-updated">Last updated: August 28, 2026 at 4:42 PM CDT</small>
 
-## Module 2 — Conservation history and public trust
+## Module 2 — Conservation history and public trust (continued in Week 3)
 
 - [Lecture 03 — Conservation history as living context](slides/03-conservation-history.qmd)  
   <small class="deck-updated">Last updated: August 31, 2026 at 8:54 AM CDT</small>
-- [Lecture 04 — Public trust: for whom and for what?](slides/04-public-trust.qmd)  
+- [Lecture 04 — Public trust: for whom, for what, and across time?](slides/04-public-trust.qmd)  
   <small class="deck-updated">Last updated: September 2, 2026 at 9:17 AM CDT</small>
 
-## Module 3 — Justice, participation, and governance
+## Module 3 — Justice, participation, and governance (begins after public-trust continuation)
 
 - [Lecture 05 — Justice, participation, and governance](slides/05-justice-governance.qmd)  
   <small class="deck-updated">Last updated: August 31, 2026 at 8:53 AM CDT</small>
