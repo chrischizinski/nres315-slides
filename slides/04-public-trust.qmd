@@ -316,152 +316,120 @@ settings. Students should avoid saying every public-trust question has a single
 doctrine-based answer.
 :::
 
-## From framework to case {.section-slide background-color="#2f6b57"}
+## From framework to decision {.section-slide background-color="#2f6b57"}
 
-The Montana stream-access conflict carries forward history's questions about
-public concern, institutional authority, participation, and accountability.
+Public-trust thinking becomes useful when a public institution must make a
+specific choice under uncertainty.
 
 <br>
 
-On Friday, connect one Chapter 2 legacy to this Chapter 3 public-trust decision.
+On Friday, use the framework to advise an agency considering a temporary harvest
+restriction after a documented population decline.
 
 ::: notes
-Time: 30 seconds. Make the bridge explicit: Monday showed that law, public
-institutions, participation, and accountability are historical inheritances.
-Friday asks students to show how one of those inheritances makes the Montana
-access conflict a public-responsibility question. The case does not ask them to
-settle a general property-law debate.
+Time: 30 seconds. Frame Friday as an application of the public-trust-thinking
+framework, not as a second analysis of the Montana stream-access case. The
+group's task is to make beneficiaries, trustee responsibility, tradeoffs, and
+accountability visible in a prospective decision.
 :::
 
-## Friday application: Montana stream access
+## Friday application: public-trust stewardship decision
 
-<br>
+**The decision your group will advise:** A state fish and wildlife agency has
+documented a population decline and is considering a **temporary harvest
+restriction before the next season**.
 
-**The question your group will answer:** How did Montana protect public
-recreational use of water while recognizing limits on use of adjacent private
-property?
+The agency must decide whether and how to act, explain its rationale to affected
+publics, and state what would trigger a review or revision.
 
-<br>
-
-Use Monday's Chapter 2 history material and Chapter 3 to explain:
-
-1. one historical legacy that makes this a public-responsibility question;
-2. the conflict and who resolved it;
-3. why navigability for **title** differs from navigability for **use**;
-4. who benefits, what access is limited, and what tradeoff remains; and
-5. what accountable implementation still requires.
+Use Chapter 3 and your in-class reasoning only. Do not add outside legal claims,
+biological estimates, or case facts.
 
 ::: {.source-note}
-Source: Chapter 2, §§2.2.6, 2.2.8; Chapter 3, §3.5.1.
+Source: Chapter 3, §§3.2--3.4.
 :::
 
 ::: notes
-Time: 3 minutes. This is the assignment in plain language. The history link is
-not a request for a timeline: students choose one legacy from Monday--public
-concern, institutional authority, participation, or accountability--and explain
-how it frames the present access conflict. Name the Dearborn and Beaverhead
-conflicts, *Curran* and *Hildreth*, and the Montana Stream Access Law only as
-the case evidence students will use. Students should revisit Monday's notes and
-reread §3.5.1 before Friday; do not use outside facts.
+Time: 3 minutes. Read the scenario slowly. The population decline is documented,
+but students do not receive biological estimates or a legal case to resolve.
+They should use the framework to reason about a responsible public decision, not
+invent facts or argue for one user group as the whole public.
 :::
 
 ## What Friday will look like
 
-1. **0--5 minutes --- Start alone:** Identify the public-use question; use your
-   optional preparation note if you made one.
-2. **5--8 minutes --- Form your group:** Record names and your preassigned
-   roles.
-3. **8--30 minutes --- Build the explanation:** Use Monday's history material
-   and §3.5.1 to complete all four response sections.
+1. **0--5 minutes --- Start alone:** Identify the decision, one beneficiary,
+   and one question the agency should answer.
+2. **5--8 minutes --- Form your group:** Record names and preassigned roles.
+3. **8--30 minutes --- Build the recommendation:** Complete all four response
+   sections with the Chapter 3 framework.
 4. **30--34 minutes --- Submit:** One present member submits the shared Canvas
    response.
-5. **34--44 minutes --- Defend the reasoning:** Be ready to explain the analysis
+5. **34--44 minutes --- Defend the reasoning:** Be ready to explain the part
    connected to your role.
 6. **44--50 minutes --- Individual check and close:** Complete the private
-   Friday Group Check, then synthesize the case.
+   Friday Group Check, then synthesize the decision.
 
 ::: notes
 Time: 3 minutes. Walk through the sequence so students know what happens, what
-they produce, and what each person must do. The class activity is not a debate
-with a hidden answer; it is a structured, evidence-based explanation of the
-chapter case.
+they produce, and what each person must do. This is a structured recommendation,
+not a debate with a hidden answer. The group must make a justified decision and
+an accountable plan using only the information in the prompt and Chapter 3.
 :::
 
 ## What your group will submit
 
 Submit one shared Canvas response with the names and roles of everyone present.
-Use four short, evidence-based sections:
+Write 2--3 concise, complete sentences under each heading:
 
-1. **Historical legacy, access question, and authority:** Connect one Chapter 2
-   legacy to the conflict, court decisions, and subsequent law.
-2. **Concept and evidence:** Distinguish navigability for title from use;
-   connect that distinction to one case detail.
-3. **Beneficiaries, boundary, and tradeoff:** Name specific beneficiaries, the
-   private-bank limit, and what the rule protects and constrains.
-4. **Accountability and next step:** Explain a remaining implementation,
-   communication, or accountability need.
+1. **Public responsibility and decision:** State the decision and explain why it
+   is a public-trust responsibility rather than only one current user group's
+   preference.
+2. **Beneficiaries across time:** Identify at least two current beneficiaries
+   and one future beneficiary. Explain how their interests may differ.
+3. **Tradeoff and trustee responsibility:** Explain one genuine consequence of a
+   temporary restriction and how an accountable trustee should weigh it against
+   protecting future options.
+4. **Transparent accountability plan:** Recommend one specific way the agency
+   should explain or review its decision. State what evidence, condition, or
+   question should prompt reconsideration.
 
-Aim for 2--3 complete sentences per section, not an essay. The shared response
-is 80% of the score; the individual Group Check is 20%.
+Aim for about 200--350 words total. The shared response is 80% of the score; the
+individual Group Check is 20%.
 
 ::: notes
-Time: 3 minutes. Put the actual deliverable on the screen. Stress that the group
-is explaining the chapter case, not inventing a new fact pattern or choosing a
-personal side without evidence.
+Time: 3 minutes. Put the actual deliverable on the screen. Stress that students
+are advising an agency on a prospective choice. A strong response has specific
+beneficiaries, a genuine consequence, and a usable review trigger; it does not
+need outside evidence or a preferred biological outcome.
 :::
 
-## Optional before-Friday preparation: make a five-note case sheet
+## Close: what your Friday response must show
 
-**Thursday night or before Friday class (about 10 minutes):** Revisit Monday's
-history notes and reread Chapter 3, §3.5.1. Bring five brief notes:
+Your group is **not** predicting the correct harvest rule or representing only
+one current user group.
 
-1. one Chapter 2 historical legacy that frames the access conflict;
-2. the public-use and private-property question;
-3. navigability for **title** versus navigability for **use**;
-4. beneficiaries and the boundary on private-bank use; and
-5. one accountability or implementation question.
+Your group is advising an accountable public trustee:
 
-This is optional and is **not submitted or graded**. If you make it, bring it to
-class; your group can use it to start the shared response.
+> Given a documented population decline, should the agency use a temporary
+> harvest restriction before the next season, and how should it make and review
+> that decision for a broad public across time?
+
+A strong response makes visible:
+
+- a specific decision and its public responsibility;
+- current and future beneficiaries whose interests may differ;
+- a genuine tradeoff and trustee reasoning; and
+- a transparent explanation or review plan with a trigger for reconsideration.
 
 ::: {.source-note}
-Source: Chapter 2, §§2.2.6, 2.2.8; Chapter 3, §3.5.1.
+Source: Chapter 3, §§3.2--3.4.
 :::
 
 ::: notes
-Time: 1 minute. This replaces the former in-class case-preparation pair work.
-Tell students it is a short optional preparation note, not a required or graded
-assignment. Friday begins with the public-use question for everyone; students
-who made the note may use it to start their reasoning.
-:::
-
-## Close: what your Friday response must explain
-
-Your group is **not** deciding whether you personally favor stream access.
-
-Your group is explaining how Montana addressed this question:
-
-> When water crosses or borders private property, what public recreational use
-> is protected, and where is the limit?
-
-A strong response connects the court decisions and Stream Access Law to:
-
-- one historical legacy that frames this as a public-responsibility question;
-- the difference between navigability for **title** and for **use**;
-- the public beneficiaries of access;
-- the limit on using private banks; and
-- one remaining implementation or communication responsibility.
-
-::: {.source-note}
-Source: Chapter 2, §§2.2.6, 2.2.8; Chapter 3, §3.5.
-:::
-
-::: notes
-Time: 1 minute. Read the block quote aloud. State plainly: "Friday is an
-explanation of how the Montana case resolved this conflict, using one specific
-historical legacy from Monday and the Chapter 3 case; it is not a vote on
-whether you personally support access." Remind students to complete the
-optional five-note case sheet before Friday if they want additional preparation.
-Friday applies these concepts to the Montana case. The next reading quiz is due
-Sunday at 11:59 p.m. before Monday's class.
+Time: 1 minute. Read the question aloud. State plainly: "Friday is a prospective
+stewardship decision, not the Montana stream-access case and not a vote for one
+user group." Remind students that the response must use the public-trust
+framework, with no outside legal claims or biological estimates. The next
+reading quiz is due Sunday at 11:59 p.m. before Monday's class.
 :::
