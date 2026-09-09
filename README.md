@@ -1,70 +1,45 @@
-# NRES 315 course slides
+# NRES 315: Human Dimensions of Fish and Wildlife Management
 
-> This is a generated public release. The parent NRES 315 course workspace is
-> the only editable source of truth for lectures, shared styling, and released
-> assets. Use `python3 scripts/sync_course_slides.py --publish` from that
-> workspace; do not edit `slides/`, `styles/`, `assets/`, or `index.qmd` here.
+Public lecture slides for NRES 315 at the University of Nebraska–Lincoln.
 
-This repository hosts the public HTML lecture slides for **NRES 315: Human Dimensions of Fish and Wildlife Management**. Canvas remains the primary learning-management system for course schedules, assignments, quizzes, grades, announcements, deadlines, and submissions.
+**[Open the slide site](https://chrischizinski.github.io/nres315-slides/)**
 
-The website is intentionally small: it is a stable home for lecture slides and selected public resources. Do not add student information, grades, answer keys, private Canvas material, restricted assessments, unpublished sensitive data, or copyrighted material that cannot be publicly redistributed.
+This course examines how people, institutions, values, evidence, and ethics
+shape fish and wildlife management. The slides support class meetings and give
+students a browser-friendly way to revisit key ideas and cases.
 
-## Structure
+## What you will find here
 
-- `index.qmd` is the student-facing slide directory. Only lectures linked here are advertised to students.
-- `slides/` contains independent Quarto Reveal.js presentations. Use two-digit, lowercase, hyphenated filenames such as `07-habitat-selection.qmd`.
-- `assets/` contains shared public images, figures, diagrams, and logos. Refer to them from a slide with a relative path, for example `![](../assets/images/mallard-habitat-selection.png)`.
-- `styles/slides.scss` is the shared NRES 315 Reveal.js field-guide stylesheet used by every released deck.
-- `source-footer.lua` supports the Week 4 decks' visible source-footnote workflow.
-- `.github/workflows/publish.yml` renders and publishes the site after each push to `main`.
+- Interactive HTML versions of released lecture slides
+- Material on conservation history, public trust, justice, participation,
+  governance, evidence, planning, and learning
+- A growing set of lectures arranged by course module
 
-## Publication workflow
+Start with the [course-launch lecture](https://chrischizinski.github.io/nres315-slides/slides/01-course-launch.html),
+or use the [slide directory](https://chrischizinski.github.io/nres315-slides/)
+to select a topic.
 
-Edit and preview the canonical lecture in the course workspace. When it is
-ready for public release, add it to `course-design/course-slides.toml` and run:
+## Using the slides
 
-```bash
-python3 scripts/sync_course_slides.py --publish
-```
+The HTML decks work in a modern browser. Use the arrow keys or on-screen
+controls to move through a presentation; browser zoom is supported. The slide
+site is the best format for reviewing lecture content and is updated as
+lectures are released.
 
-That command synchronizes the allowlisted public files, verifies a Quarto
-render, commits the generated changes, and pushes them to `main`. The GitHub
-Action then publishes the site. The full workflow is documented in the parent
-course workspace at `docs/course-slides-sync.md`.
+Canvas remains the course home for readings, assignments, deadlines,
+announcements, grades, feedback, and submissions. When information here and
+Canvas differ, follow Canvas.
 
-## GitHub Pages publication
+## Course focus
 
-This repository has already completed its initial GitHub Pages publication. Subsequent pushes to `main` trigger the **Quarto Publish** GitHub Action automatically.
+By the end of the course, students should be able to analyze fish and wildlife
+decisions as social-ecological problems; weigh governance, justice, evidence,
+and tradeoffs; and communicate a defensible management recommendation.
 
-For a new course-slide repository, create an empty GitHub repository, push `main`, then enable **Settings → Actions → General → Workflow permissions → Read and write permissions**. Run `quarto publish gh-pages` once to initialize the publishing destination before relying on the Action.
+## About this repository
 
-The live slide site is [chrischizinski.github.io/nres315-slides](https://chrischizinski.github.io/nres315-slides/).
-
-The first lecture’s stable Canvas URL is [chrischizinski.github.io/nres315-slides/slides/01-course-launch.html](https://chrischizinski.github.io/nres315-slides/slides/01-course-launch.html).
-
-Once a lecture is linked from Canvas, keep its filename unchanged. Editing the contents does not change its URL; renaming the file does.
-
-## Adding a new lecture
-
-Create and develop the lecture under `lectures/` in the course workspace. When
-it is ready, add one entry to the appropriate module in
-`course-design/course-slides.toml`, choose a permanent two-digit destination
-filename, and run the publication command above. Future course lectures remain
-private until they are explicitly listed in that manifest.
-
-## Accessibility and PDF behavior
-
-HTML is the primary format. Keep titles unique, text large enough for projection, images described, tables small, and navigation usable by keyboard and browser zoom. Reveal.js speaker notes remain available to the instructor and do not appear on the projected slide.
-
-The presentations remain compatible with Reveal.js printing and `?print-pdf`. Do not treat a generated PDF as the primary accessible version unless it has separately passed a tagged-PDF and reading-order review.
-
-## Semester archives
-
-At the end of an offering, preserve its state with a Git tag:
-
-```bash
-git tag fall-2026
-git push origin fall-2026
-```
-
-Continue updating `main` for later offerings. Tags such as `spring-2027` and `fall-2027` preserve prior versions without creating a new repository every semester.
+This is a public, generated release of selected course materials. It contains
+only materials intended for public sharing—never student information, grades,
+answer keys, private Canvas content, restricted assessments, or unlicensed
+copyrighted material. Lecture sources are maintained in the private course
+workspace and published here after release review.
