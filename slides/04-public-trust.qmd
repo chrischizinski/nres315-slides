@@ -1,6 +1,6 @@
 ---
 title: "Public Trust: For Whom and For What?"
-subtitle: "Week 2 Wednesday — Chapter 3"
+subtitle: "Week 3 Wednesday — Chapter 3"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
 date: "August 28, 2026"
 format:
