@@ -556,7 +556,8 @@ $selectionBackgroundColor: #d4e7d1;
 
 .reveal h2 {
   display: inline-block;
-  font-size: 1.2em;
+  /* Override Quarto's embedded `h2` screen rule, which is marked !important. */
+  font-size: 36px !important;
   line-height: 1.1;
   padding: 0.12em 0.38em 0.16em;
   border-left: 0.22em solid #2f6b57;
@@ -588,13 +589,30 @@ $selectionBackgroundColor: #d4e7d1;
   padding: 0.55em 0.8em;
 }
 
+/* Emphasize mnemonic terms without making color the sole cue. */
+.reveal .smart-term {
+  display: inline-block;
+  margin: 0.08em 0.08em;
+  padding: 0.08em 0.28em 0.12em;
+  border-bottom: 0.14em solid #2f6b57;
+  background: #e0ebe0;
+  color: #102f43;
+  font-weight: 700;
+  line-height: 1.05;
+}
+
+.reveal .smart-initial {
+  color: #146778;
+  font-size: 1.12em;
+}
+
 .reveal .section-slide h2 {
   display: block;
   padding: 0;
   border: 0;
   background: transparent;
   color: #ffffff;
-  font-size: 2.1em;
+  font-size: 36px !important;
 }
 
 .reveal .section-slide p {
@@ -631,11 +649,33 @@ $selectionBackgroundColor: #d4e7d1;
   margin-top: 0.45em;
 }
 
+/* Baseline treatment for simple Markdown tables in any future deck. */
+.reveal table:not(.gt_table) {
+  width: 100%;
+  border-collapse: collapse;
+  border-top: 4px solid #2f6b57;
+}
+
+.reveal table:not(.gt_table) th {
+  background: #e0ebe0;
+  color: #102f43;
+  font-weight: 700;
+}
+
+.reveal table:not(.gt_table) th,
+.reveal table:not(.gt_table) td {
+  padding: 0.42em 0.55em;
+  border: 0;
+  border-bottom: 1px solid #c1d2c5;
+  text-align: left;
+  vertical-align: top;
+}
+
 /* Keep gt's self-contained HTML tables visually consistent with slide text. */
 .reveal .gt_table,
 .reveal .gt_table td,
 .reveal .gt_table th {
-  font-family: Lato, sans-serif !important;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif !important;
   line-height: 1.3 !important;
 }
 </style>
@@ -1591,33 +1631,425 @@ display:block!important;
 </section>
 <section id="era-of-game-management-a-durable-funding-legacy" class="slide level2">
 <h2>Era of Game Management: a durable funding legacy</h2>
-<div class="smaller">
-<table class="caption-top">
-<colgroup>
-<col style="width: 20%">
-<col style="width: 30%">
-<col style="width: 48%">
-</colgroup>
+<div id="ippmrarlor" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#ippmrarlor table {
+font-family: 'Atkinson Hyperlegible', Arial, sans-serif;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+#ippmrarlor thead, #ippmrarlor tbody, #ippmrarlor tfoot, #ippmrarlor tr, #ippmrarlor td, #ippmrarlor th {
+border-style: none;
+}
+#ippmrarlor p {
+margin: 0;
+padding: 0;
+}
+#ippmrarlor .gt_table {
+display: table;
+border-collapse: collapse;
+line-height: normal;
+margin-left: auto;
+margin-right: auto;
+color: #333333;
+font-size: 20px;
+font-weight: normal;
+font-style: normal;
+background-color: #FFFFFF;
+width: 920px;
+border-top-style: none;
+border-top-width: 2px;
+border-top-color: #A8A8A8;
+border-right-style: none;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+border-bottom-style: none;
+border-bottom-width: 2px;
+border-bottom-color: #A8A8A8;
+border-left-style: none;
+border-left-width: 2px;
+border-left-color: #D3D3D3;
+}
+#ippmrarlor .gt_caption {
+padding-top: 4px;
+padding-bottom: 4px;
+}
+#ippmrarlor .gt_title {
+color: #333333;
+font-size: 125%;
+font-weight: initial;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 5px;
+padding-right: 5px;
+border-bottom-color: #FFFFFF;
+border-bottom-width: 0;
+}
+#ippmrarlor .gt_subtitle {
+color: #333333;
+font-size: 85%;
+font-weight: initial;
+padding-top: 3px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+border-top-color: #FFFFFF;
+border-top-width: 0;
+}
+#ippmrarlor .gt_heading {
+background-color: #FFFFFF;
+text-align: center;
+border-bottom-color: #FFFFFF;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+}
+#ippmrarlor .gt_bottom_border {
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+}
+#ippmrarlor .gt_col_headings {
+border-top-style: solid;
+border-top-width: 4px;
+border-top-color: #2F6B57;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+}
+#ippmrarlor .gt_col_heading {
+color: #333333;
+background-color: #E0EBE0;
+font-size: 22px;
+font-weight: bold;
+text-transform: inherit;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+vertical-align: bottom;
+padding-top: 5px;
+padding-bottom: 6px;
+padding-left: 5px;
+padding-right: 5px;
+overflow-x: hidden;
+}
+#ippmrarlor .gt_column_spanner_outer {
+color: #333333;
+background-color: #E0EBE0;
+font-size: 22px;
+font-weight: bold;
+text-transform: inherit;
+padding-top: 0;
+padding-bottom: 0;
+padding-left: 4px;
+padding-right: 4px;
+}
+#ippmrarlor .gt_column_spanner_outer:first-child {
+padding-left: 0;
+}
+#ippmrarlor .gt_column_spanner_outer:last-child {
+padding-right: 0;
+}
+#ippmrarlor .gt_column_spanner {
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+vertical-align: bottom;
+padding-top: 5px;
+padding-bottom: 5px;
+overflow-x: hidden;
+display: inline-block;
+width: 100%;
+}
+#ippmrarlor .gt_spanner_row {
+border-bottom-style: hidden;
+}
+#ippmrarlor .gt_group_heading {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+color: #333333;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+text-transform: inherit;
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #D3D3D3;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+vertical-align: middle;
+text-align: left;
+}
+#ippmrarlor .gt_empty_group_heading {
+padding: 0.5px;
+color: #333333;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #D3D3D3;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+vertical-align: middle;
+}
+#ippmrarlor .gt_from_md > :first-child {
+margin-top: 0;
+}
+#ippmrarlor .gt_from_md > :last-child {
+margin-bottom: 0;
+}
+#ippmrarlor .gt_row {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+margin: 10px;
+border-top-style: solid;
+border-top-width: 1px;
+border-top-color: #C1D2C5;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+vertical-align: middle;
+overflow-x: hidden;
+}
+#ippmrarlor .gt_stub {
+color: #333333;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+text-transform: inherit;
+border-right-style: solid;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+padding-left: 5px;
+padding-right: 5px;
+}
+#ippmrarlor .gt_stub_row_group {
+color: #333333;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+text-transform: inherit;
+border-right-style: solid;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+padding-left: 5px;
+padding-right: 5px;
+vertical-align: top;
+}
+#ippmrarlor .gt_row_group_first td {
+border-top-width: 2px;
+}
+#ippmrarlor .gt_row_group_first th {
+border-top-width: 2px;
+}
+#ippmrarlor .gt_summary_row {
+color: #333333;
+background-color: #FFFFFF;
+text-transform: inherit;
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#ippmrarlor .gt_first_summary_row {
+border-top-style: solid;
+border-top-color: #D3D3D3;
+}
+#ippmrarlor .gt_first_summary_row.thick {
+border-top-width: 2px;
+}
+#ippmrarlor .gt_last_summary_row {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+}
+#ippmrarlor .gt_grand_summary_row {
+color: #333333;
+background-color: #FFFFFF;
+text-transform: inherit;
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#ippmrarlor .gt_first_grand_summary_row {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+border-top-style: double;
+border-top-width: 6px;
+border-top-color: #D3D3D3;
+}
+#ippmrarlor .gt_last_grand_summary_row_top {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+border-bottom-style: double;
+border-bottom-width: 6px;
+border-bottom-color: #D3D3D3;
+}
+#ippmrarlor .gt_striped {
+background-color: rgba(128, 128, 128, 0.05);
+}
+#ippmrarlor .gt_table_body {
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #D3D3D3;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+}
+#ippmrarlor .gt_footnotes {
+color: #333333;
+background-color: #FFFFFF;
+border-bottom-style: none;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 2px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+}
+#ippmrarlor .gt_footnote {
+margin: 0px;
+font-size: 90%;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#ippmrarlor .gt_sourcenotes {
+color: #333333;
+background-color: #FFFFFF;
+border-bottom-style: none;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 2px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+}
+#ippmrarlor .gt_sourcenote {
+font-size: 90%;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#ippmrarlor .gt_left {
+text-align: left;
+}
+#ippmrarlor .gt_center {
+text-align: center;
+}
+#ippmrarlor .gt_right {
+text-align: right;
+font-variant-numeric: tabular-nums;
+}
+#ippmrarlor .gt_font_normal {
+font-weight: normal;
+}
+#ippmrarlor .gt_font_bold {
+font-weight: bold;
+}
+#ippmrarlor .gt_font_italic {
+font-style: italic;
+}
+#ippmrarlor .gt_super {
+font-size: 65%;
+}
+#ippmrarlor .gt_footnote_marks {
+font-size: 75%;
+vertical-align: 0.4em;
+position: initial;
+}
+#ippmrarlor .gt_asterisk {
+font-size: 100%;
+vertical-align: 0;
+}
+#ippmrarlor .gt_indent_1 {
+text-indent: 5px;
+}
+#ippmrarlor .gt_indent_2 {
+text-indent: 10px;
+}
+#ippmrarlor .gt_indent_3 {
+text-indent: 15px;
+}
+#ippmrarlor .gt_indent_4 {
+text-indent: 20px;
+}
+#ippmrarlor .gt_indent_5 {
+text-indent: 25px;
+}
+#ippmrarlor .katex-display {
+display: inline-flex !important;
+margin-bottom: 0.75em !important;
+}
+#ippmrarlor div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+height: 0px !important;
+}
+</style>
+
+<table class="gt_table caption-top" data-quarto-bootstrap="false">
 <thead>
-<tr class="header">
-<th>Program</th>
-<th>Revenue source</th>
-<th>What it supported</th>
+<tr class="gt_col_headings header">
+<th id="Program" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Program</th>
+<th id="Revenue-source" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Revenue source</th>
+<th id="What-it-supported" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">What it supported</th>
 </tr>
 </thead>
-<tbody>
+<tbody class="gt_table_body">
 <tr class="odd">
-<td>Pittman–Robertson Act (1937)</td>
-<td>Excise tax on sporting arms and ammunition</td>
-<td>State wildlife restoration, habitat, research, public hunting areas</td>
+<td class="gt_row gt_left" headers="Program">Pittman–Robertson Act (1937)</td>
+<td class="gt_row gt_left" headers="Revenue source">Excise tax on sporting arms and ammunition</td>
+<td class="gt_row gt_left" headers="What it supported">State wildlife restoration, habitat, research, public hunting areas</td>
 </tr>
 <tr class="even">
-<td>Dingell–Johnson Act (1950)</td>
-<td>Excise tax on certain fishing tackle</td>
-<td>Sport-fish restoration and related state projects</td>
+<td class="gt_row gt_left" headers="Program">Dingell–Johnson Act (1950)</td>
+<td class="gt_row gt_left" headers="Revenue source">Excise tax on certain fishing tackle</td>
+<td class="gt_row gt_left" headers="What it supported">Sport-fish restoration and related state projects</td>
 </tr>
 </tbody>
 </table>
+
 </div>
 <div class="key-idea">
 <p>The model linked purchases by hunters, anglers, and later boaters to public conservation benefits.</p>
@@ -1788,37 +2220,430 @@ display:block!important;
 </section>
 <section id="institutionalization-changed-who-agencies-could-learn-from" class="slide level2">
 <h2>Institutionalization changed who agencies could learn from</h2>
-<div class="smaller">
-<table class="caption-top">
-<colgroup>
-<col style="width: 52%">
-<col style="width: 47%">
-</colgroup>
+<div id="vpmajkhous" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#vpmajkhous table {
+font-family: 'Atkinson Hyperlegible', Arial, sans-serif;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+#vpmajkhous thead, #vpmajkhous tbody, #vpmajkhous tfoot, #vpmajkhous tr, #vpmajkhous td, #vpmajkhous th {
+border-style: none;
+}
+#vpmajkhous p {
+margin: 0;
+padding: 0;
+}
+#vpmajkhous .gt_table {
+display: table;
+border-collapse: collapse;
+line-height: normal;
+margin-left: auto;
+margin-right: auto;
+color: #333333;
+font-size: 21px;
+font-weight: normal;
+font-style: normal;
+background-color: #FFFFFF;
+width: 920px;
+border-top-style: none;
+border-top-width: 2px;
+border-top-color: #A8A8A8;
+border-right-style: none;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+border-bottom-style: none;
+border-bottom-width: 2px;
+border-bottom-color: #A8A8A8;
+border-left-style: none;
+border-left-width: 2px;
+border-left-color: #D3D3D3;
+}
+#vpmajkhous .gt_caption {
+padding-top: 4px;
+padding-bottom: 4px;
+}
+#vpmajkhous .gt_title {
+color: #333333;
+font-size: 125%;
+font-weight: initial;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 5px;
+padding-right: 5px;
+border-bottom-color: #FFFFFF;
+border-bottom-width: 0;
+}
+#vpmajkhous .gt_subtitle {
+color: #333333;
+font-size: 85%;
+font-weight: initial;
+padding-top: 3px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+border-top-color: #FFFFFF;
+border-top-width: 0;
+}
+#vpmajkhous .gt_heading {
+background-color: #FFFFFF;
+text-align: center;
+border-bottom-color: #FFFFFF;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+}
+#vpmajkhous .gt_bottom_border {
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+}
+#vpmajkhous .gt_col_headings {
+border-top-style: solid;
+border-top-width: 4px;
+border-top-color: #2F6B57;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+}
+#vpmajkhous .gt_col_heading {
+color: #333333;
+background-color: #E0EBE0;
+font-size: 23px;
+font-weight: bold;
+text-transform: inherit;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+vertical-align: bottom;
+padding-top: 5px;
+padding-bottom: 6px;
+padding-left: 5px;
+padding-right: 5px;
+overflow-x: hidden;
+}
+#vpmajkhous .gt_column_spanner_outer {
+color: #333333;
+background-color: #E0EBE0;
+font-size: 23px;
+font-weight: bold;
+text-transform: inherit;
+padding-top: 0;
+padding-bottom: 0;
+padding-left: 4px;
+padding-right: 4px;
+}
+#vpmajkhous .gt_column_spanner_outer:first-child {
+padding-left: 0;
+}
+#vpmajkhous .gt_column_spanner_outer:last-child {
+padding-right: 0;
+}
+#vpmajkhous .gt_column_spanner {
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+vertical-align: bottom;
+padding-top: 5px;
+padding-bottom: 5px;
+overflow-x: hidden;
+display: inline-block;
+width: 100%;
+}
+#vpmajkhous .gt_spanner_row {
+border-bottom-style: hidden;
+}
+#vpmajkhous .gt_group_heading {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+color: #333333;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+text-transform: inherit;
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #D3D3D3;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+vertical-align: middle;
+text-align: left;
+}
+#vpmajkhous .gt_empty_group_heading {
+padding: 0.5px;
+color: #333333;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #D3D3D3;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+vertical-align: middle;
+}
+#vpmajkhous .gt_from_md > :first-child {
+margin-top: 0;
+}
+#vpmajkhous .gt_from_md > :last-child {
+margin-bottom: 0;
+}
+#vpmajkhous .gt_row {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+margin: 10px;
+border-top-style: solid;
+border-top-width: 1px;
+border-top-color: #C1D2C5;
+border-left-style: none;
+border-left-width: 1px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 1px;
+border-right-color: #D3D3D3;
+vertical-align: middle;
+overflow-x: hidden;
+}
+#vpmajkhous .gt_stub {
+color: #333333;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+text-transform: inherit;
+border-right-style: solid;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+padding-left: 5px;
+padding-right: 5px;
+}
+#vpmajkhous .gt_stub_row_group {
+color: #333333;
+background-color: #FFFFFF;
+font-size: 100%;
+font-weight: initial;
+text-transform: inherit;
+border-right-style: solid;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+padding-left: 5px;
+padding-right: 5px;
+vertical-align: top;
+}
+#vpmajkhous .gt_row_group_first td {
+border-top-width: 2px;
+}
+#vpmajkhous .gt_row_group_first th {
+border-top-width: 2px;
+}
+#vpmajkhous .gt_summary_row {
+color: #333333;
+background-color: #FFFFFF;
+text-transform: inherit;
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#vpmajkhous .gt_first_summary_row {
+border-top-style: solid;
+border-top-color: #D3D3D3;
+}
+#vpmajkhous .gt_first_summary_row.thick {
+border-top-width: 2px;
+}
+#vpmajkhous .gt_last_summary_row {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+}
+#vpmajkhous .gt_grand_summary_row {
+color: #333333;
+background-color: #FFFFFF;
+text-transform: inherit;
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#vpmajkhous .gt_first_grand_summary_row {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+border-top-style: double;
+border-top-width: 6px;
+border-top-color: #D3D3D3;
+}
+#vpmajkhous .gt_last_grand_summary_row_top {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+border-bottom-style: double;
+border-bottom-width: 6px;
+border-bottom-color: #D3D3D3;
+}
+#vpmajkhous .gt_striped {
+background-color: rgba(128, 128, 128, 0.05);
+}
+#vpmajkhous .gt_table_body {
+border-top-style: solid;
+border-top-width: 2px;
+border-top-color: #D3D3D3;
+border-bottom-style: solid;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+}
+#vpmajkhous .gt_footnotes {
+color: #333333;
+background-color: #FFFFFF;
+border-bottom-style: none;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 2px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+}
+#vpmajkhous .gt_footnote {
+margin: 0px;
+font-size: 90%;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#vpmajkhous .gt_sourcenotes {
+color: #333333;
+background-color: #FFFFFF;
+border-bottom-style: none;
+border-bottom-width: 2px;
+border-bottom-color: #D3D3D3;
+border-left-style: none;
+border-left-width: 2px;
+border-left-color: #D3D3D3;
+border-right-style: none;
+border-right-width: 2px;
+border-right-color: #D3D3D3;
+}
+#vpmajkhous .gt_sourcenote {
+font-size: 90%;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 5px;
+padding-right: 5px;
+}
+#vpmajkhous .gt_left {
+text-align: left;
+}
+#vpmajkhous .gt_center {
+text-align: center;
+}
+#vpmajkhous .gt_right {
+text-align: right;
+font-variant-numeric: tabular-nums;
+}
+#vpmajkhous .gt_font_normal {
+font-weight: normal;
+}
+#vpmajkhous .gt_font_bold {
+font-weight: bold;
+}
+#vpmajkhous .gt_font_italic {
+font-style: italic;
+}
+#vpmajkhous .gt_super {
+font-size: 65%;
+}
+#vpmajkhous .gt_footnote_marks {
+font-size: 75%;
+vertical-align: 0.4em;
+position: initial;
+}
+#vpmajkhous .gt_asterisk {
+font-size: 100%;
+vertical-align: 0;
+}
+#vpmajkhous .gt_indent_1 {
+text-indent: 5px;
+}
+#vpmajkhous .gt_indent_2 {
+text-indent: 10px;
+}
+#vpmajkhous .gt_indent_3 {
+text-indent: 15px;
+}
+#vpmajkhous .gt_indent_4 {
+text-indent: 20px;
+}
+#vpmajkhous .gt_indent_5 {
+text-indent: 25px;
+}
+#vpmajkhous .katex-display {
+display: inline-flex !important;
+margin-bottom: 0.75em !important;
+}
+#vpmajkhous div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+height: 0px !important;
+}
+</style>
+
+<table class="gt_table caption-top" data-quarto-bootstrap="false">
 <thead>
-<tr class="header">
-<th>Development</th>
-<th>What it made more possible</th>
+<tr class="gt_col_headings header">
+<th id="Development" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Development</th>
+<th id="What-it-made-more-possible" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">What it made more possible</th>
 </tr>
 </thead>
-<tbody>
+<tbody class="gt_table_body">
 <tr class="odd">
-<td>Missouri hired Dan Witter (1978)</td>
-<td>Full-time agency human-dimensions expertise</td>
+<td class="gt_row gt_left" headers="Development">Missouri hired Dan Witter (1978)</td>
+<td class="gt_row gt_left" headers="What it made more possible">Full-time agency human-dimensions expertise</td>
 </tr>
 <tr class="even">
-<td>Cornell’s Human Dimensions Research Unit</td>
-<td>Dedicated university research capacity</td>
+<td class="gt_row gt_left" headers="Development">Cornell&#39;s Human Dimensions Research Unit</td>
+<td class="gt_row gt_left" headers="What it made more possible">Dedicated university research capacity</td>
 </tr>
 <tr class="odd">
-<td>Yale’s Human Dimensions of Wildlife Study Group</td>
-<td>Professional scholarly community</td>
+<td class="gt_row gt_left" headers="Development">Yale&#39;s Human Dimensions of Wildlife Study Group</td>
+<td class="gt_row gt_left" headers="What it made more possible">Professional scholarly community</td>
 </tr>
 <tr class="even">
-<td>Later journals and university programs</td>
-<td>A recognized field and shared methods</td>
+<td class="gt_row gt_left" headers="Development">Later journals and university programs</td>
+<td class="gt_row gt_left" headers="What it made more possible">A recognized field and shared methods</td>
 </tr>
 </tbody>
 </table>
+
 </div>
 <div class="source-note">
 <p>Source: Chapter 2, §2.2.6, Boxes 2.1–2.2.</p>
@@ -3233,6 +4058,44 @@ window.QuartoSupport = function () {
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
