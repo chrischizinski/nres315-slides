@@ -24,6 +24,7 @@
     "slides/06-evidence-planning.qmd",
     "slides/07-implementation-learning.qmd",
     "source-footer.lua",
-    "styles/slides.scss"
+    "styles/slides.scss",
+    "table-style.R"
   ]
 }

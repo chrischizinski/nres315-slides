@@ -2,7 +2,7 @@
 title: "Evidence, Framing, and Planning"
 subtitle: "Week 4 Monday — Chapter 6"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
-date: "Last updated: August 24, 2026"
+date: "Last updated: Sept 14, 2026"
 filters:
   - ../source-footer.lua
 format:
@@ -16,29 +16,39 @@ format:
 
 ## Building from Week 3
 
-**Last week:** Legitimate conservation decisions require attention to justice, participation, and governance.
+**Last week:** Legitimate conservation decisions require attention to justice,
+participation, and governance.
+
+<br>
 
 **This week:** How do managers use evidence to plan, act, and learn?
 
 ::: notes
-Time: 3 minutes. Source: Chapter 6, §§6.1–6.2. Retrieve the prior connection: authority and participation shape which problems are recognized and whose evidence counts.
+Time: 3 minutes. Source: Chapter 6, §§6.1--6.2. Retrieve the prior connection:
+authority and participation shape which problems are recognized and whose
+evidence counts.
 :::
 
 ## The central question
 
 ::: {.fragment fragment-index=1}
-How does a human-dimensions orientation improve an evidence-based management decision?
+How does a human-dimensions orientation improve an evidence-based management
+decision?
 :::
 
+<br>
+
 ::: {.fragment fragment-index=2}
-It broadens both the evidence managers use and the outcomes they seek.
+At the most basic, it broadens both the evidence managers use and the outcomes
+they seek.
 :::
 
 ::: notes
-Time: 3 minutes. Source: Chapter 6, §§6.1–6.2. Ask students to listen for two threads today: evidence and problem framing.
+Time: 3 minutes. Source: Chapter 6, §§6.1--6.2. Ask students to listen for two
+threads today: evidence and problem framing.
 :::
 
-## Evidence and framing {background-color="#123f5a" .section-slide}
+## Evidence and framing {.section-slide background-color="#123f5a"}
 
 From a management question to a defensible plan.
 
@@ -49,56 +59,73 @@ Time: 1 minute. Transition slide.
 ## A decision needs more than biological evidence {.smaller}
 
 ::: columns
-::: {.column width="50%"}
+::::: {.column width="50%"}
 **What is happening?**
 
 - Biological or ecological conditions
 - Technical feasibility
 - Legal mandates
-:::
+:::::
 
-::: {.column width="50%"}
+::::: {.column width="50%"}
 **What should be done?**
 
 - Economic feasibility
 - Social values
 - Public knowledge and experience
-:::
+:::::
 :::
 
 ::: {.fragment fragment-index=1}
-**Key point:** These evidence sources complement one another; none resolves every management question alone.
+**Key point:** These evidence sources complement one another; none resolves
+every management question alone.
 :::
 
 ::: notes
-Time: 6 minutes. Source: Chapter 6, §6.2.1. Emphasize balance rather than a hierarchy of evidence.
+Time: 6 minutes. Source: Chapter 6, §6.2.1. Emphasize balance rather than a
+hierarchy of evidence.
 :::
 
 ## Evidence answers different parts of the decision
 
-::: {.smaller}
+```{r}
+#| label: load_style
+#| echo: false
+#| output: asis
 
-| Evidence type | A question it can help answer |
-|---|---|
-| Ecological and biological | What condition, risk, or response is occurring? |
-| Social and economic | Who is affected, what matters, and what tradeoffs are feasible? |
-| Legal and institutional | What authority, duty, or process applies? |
-| Local and experiential | What place-based knowledge or implementation concern should shape the plan? |
+source("../table-style.R")
 
-:::
+data.frame(
+  `Evidence type` = c(
+    "Ecological and biological",
+    "Social and economic",
+    "Legal and institutional",
+    "Local and experiential"
+  ),
+  `A question it can help answer` = c(
+    "What condition, risk, or response is occurring?",
+    "Who is affected, what matters, and what tradeoffs are feasible?",
+    "What authority, duty, or process applies?",
+    "What place-based knowledge or implementation concern should shape the plan?"
+  ),
+  check.names = FALSE
+) |>
+  nres315_slide_table(font_size = 21, header_font_size = 23, row_padding = 8)
+```
 
 ::: {.source-note}
 Source: Chapter 6, §6.2.1.
 :::
 
 ::: notes
-Time: 3 minutes. Evidence types answer different questions; the table does not create a hierarchy or claim each source resolves a decision alone.
+Time: 3 minutes. Evidence types answer different questions; the table does not
+create a hierarchy or claim each source resolves a decision alone.
 :::
 
 ## Four questions organize a decision
 
 ::: columns
-::: {.column width="50%"}
+::::: {.column width="50%"}
 **Why?**
 
 Why manage or conserve this resource?
@@ -106,9 +133,9 @@ Why manage or conserve this resource?
 **Who?**
 
 Which publics, beneficiaries, and partners are involved?
-:::
+:::::
 
-::: {.column width="50%"}
+::::: {.column width="50%"}
 **What?**
 
 What impacts or outcomes are desired?
@@ -116,35 +143,47 @@ What impacts or outcomes are desired?
 **How?**
 
 How will the decision be made, carried out, and assessed?
-:::
+:::::
 :::
 
 ::: notes
-Time: 6 minutes. Source: Chapter 6, §6.2. Ask students which question is easiest to overlook when a decision is framed only as a biological problem.
+Time: 6 minutes. Source: Chapter 6, §6.2. Ask students which question is easiest
+to overlook when a decision is framed only as a biological problem.
 :::
 
 ## Research and participation have different jobs
 
 **Research** can describe conditions, relationships, and likely consequences.
 
-**Participation** can reveal values, concerns, local knowledge, and acceptable tradeoffs.
+<br>
+
+**Participation** can reveal values, concerns, local knowledge, and acceptable
+tradeoffs.
+
+<br>
 
 ::: {.fragment fragment-index=1}
-::: {.key-idea}
-Meaningful participation is more than a legal requirement. It needs a structured process, capable staff, and genuine integration of input.
-:::
+::::: {.key-idea}
+Meaningful participation is more than a legal requirement. It needs a structured
+process, capable staff, and genuine integration of input.
+:::::
 :::
 
 ::: notes
-Time: 5 minutes. Source: Chapter 6, §6.2.1. Connect to Grand Staircase–Escalante: participation affects both information and legitimacy.
+Time: 5 minutes. Source: Chapter 6, §6.2.1. Connect to Grand
+Staircase--Escalante: participation affects both information and legitimacy.
 :::
 
 ## Evidence-informed does not mean expert-only
 
-Research can reduce uncertainty and test relationships. Participation can clarify values, lived experience, local knowledge, and acceptable tradeoffs.
+Research can reduce uncertainty and test relationships. Participation can
+clarify values, lived experience, local knowledge, and acceptable tradeoffs.
+
+<br>
 
 ::: {.key-idea}
-A defensible process makes both the evidence considered and the role of public input visible.
+A defensible process makes both the evidence considered and the role of public
+input visible.
 :::
 
 ::: {.source-note}
@@ -152,19 +191,23 @@ Source: Chapter 6, §6.2.1.
 :::
 
 ::: notes
-Time: 2 minutes. Connect this to Chapters 3–5: public participation and accountability are part of sound decision processes, not extras after a technically complete decision.
+Time: 2 minutes. Connect this to Chapters 3--5: public participation and
+accountability are part of sound decision processes, not extras after a
+technically complete decision.
 :::
 
-## Plan–Do–Learn is iterative
+## Plan--Do--Learn is iterative
 
-![](../assets/manuscript-figures/figure-6-1-plan-do-learn.png){fig-alt="A circular cycle with three connected stages: Plan, Do, and Learn. Arrows show that learning feeds back into planning." height=380}
+![](../assets/manuscript-figures/figure-6-1-plan-do-learn.png){fig-alt="A circular cycle with three connected stages: Plan, Do, and Learn. Arrows show that learning feeds back into planning." height=480}
 
 ::: {.fragment fragment-index=1}
-Learning can revise the action, the objectives, or even the original problem frame.
+Learning can revise the action, the objectives, or even the original problem
+frame.
 :::
 
 ::: notes
-Time: 6 minutes. Source: Chapter 6, §6.3 and Figure 6.1. Explain the image in words before discussing it. The alt text provides the text equivalent.
+Time: 6 minutes. Source: Chapter 6, §6.3 and Figure 6.1. Explain the image in
+words before discussing it. The alt text provides the text equivalent.
 :::
 
 ## Structured decision making makes choices inspectable
@@ -181,10 +224,12 @@ Source: Chapter 6, §6.3.1.
 :::
 
 ::: notes
-Time: 3 minutes. The goal is not to make every decision slow or overly technical. It is to make the reasoning visible enough to compare alternatives and learn from results.
+Time: 3 minutes. The goal is not to make every decision slow or overly
+technical. It is to make the reasoning visible enough to compare alternatives
+and learn from results.
 :::
 
-## Planning turns a broad concern into a choice {background-color="#2f6b57" .section-slide}
+## Planning turns a broad concern into a choice {.section-slide background-color="#2f6b57"}
 
 Clear framing, objectives, alternatives, and measures.
 
@@ -206,26 +251,23 @@ Different frames can produce different, defensible management choices.
 :::
 
 ::: notes
-Time: 5 minutes. Source: Chapter 6, §§6.3–6.4. Have students apply why/who/what/how to the Puget Sound effort as a low-stakes preview.
+Time: 5 minutes. Source: Chapter 6, §§6.3--6.4. Have students apply
+why/who/what/how to the Puget Sound effort as a low-stakes preview.
 :::
 
 ## A goal gives direction; objectives make it testable
 
 ::: {.columns}
-::: {.column width="48%"}
-
+::::: {.column width="48%"}
 **Goal**
 
 A broad, desired direction for management.
-
-:::
-::: {.column width="52%"}
-
+:::::
+::::: {.column width="52%"}
 **Objective**
 
 A specific, measurable statement of what the plan intends to achieve.
-
-:::
+:::::
 :::
 
 ::: {.source-note}
@@ -233,43 +275,52 @@ Source: Chapter 6, §6.3.2.1.
 :::
 
 ::: notes
-Time: 2 minutes. Students often jump directly from a broad concern to an action. This distinction makes the missing middle visible.
+Time: 2 minutes. Students often jump directly from a broad concern to an action.
+This distinction makes the missing middle visible.
 :::
 
 ## Objectives, actions, and measures are not interchangeable {.compact}
 
 ::: columns
-::: {.column width="33%"}
+::::: {.column width="33%"}
 **Objective**
 
 The desired change.
 
 *Example:* Improve access.
-:::
+:::::
 
-::: {.column width="33%"}
+::::: {.column width="33%"}
 **Action**
 
 What managers do.
 
 *Example:* Restore a boat ramp.
-:::
+:::::
 
-::: {.column width="33%"}
+::::: {.column width="33%"}
 **Measure**
 
 Evidence of change.
 
 *Example:* Reported ability to access the site.
-:::
+:::::
 :::
 
+<br>
+
 ::: {.fragment fragment-index=1}
-SMART objectives are specific, measurable, achievable, relevant, and time-bound.
+SMART objectives are
+<span class="smart-term"><span class="smart-initial">S</span>pecific</span>,
+<span class="smart-term"><span class="smart-initial">M</span>easurable</span>,
+<span class="smart-term"><span class="smart-initial">A</span>chievable</span>,
+<span class="smart-term"><span class="smart-initial">R</span>elevant</span>, and
+<span class="smart-term"><span class="smart-initial">T</span>ime-bound</span>.
 :::
 
 ::: notes
-Time: 7 minutes. Source: Chapter 6, §§6.3.2–6.3.2.2. Use the example only to distinguish the three terms; do not treat it as a Chapter 6 case claim.
+Time: 7 minutes. Source: Chapter 6, §§6.3.2--6.3.2.2. Use the example only to
+distinguish the three terms; do not treat it as a Chapter 6 case claim.
 :::
 
 ## A success metric should support a management decision
@@ -286,55 +337,61 @@ Source: Chapter 6, §6.3.2.2.
 :::
 
 ::: notes
-Time: 3 minutes. A metric is part of the learning system. Ask what would be lost if a plan monitored only activity—such as number of meetings or dollars spent—rather than outcomes.
+Time: 3 minutes. A metric is part of the learning system. Ask what would be lost
+if a plan monitored only activity---such as number of meetings or dollars
+spent---rather than outcomes.
 :::
 
-## “Do” includes implementation, not just a decision
+## "Do" includes implementation, not just a decision
 
-Once an alternative is chosen, professionals must translate it into action through roles, resources, communication, partnerships, and attention to implementation conditions.
+Once an alternative is chosen, professionals must translate it into action
+through roles, resources, communication, partnerships, and attention to
+implementation conditions.
 
 ::: {.source-note}
 Source: Chapter 6, §6.3.3.
 :::
 
 ::: notes
-Time: 2 minutes. Bring forward the governance link: an action can be technically attractive but infeasible without authority, funding, partners, or an implementation plan.
+Time: 2 minutes. Bring forward the governance link: an action can be technically
+attractive but infeasible without authority, funding, partners, or an
+implementation plan.
 :::
 
-## “Learn” requires monitoring and evaluation
+## "Learn" requires monitoring and evaluation
 
 ::: {.columns}
-::: {.column width="50%"}
-
+::::: {.column width="50%"}
 **Monitor**
 
 Collect information about conditions, implementation, and outcomes over time.
-
-:::
-::: {.column width="50%"}
-
+:::::
+::::: {.column width="50%"}
 **Evaluate**
 
 Interpret that information against objectives to decide what should change.
+:::::
+:::
 
-:::
-:::
+<br>
 
 ::: {.key-idea}
 Learning can change an action, an objective, or the original problem frame.
 :::
 
 ::: {.source-note}
-Source: Chapter 6, §§6.3.4–6.3.4.2.
+Source: Chapter 6, §§6.3.4--6.3.4.2.
 :::
 
 ::: notes
-Time: 3 minutes. Monitoring alone is not learning. Evaluation connects observations to a decision about whether to continue or adapt.
+Time: 3 minutes. Monitoring alone is not learning. Evaluation connects
+observations to a decision about whether to continue or adapt.
 :::
 
 ## Preparing for Friday: Puget Sound
 
-Puget Sound's long-term recovery effort considers ecological conditions and human well-being together.
+Puget Sound's long-term recovery effort considers ecological conditions and
+human well-being together.
 
 ::: {.fragment fragment-index=1}
 Come Friday ready to identify:
@@ -345,15 +402,18 @@ Come Friday ready to identify:
 :::
 
 ::: notes
-Time: 4 minutes. Source: Chapter 6, Box 6.2. Preview only; Wednesday will develop implementation, monitoring, and the Human Well-being Vital Signs.
+Time: 4 minutes. Source: Chapter 6, Box 6.2. Preview only; Wednesday will
+develop implementation, monitoring, and the Human Well-being Vital Signs.
 :::
 
 ## Exit check
 
 An agency relies only on biological information to choose an action.
 
-**Which of the four decision questions is most likely to be weakened—and why?**
+**Which of the four decision questions is most likely to be weakened---and
+why?**
 
 ::: notes
-Time: 3 minutes. Source: Chapter 6, §6.2. Collect a short written response or pair-share. Close by previewing the Plan–Do–Learn cycle for Wednesday.
+Time: 3 minutes. Source: Chapter 6, §6.2. Collect a short written response or
+pair-share. Close by previewing the Plan--Do--Learn cycle for Wednesday.
 :::

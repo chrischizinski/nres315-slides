@@ -362,12 +362,26 @@ expertise and a dependable revenue source.
 
 ## Era of Game Management: a durable funding legacy
 
-::: {.smaller}
-  | Program                      | Revenue source                             | What it supported                                                   |
-  | ---------------------------- | ------------------------------------------ | ------------------------------------------------------------------- |
-  | Pittman–Robertson Act (1937) | Excise tax on sporting arms and ammunition | State wildlife restoration, habitat, research, public hunting areas |
-  | Dingell–Johnson Act (1950)   | Excise tax on certain fishing tackle       | Sport-fish restoration and related state projects                   |
-:::
+```{r}
+#| echo: false
+#| output: asis
+
+source("../table-style.R")
+
+data.frame(
+  Program = c("Pittman–Robertson Act (1937)", "Dingell–Johnson Act (1950)"),
+  `Revenue source` = c(
+    "Excise tax on sporting arms and ammunition",
+    "Excise tax on certain fishing tackle"
+  ),
+  `What it supported` = c(
+    "State wildlife restoration, habitat, research, public hunting areas",
+    "Sport-fish restoration and related state projects"
+  ),
+  check.names = FALSE
+) |>
+  nres315_slide_table(font_size = 20, header_font_size = 22, row_padding = 8)
+```
 
 ::: {.key-idea}
 The model linked purchases by hunters, anglers, and later boaters to public
@@ -510,14 +524,29 @@ examples.
 
 ## Institutionalization changed who agencies could learn from
 
-::: {.smaller}
-  | Development                                     | What it made more possible                  |
-  | ----------------------------------------------- | ------------------------------------------- |
-  | Missouri hired Dan Witter (1978)                | Full-time agency human-dimensions expertise |
-  | Cornell's Human Dimensions Research Unit        | Dedicated university research capacity      |
-  | Yale's Human Dimensions of Wildlife Study Group | Professional scholarly community            |
-  | Later journals and university programs          | A recognized field and shared methods       |
-:::
+```{r}
+#| echo: false
+#| output: asis
+
+source("../table-style.R")
+
+data.frame(
+  Development = c(
+    "Missouri hired Dan Witter (1978)",
+    "Cornell's Human Dimensions Research Unit",
+    "Yale's Human Dimensions of Wildlife Study Group",
+    "Later journals and university programs"
+  ),
+  `What it made more possible` = c(
+    "Full-time agency human-dimensions expertise",
+    "Dedicated university research capacity",
+    "Professional scholarly community",
+    "A recognized field and shared methods"
+  ),
+  check.names = FALSE
+) |>
+  nres315_slide_table(font_size = 21, header_font_size = 23, row_padding = 8)
+```
 
 ::: {.source-note}
 Source: Chapter 2, §2.2.6, Boxes 2.1--2.2.
