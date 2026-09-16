@@ -14,19 +14,20 @@ format:
     embed-resources: true
 ---
 
-## Building from Week 3
+## Building from public-trust thinking
 
-**Last week:** Legitimate conservation decisions require attention to justice,
-participation, and governance.
+**Last week:** Public institutions hold responsibilities to current and future
+beneficiaries.
 
 <br>
 
-**This week:** How do managers use evidence to plan, act, and learn?
+**This week:** How do managers use evidence to plan, act, and learn in ways
+that make those responsibilities visible?
 
 ::: notes
 Time: 3 minutes. Source: Chapter 6, §§6.1--6.2. Retrieve the prior connection:
-authority and participation shape which problems are recognized and whose
-evidence counts.
+public-trust thinking asks managers to account for beneficiaries and future
+options; this chapter provides a routine for making and revising decisions.
 :::
 
 ## The central question

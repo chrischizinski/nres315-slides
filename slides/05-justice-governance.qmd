@@ -1,8 +1,8 @@
 ---
 title: "Justice, Participation, and Governance"
-subtitle: "Week 3 Wednesday — Chapters 4 and 5"
+subtitle: "Week 5 Monday — Chapters 4 and 5"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
-date: "August 28, 2026"
+date: "Last updated: Sept 16, 2026"
 format:
   revealjs:
     theme: simple
@@ -12,12 +12,14 @@ format:
     embed-resources: true
 ---
 
-## This week begins Wednesday
+## Why this comes after evidence and learning
 
-Monday is Labor Day. Today integrates Chapters 4 and 5 to prepare for Friday's application.
+Evidence, planning, and learning are essential. This week asks who is included
+in those processes, whose knowledge is taken seriously, and how authority is
+exercised.
 
 ::: notes
-Time: 2 minutes. Confirm that the quiz is due Tuesday at 11:59 p.m., before Wednesday's class, because Monday is Labor Day.
+Time: 2 minutes. Confirm that the quiz is due Sunday at 11:59 p.m., before Monday's class, and point students to the Chapter 4–5 Friday application.
 :::
 
 ## Today's question

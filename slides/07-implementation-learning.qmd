@@ -1,8 +1,8 @@
 ---
 title: "Implementation, Monitoring, and Learning"
-subtitle: "Week 4 Wednesday — Chapter 6"
+subtitle: "Week 4 Wednesday — Decision Systems in Practice"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
-date: "Last updated: August 24, 2026"
+date: "Last updated: Sept 16, 2026"
 filters:
   - ../source-footer.lua
 format:
@@ -14,231 +14,411 @@ format:
     embed-resources: true
 ---
 
-## Building from Monday
+## What happens after a plan is adopted?
 
-**Monday:** Evidence and framing shape a management plan.
+Monday asked how a management problem is framed and how evidence can shape a
+plan.
 
-**Today:** Implementation, monitoring, and evaluation show whether that plan works.
+<br>
 
-::: notes
-Time: 3 minutes. Source: Chapter 6, §§6.3.3–6.3.4. Retrieve Plan–Do–Learn and ask students what could go wrong after a plan is adopted.
-:::
-
-## The central question
-
-::: {.fragment fragment-index=1}
-How can managers learn whether an action produced both ecological and human benefits?
-:::
-
-::: {.fragment fragment-index=2}
-They need clear objectives, suitable measures, and a willingness to adapt.
-:::
+**Today:** We follow the decision into the real work: choosing among
+alternatives, carrying an action out, finding out what happened, and changing
+course when necessary.
 
 ::: notes
-Time: 2 minutes. Source: Chapter 6, §§6.3.3–6.3.4.2.
+Time: 2 minutes. Source: Chapter 6, §§6.3--6.3.4. Set up the distinction: today
+is not a recap of Plan--Do--Learn. It asks how the process operates in real,
+contested, and changing management settings.
 :::
 
-## From plan to action {background-color="#123f5a" .section-slide}
+## By the end of class, you can
 
-Implementation is where a plan meets real conditions.
+- explain what structured decision making makes visible in a contested
+  management choice;
+- distinguish implementation, monitoring, and evaluation in real management
+  examples; and
+- use both quantitative and qualitative evidence to diagnose what should change
+  next.
 
 ::: notes
-Time: 1 minute. Transition slide.
+Time: 1 minute. Source: Chapter 6, §§6.3.1--6.3.4.2. These objectives map to the
+three conceptual sections and the barbed-hook application near the end.
 :::
 
-## Doing is more than announcing a plan
+## Plan--Do--Learn is a family of decision tools {.section-slide .divider-plan background-color="#123f5a"}
 
-Implementation can include:
-
-- rule-making and policy;
-- habitat restoration;
-- public involvement;
-- law enforcement;
-- surveys; and
-- day-to-day professional decisions.
+<br> <br> Plan--Do--Learn is the shared iterative principle behind several
+tools, not the only way to manage.
 
 ::: notes
-Time: 5 minutes. Source: Chapter 6, §6.3.3. Explain that implementation occurs within legal mandates, agency missions, capacity, and constraints.
+Time: 0 minutes. Source: Chapter 6, §6.3 and Table 6.1. Transition from Monday's
+generalized cycle to its concrete decision frameworks.
 :::
 
-## Plan–Do–Learn: each stage asks a different question {.smaller}
+## Different tools fit different management problems {.smaller}
 
-::: columns
-::: {.column width="33%"}
-**Plan**
+- **Structured decision making:** clarifies objectives, alternatives,
+  consequences, tradeoffs, and monitoring needs.
+- **Adaptive management:** uses monitoring to reduce uncertainty and update
+  recurring decisions.
+- **Systematic conservation planning:** selects spatial areas and features
+  suited to conservation goals.
+- **Manager's model:** describes the social-ecological management system,
+  problems, and desired conditions.
+- **Open Standards:** applies a systematic, iterative conservation process.
 
-What is the problem? What outcomes and alternatives matter?
-:::
-
-::: {.column width="33%"}
-**Do**
-
-What action will be carried out, by whom, and under what constraints?
-:::
-
-::: {.column width="33%"}
-**Learn**
-
-What changed? What should be adjusted next?
-:::
-:::
-
-::: {.fragment fragment-index=1}
-The cycle is not complete unless learning informs the next decision.
+::: {.source-note}
+Source: Chapter 6, Table 6.1.
 :::
 
 ::: notes
-Time: 6 minutes. Source: Chapter 6, §6.3 and Figure 6.1. Invite students to trace one management decision through all three stages.
+Time: 3 minutes. Source: Chapter 6, Table 6.1. Do not teach each tool in depth.
+Ask which tool seems most useful when uncertainty is central, then clarify that
+the point is fit, not a universal winner.
 :::
 
-## Monitoring and evaluation {background-color="#2f6b57" .section-slide}
+## Structured decision making makes tradeoffs discussable
 
-Evidence for learning rather than evidence for its own sake.
+It does not remove conflict, uncertainty, or value differences.
 
-::: notes
-Time: 1 minute. Transition slide.
-:::
+It makes them visible by documenting:
 
-## Monitoring and evaluation are linked
+- objectives and alternatives;
+- evidence and assumptions;
+- consequences and tradeoffs; and
+- public input and how the decision will be evaluated.
 
-::: columns
-::: {.column width="50%"}
-**Monitoring**
+<br>
 
-Systematically and repeatedly collects information to guide future decisions.
-:::
-
-::: {.column width="50%"}
-**Evaluation**
-
-Determines whether goals, objectives, and success measures were met.
-:::
-:::
-
-::: {.fragment fragment-index=1}
-Monitoring supplies evidence; evaluation interprets it against the decision's objectives.
+::: {.key-idea}
+🌟 Transparency is not agreement. It is being able to show what was considered,
+what mattered, and how the decision can be revisited.
 :::
 
 ::: notes
-Time: 6 minutes. Source: Chapter 6, §§6.3.4–6.3.4.2. Ask why managers cannot use the terms as synonyms.
+Time: 3 minutes. Source: Chapter 6, §6.3.1. Link directly to the course's
+public-trust and governance work: a defensible process documents both the
+decision and its reasoning.
 :::
 
-## Measures should match the objective {.smaller}
+## Deer tags: the biological answer is not the whole decision
 
-::: columns
-::: {.column width="50%"}
-**Ecological measures**
+When population estimates decline, a state agency might consider:
 
-- population or habitat indicators
-- harvest levels
-- other resource conditions
-:::
+- reducing tags statewide;
+- changing tags only in selected management units;
+- changing season timing;
+- improving habitat; or
+- pairing harvest prescriptions with hunter-access programs.
 
-::: {.column width="50%"}
-**Human-dimensions measures**
+Each alternative can be compared using biological outcomes, hunter satisfaction,
+perceived fairness, enforcement feasibility, and local economic effects.
 
-- support and satisfaction
-- license sales or days afield
-- perceptions of fairness or access
-:::
-:::
-
-::: {.fragment fragment-index=1}
-An evidence-informed decision can require both kinds of measures.
+::: {.source-note}
+Source: Chapter 6, §6.3.1.
 :::
 
 ::: notes
-Time: 5 minutes. Source: Chapter 6, §6.3.2.2. These are examples from the chapter, not a universal checklist.
+Time: 4 minutes. Source: Chapter 6, §6.3.1. This is the chapter's deer-tag
+example. Ask: Which consideration disappears if we call the problem only
+"declining deer numbers"? Do not ask students to select a preferred alternative.
 :::
 
-## What will count as success?
+## Do: implementation is a stream of decisions {.section-slide .divider-do background-color="#2f6b57"}
 
-Before collecting data, managers need to decide:
-
-1. What change is expected?
-2. For whom should that change matter?
-3. What evidence would show progress or a problem?
-4. What decision could change in response?
+<br> <br> Implementation turns plans into action but it is not one single
+action.
 
 ::: notes
-Time: 5 minutes. Source: Chapter 6, §§6.3.2–6.3.4. This slide synthesizes the chapter's planning and learning logic. Ask students which question is hardest to answer before implementation begins.
+Time: 0 minutes. Source: Chapter 6, §6.3.3. Transition to the practical work of
+carrying out a decision.
 :::
 
-## Chapter application: Puget Sound
+## Where implementation actually happens
 
-The Puget Sound recovery effort combines ecological indicators with **Human Well-being Vital Signs**.
+Implementation happens in multiple places:
 
-::: {.fragment fragment-index=1}
-The effort involves agencies, Tribes, universities, practitioners, and other partners across the region.
-:::
+- formal rules and regulations;
+- administrative policies and program delivery;
+- meetings with publics, habitat restoration, enforcement, and surveys; and
+- routine field-level choices made within plans, policies, and legal mandates.
 
-::: {.fragment fragment-index=2}
-Its measures help partners see whether recovery is affecting people as well as ecological conditions.
-:::
+<br>
 
-::: notes
-Time: 6 minutes. Source: Chapter 6, Box 6.2. Keep claims within the box; this is the shared case for Friday.
-:::
-
-## Human Well-being Vital Signs {.smaller}
-
-::: columns
-::: {.column width="50%"}
-- air quality and drinking water
-- local foods and outdoor activity
-- cultural well-being
-- economic vitality
-:::
-
-::: {.column width="50%"}
-- good governance
-- sense of place
-- stewardship behaviors
-:::
-:::
-
-::: {.fragment fragment-index=1}
-One indicator is not the whole story. Together, they broaden what recovery can mean.
+::: {.key-idea}
+🌟 "Doing" tests whether a plan is practical and relevant in its social,
+political, legal, and ecological context.
 :::
 
 ::: notes
-Time: 5 minutes. Source: Chapter 6, Box 6.2. Ask pairs to select one indicator and explain why it belongs in a recovery effort.
+Time: 3 minutes. Source: Chapter 6, §6.3.3. Ask students to identify which of
+these is most visible to a member of the public, and which might be invisible
+but still shape the outcome.
 :::
 
-## Learning can change the next plan
+## Emergency action still needs accountability
 
-![](../assets/manuscript-figures/figure-6-2-problem-framing.jpg){fig-alt="A diagram showing that problem framing influences the Plan, Do, and Learn stages of a management decision cycle, including who is involved, which evidence is gathered, the alternatives considered, and how success is measured." height=330}
+During highly pathogenic avian influenza outbreaks, an agency may have to:
 
-::: {.fragment fragment-index=1}
-New evidence may change the problem frame, objectives, implementation, or measures—not simply confirm the original plan.
+- restrict wetland access;
+- suspend hunting seasons; or
+- impose carcass-transport rules quickly and with limited input.
+
+<br> Participation is not always possible in an emergency. Agencies still need
+to explain the action, assess what happened, and learn from the response.
+
+::: {.source-note}
+Source: Chapter 6, §6.3.3.
 :::
 
 ::: notes
-Time: 5 minutes. Source: Chapter 6, §6.3.4 and Box 6.2. Explain the diagram in words. The alt text provides the text equivalent.
+Time: 3 minutes. Source: Chapter 6, §6.3.3. This is a useful bridge to
+governance next week: authority, urgency, transparency, and later evaluation all
+matter even when ordinary participation cannot occur.
 :::
 
-## Friday: Puget Sound application
+## Waterfowl zones show why implementation is social
 
-Prepare to explain:
+Setting waterfowl hunting zones can require managers to balance:
 
-1. the effort's why, who, what, and how;
-2. one Human Well-being Vital Sign and its relevance;
-3. one implementation or coordination feature; and
-4. how monitoring could guide the next planning cycle.
+- migration timing and population health;
+- when and where hunters prefer to hunt;
+- flyway guidance, harvest data, and migration models; and
+- input from surveys, advisory panels, or public comments.
 
-::: notes
-Time: 5 minutes. Source: Chapter 6, Box 6.2. Pair students to locate direct support in the box. Remind them that the next reading quiz is due Sunday night before Monday's class.
+<br> The final rule is one event. The implementation process is much larger.
+
+::: {.source-note}
+Source: Chapter 6, §6.3.3.
 :::
 
-## Close: what counts as a strong decision?
+::: notes
+Time: 3 minutes. Source: Chapter 6, §6.3.3. Ask students to name one biological
+and one social consideration in the example. Emphasize that both are part of
+carrying out a defensible decision.
+:::
 
-An evidence-informed decision is transparent about:
+## Learn: monitoring records change; evaluation explains it {.section-slide .divider-learn background-color="#123f5a"}
 
-- its objectives;
-- the evidence and values it uses;
-- implementation constraints; and
-- the ecological and human outcomes it will monitor.
+<br> <br> Monitoring records change. Evaluation explains what that change means
+for the next decision.
 
 ::: notes
-Time: 2 minutes. Source: Chapter 6, §§6.2–6.4. Close the week with the idea that learning is part of management, not a final add-on.
+Time: 0 minutes. Source: Chapter 6, §6.3.4. Transition from what agencies do to
+what they can learn from the results.
+:::
+
+## Monitor an objective, not just what is easy to count
+
+A mule-deer plan set an objective to increase hunter satisfaction by 10% over
+five years. Managers could adjust seasons and harvest rules, then use annual or
+biennial post-season surveys to track encounters, satisfaction, and harvest
+rates before and after implementation.
+
+<br> <br>
+
+::: {.key-idea}
+🌟 The objective supplies the reason to monitor; the repeated design makes
+change interpretable.
+:::
+
+::: {.source-note}
+Source: Chapter 6, §6.3.4.1.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 6, §6.3.4.1. Have students identify the
+objective, action, and three monitored outcomes. This is a concrete example of a
+human-dimensions measure tied to a management action.
+:::
+
+## Long-term social monitoring can reveal a changing public
+
+The National Survey of Fishing, Hunting, and Wildlife-Associated Recreation has
+tracked participation, demographics, expenditures, and motivations roughly every
+five years since 1955.
+
+<br>
+
+::: {.columns}
+::::: {.column width="63%"}
+Those data reveal changes in participation, access, and recreation---including
+growth in non-consumptive activities---and can prompt agencies to reconsider
+recruitment, retention, and funding strategies.
+:::::
+
+::::: {.column width="37%"}
+![](../assets/manuscript-figures/fhwar-2022-national-survey-cover.png){fig-alt="Cover of the 2022 National Survey of Fishing, Hunting, and Wildlife-Associated Recreation, showing two anglers in a boat on golden water." height=340}
+:::::
+:::
+
+::: {.source-note}
+Source: Chapter 6, §6.3.4.1; U.S. Fish and Wildlife Service, *2022 National
+Survey of Fishing, Hunting, and Wildlife-Associated Recreation* (public domain).
+:::
+
+::: notes
+Time: 3 minutes. Source: Chapter 6, §6.3.4.1. This slide lets students see
+monitoring as more than evaluating one project. Ask: What agency assumption
+could become outdated if the public changes but the agency does not track it?
+:::
+
+## Evaluation asks a harder question
+
+> Did we accomplish what we set out to do?
+
+<br>
+
+Numbers such as license sales, harvest, population estimates, participation
+rates, and survey scores are useful benchmarks.
+
+<br>
+
+But numbers alone may not explain **why** an outcome occurred, whose experience
+is missing, or whether the monitoring system itself has a blind spot.
+
+::: notes
+Time: 3 minutes. Source: Chapter 6, §6.3.4.2. Distinguish this from the earlier
+monitoring definition: evaluation interprets evidence against goals, objectives,
+and success metrics.
+:::
+
+## Qualitative evidence can test the monitoring system
+
+Two examples show how qualitative evidence can matter:
+
+- Interviews in Arizona surfaced values and concerns that culturally narrow
+  survey questions missed---questions about whether people see wildlife mainly
+  as a resource for human use or as part of a broader moral community.
+- Interviews with fishing captains uncovered gaps between observed bycatch and
+  what monitoring programs officially recorded, as well as reduction practices
+  absent from agency data.
+
+::: {.key-idea}
+🌟 Qualitative evidence can explain a numerical pattern---or show that the
+pattern is incomplete.
+:::
+
+::: {.source-note}
+Source: Chapter 6, §6.3.4.2.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 6, §6.3.4.2. Ask students why a manager should
+not treat interviews as merely "anecdotes" when they identify a flaw in a
+measurement system. Keep the discussion about complementarity, not a competition
+between methods.
+:::
+
+## Puget Sound: monitoring human well-being takes infrastructure
+
+::: {.columns}
+::::: {.column width="58%"}
+The Human Well-being Vital Signs were developed through a multi-year
+collaborative social-science process tied to regional recovery goals.
+
+<br>
+
+The system combines existing agency data with a state-funded biennial survey of
+9,000 residents across 12 counties. Questions were pilot-tested and reviewed by
+a Social Science Advisory Committee.
+:::::
+
+::::: {.column width="42%"}
+<br> <br>
+![](../assets/manuscript-figures/puget-sound-vital-signs-framework.png){fig-alt="Puget Sound Vital Signs framework. Its human-wellbeing measures include local foods, outdoor activity, cultural wellbeing, economic vitality, good governance, sense of place, and sound stewardship; it connects these to measures of water, habitat, species, and food-web health." height=330}
+:::::
+:::
+
+::: {.source-note}
+Source: Chapter 6, Box 6.2; Puget Sound Partnership, *Puget Sound Vital Signs*.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 6, Box 6.2. This is the richer Puget Sound
+story: who built the indicators, how they are measured, and why they can be used
+alongside ecological monitoring.
+:::
+
+## The point of the Puget Sound indicators
+
+They have helped the Partnership:
+
+- evaluate residents' experiences, behaviors, and perceived quality of life
+  alongside ecological conditions;
+- generate additional human-dimensions research;
+- create an internal social-science position; and
+- incorporate human-well-being priorities into recovery planning.
+
+This is what it looks like when monitoring changes an institution's capacity to
+make decisions.
+
+::: {.source-note}
+Source: Chapter 6, Box 6.2.
+:::
+
+::: notes
+Time: 2 minutes. Source: Chapter 6, Box 6.2. Avoid claiming that every vital
+sign changed. The chapter reports many stable results; its central lesson is
+that social indicators changed what the recovery system could see and do.
+:::
+
+## Apply it: the barbed-hook decision {.section-slide .divider-apply background-color="#2f6b57"}
+
+Try the process on one final decision problem.
+
+::: notes
+Time: 0 minutes. Source: Chapter 6, §6.5, Review Question 3. Transition to an
+active-learning prompt using the chapter's own scenario.
+:::
+
+## Case: restart a decision process
+
+A state wildlife agency banned barbed hooks on a popular river fishery.
+
+An angler survey later found that local publics were upset, felt they could no
+longer catch fish, and believed they had not been properly consulted.
+
+In groups of three, prepare a two-minute response:
+
+1. What did the original process fail to learn **before** implementation?
+2. What biological and social evidence would you gather if you restarted it?
+3. What would you monitor and evaluate after a revised decision?
+
+::: notes
+Time: 7 minutes. Source: Chapter 6, §6.5, Review Question 3. Have students use
+the why/who/what/how framework from Monday, but require one concrete biological
+and one social evidence source. Then call on two groups: one to name a
+pre-decision failure, one to explain an after-implementation learning plan.
+:::
+
+## Friday: use Puget Sound as a decision system
+
+For Friday, your group will use the Puget Sound evidence system to:
+
+1. frame one specific recovery or restoration decision;
+2. connect a Human Well-being Vital Sign to an affected perspective;
+3. recommend an implementation or coordination action and a tradeoff; and
+4. state what evidence would require a revised plan.
+
+::: notes
+Time: 2 minutes. Source: Chapter 6, Box 6.2. Make the bridge explicit: Friday is
+not an indicator-identification exercise. Students must use the evidence system
+to justify a decision and a revision trigger.
+:::
+
+## Close: learning changes the next decision
+
+A defensible management process does not merely collect more information.
+
+<br>
+
+It makes objectives, alternatives, tradeoffs, implementation conditions, and
+outcomes visible enough that an agency can explain **what it will do differently
+next time**.
+
+::: notes
+Time: 1 minute. Source: Chapter 6, §§6.3.1--6.3.4.2. Close on the chapter's
+throughline: transparency, accountability, and adaptive decision-making depend
+on linking information to an actual next choice.
 :::

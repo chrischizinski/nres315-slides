@@ -114,6 +114,9 @@ $selectionBackgroundColor: #d4e7d1;
 
 .reveal .section-slide h2 {
   display: block;
+  position: relative;
+  z-index: 2;
+  max-width: 70%;
   padding: 0;
   border: 0;
   background: transparent;
@@ -122,8 +125,49 @@ $selectionBackgroundColor: #d4e7d1;
 }
 
 .reveal .section-slide p {
+  position: relative;
+  z-index: 2;
+  max-width: 66%;
   color: #ffffff;
-  font-size: 1.05em;
+  font-size: 1.16em;
+  line-height: 1.32;
+}
+
+/* Section dividers use a decorative process pattern. The visible kicker,
+   heading, and framing sentence carry the instructional meaning. */
+.reveal .section-slide {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  padding: 2.6em 2.9em 2.35em !important;
+  text-align: left;
+  background-image:
+    linear-gradient(115deg, rgba(255, 255, 255, 0.08), transparent 42%),
+    radial-gradient(circle at 84% 20%, rgba(219, 234, 225, 0.26) 0 4%, transparent 4.4%),
+    radial-gradient(circle at 92% 43%, rgba(219, 234, 225, 0.18) 0 6%, transparent 6.4%),
+    radial-gradient(circle at 81% 66%, rgba(219, 234, 225, 0.12) 0 8%, transparent 8.4%) !important;
+}
+
+.reveal .section-slide::before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  top: -20%;
+  right: 7%;
+  width: 31%;
+  height: 142%;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 48% 52% 54% 46% / 40% 44% 56% 60%;
+  transform: rotate(17deg);
+}
+
+.reveal .divider-do,
+.reveal .divider-apply {
+  background-image:
+    linear-gradient(115deg, rgba(255, 255, 255, 0.08), transparent 42%),
+    radial-gradient(circle at 84% 20%, rgba(238, 245, 238, 0.28) 0 4%, transparent 4.4%),
+    radial-gradient(circle at 92% 43%, rgba(238, 245, 238, 0.20) 0 6%, transparent 6.4%),
+    radial-gradient(circle at 81% 66%, rgba(238, 245, 238, 0.14) 0 8%, transparent 8.4%) !important;
 }
 
 .reveal .smaller { font-size: 0.78em; }
