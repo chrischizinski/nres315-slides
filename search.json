@@ -1,108 +1,157 @@
 [
   {
-    "objectID": "slides/07-implementation-learning.html#building-from-monday",
-    "href": "slides/07-implementation-learning.html#building-from-monday",
+    "objectID": "slides/07-implementation-learning.html#what-happens-after-a-plan-is-adopted",
+    "href": "slides/07-implementation-learning.html#what-happens-after-a-plan-is-adopted",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "Building from Monday",
-    "text": "Building from Monday\nMonday: Evidence and framing shape a management plan.\nToday: Implementation, monitoring, and evaluation show whether that plan works.\n\nTime: 3 minutes. Source: Chapter 6, §§6.3.3–6.3.4. Retrieve Plan–Do–Learn and ask students what could go wrong after a plan is adopted.\n\n\nSource: Chapter 6, §§6.3.3–6.3.4"
+    "section": "What happens after a plan is adopted?",
+    "text": "What happens after a plan is adopted?\nMonday asked how a management problem is framed and how evidence can shape a plan.\n\nToday: We follow the decision into the real work: choosing among alternatives, carrying an action out, finding out what happened, and changing course when necessary.\n\nTime: 2 minutes. Source: Chapter 6, §§6.3–6.3.4. Set up the distinction: today is not a recap of Plan–Do–Learn. It asks how the process operates in real, contested, and changing management settings.\n\n\nSource: Chapter 6, §§6.3–6.3.4"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#the-central-question",
-    "href": "slides/07-implementation-learning.html#the-central-question",
+    "objectID": "slides/07-implementation-learning.html#by-the-end-of-class-you-can",
+    "href": "slides/07-implementation-learning.html#by-the-end-of-class-you-can",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "The central question",
-    "text": "The central question\n\nHow can managers learn whether an action produced both ecological and human benefits?\n\n\nThey need clear objectives, suitable measures, and a willingness to adapt.\n\n\nTime: 2 minutes. Source: Chapter 6, §§6.3.3–6.3.4.2.\n\n\nSource: Chapter 6, §§6.3.3–6.3.4.2"
+    "section": "By the end of class, you can",
+    "text": "By the end of class, you can\n\nexplain what structured decision making makes visible in a contested management choice;\ndistinguish implementation, monitoring, and evaluation in real management examples; and\nuse both quantitative and qualitative evidence to diagnose what should change next.\n\n\nTime: 1 minute. Source: Chapter 6, §§6.3.1–6.3.4.2. These objectives map to the three conceptual sections and the barbed-hook application near the end.\n\n\nSource: Chapter 6, §§6.3.1–6.3.4.2"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#from-plan-to-action",
-    "href": "slides/07-implementation-learning.html#from-plan-to-action",
+    "objectID": "slides/07-implementation-learning.html#plandolearn-is-a-family-of-decision-tools",
+    "href": "slides/07-implementation-learning.html#plandolearn-is-a-family-of-decision-tools",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "From plan to action",
-    "text": "From plan to action\nImplementation is where a plan meets real conditions.\n\nTime: 1 minute. Transition slide."
+    "section": "Plan–Do–Learn is a family of decision tools",
+    "text": "Plan–Do–Learn is a family of decision tools\n  Plan–Do–Learn is the shared iterative principle behind several tools, not the only way to manage.\n\nTime: 0 minutes. Source: Chapter 6, §6.3 and Table 6.1. Transition from Monday’s generalized cycle to its concrete decision frameworks.\n\n\nSource: Chapter 6, §6.3 and Table 6.1"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#doing-is-more-than-announcing-a-plan",
-    "href": "slides/07-implementation-learning.html#doing-is-more-than-announcing-a-plan",
+    "objectID": "slides/07-implementation-learning.html#different-tools-fit-different-management-problems",
+    "href": "slides/07-implementation-learning.html#different-tools-fit-different-management-problems",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "Doing is more than announcing a plan",
-    "text": "Doing is more than announcing a plan\nImplementation can include:\n\nrule-making and policy;\nhabitat restoration;\npublic involvement;\nlaw enforcement;\nsurveys; and\nday-to-day professional decisions.\n\n\nTime: 5 minutes. Source: Chapter 6, §6.3.3. Explain that implementation occurs within legal mandates, agency missions, capacity, and constraints.\n\n\nSource: Chapter 6, §6.3.3"
+    "section": "Different tools fit different management problems",
+    "text": "Different tools fit different management problems\n\nStructured decision making: clarifies objectives, alternatives, consequences, tradeoffs, and monitoring needs.\nAdaptive management: uses monitoring to reduce uncertainty and update recurring decisions.\nSystematic conservation planning: selects spatial areas and features suited to conservation goals.\nManager’s model: describes the social-ecological management system, problems, and desired conditions.\nOpen Standards: applies a systematic, iterative conservation process.\n\n\nSource: Chapter 6, Table 6.1.\n\n\nTime: 3 minutes. Source: Chapter 6, Table 6.1. Do not teach each tool in depth. Ask which tool seems most useful when uncertainty is central, then clarify that the point is fit, not a universal winner.\n\n\nSource: Chapter 6, Table 6.1"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#plandolearn-each-stage-asks-a-different-question",
-    "href": "slides/07-implementation-learning.html#plandolearn-each-stage-asks-a-different-question",
+    "objectID": "slides/07-implementation-learning.html#structured-decision-making-makes-tradeoffs-discussable",
+    "href": "slides/07-implementation-learning.html#structured-decision-making-makes-tradeoffs-discussable",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "Plan–Do–Learn: each stage asks a different question",
-    "text": "Plan–Do–Learn: each stage asks a different question\n\n\nPlan\nWhat is the problem? What outcomes and alternatives matter?\n\nDo\nWhat action will be carried out, by whom, and under what constraints?\n\nLearn\nWhat changed? What should be adjusted next?\n\n\nThe cycle is not complete unless learning informs the next decision.\n\n\nTime: 6 minutes. Source: Chapter 6, §6.3 and Figure 6.1. Invite students to trace one management decision through all three stages.\n\n\nSource: Chapter 6, §6.3 and Figure 6.1"
+    "section": "Structured decision making makes tradeoffs discussable",
+    "text": "Structured decision making makes tradeoffs discussable\nIt does not remove conflict, uncertainty, or value differences.\nIt makes them visible by documenting:\n\nobjectives and alternatives;\nevidence and assumptions;\nconsequences and tradeoffs; and\npublic input and how the decision will be evaluated.\n\n\n\n🌟 Transparency is not agreement. It is being able to show what was considered, what mattered, and how the decision can be revisited.\n\n\nTime: 3 minutes. Source: Chapter 6, §6.3.1. Link directly to the course’s public-trust and governance work: a defensible process documents both the decision and its reasoning.\n\n\nSource: Chapter 6, §6.3.1"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#monitoring-and-evaluation",
-    "href": "slides/07-implementation-learning.html#monitoring-and-evaluation",
+    "objectID": "slides/07-implementation-learning.html#deer-tags-the-biological-answer-is-not-the-whole-decision",
+    "href": "slides/07-implementation-learning.html#deer-tags-the-biological-answer-is-not-the-whole-decision",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "Monitoring and evaluation",
-    "text": "Monitoring and evaluation\nEvidence for learning rather than evidence for its own sake.\n\nTime: 1 minute. Transition slide."
+    "section": "Deer tags: the biological answer is not the whole decision",
+    "text": "Deer tags: the biological answer is not the whole decision\nWhen population estimates decline, a state agency might consider:\n\nreducing tags statewide;\nchanging tags only in selected management units;\nchanging season timing;\nimproving habitat; or\npairing harvest prescriptions with hunter-access programs.\n\nEach alternative can be compared using biological outcomes, hunter satisfaction, perceived fairness, enforcement feasibility, and local economic effects.\n\nSource: Chapter 6, §6.3.1.\n\n\nTime: 4 minutes. Source: Chapter 6, §6.3.1. This is the chapter’s deer-tag example. Ask: Which consideration disappears if we call the problem only “declining deer numbers”? Do not ask students to select a preferred alternative.\n\n\nSource: Chapter 6, §6.3.1"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#monitoring-and-evaluation-are-linked",
-    "href": "slides/07-implementation-learning.html#monitoring-and-evaluation-are-linked",
+    "objectID": "slides/07-implementation-learning.html#do-implementation-is-a-stream-of-decisions",
+    "href": "slides/07-implementation-learning.html#do-implementation-is-a-stream-of-decisions",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "Monitoring and evaluation are linked",
-    "text": "Monitoring and evaluation are linked\n\n\nMonitoring\nSystematically and repeatedly collects information to guide future decisions.\n\nEvaluation\nDetermines whether goals, objectives, and success measures were met.\n\n\nMonitoring supplies evidence; evaluation interprets it against the decision’s objectives.\n\n\nTime: 6 minutes. Source: Chapter 6, §§6.3.4–6.3.4.2. Ask why managers cannot use the terms as synonyms.\n\n\nSource: Chapter 6, §§6.3.4–6.3.4.2"
+    "section": "Do: implementation is a stream of decisions",
+    "text": "Do: implementation is a stream of decisions\n  Implementation turns plans into action but it is not one single action.\n\nTime: 0 minutes. Source: Chapter 6, §6.3.3. Transition to the practical work of carrying out a decision.\n\n\nSource: Chapter 6, §6.3.3"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#measures-should-match-the-objective",
-    "href": "slides/07-implementation-learning.html#measures-should-match-the-objective",
+    "objectID": "slides/07-implementation-learning.html#where-implementation-actually-happens",
+    "href": "slides/07-implementation-learning.html#where-implementation-actually-happens",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "Measures should match the objective",
-    "text": "Measures should match the objective\n\n\nEcological measures\n\npopulation or habitat indicators\nharvest levels\nother resource conditions\n\n\nHuman-dimensions measures\n\nsupport and satisfaction\nlicense sales or days afield\nperceptions of fairness or access\n\n\n\nAn evidence-informed decision can require both kinds of measures.\n\n\nTime: 5 minutes. Source: Chapter 6, §6.3.2.2. These are examples from the chapter, not a universal checklist.\n\n\nSource: Chapter 6, §6.3.2.2"
+    "section": "Where implementation actually happens",
+    "text": "Where implementation actually happens\nImplementation happens in multiple places:\n\nformal rules and regulations;\nadministrative policies and program delivery;\nmeetings with publics, habitat restoration, enforcement, and surveys; and\nroutine field-level choices made within plans, policies, and legal mandates.\n\n\n\n🌟 “Doing” tests whether a plan is practical and relevant in its social, political, legal, and ecological context.\n\n\nTime: 3 minutes. Source: Chapter 6, §6.3.3. Ask students to identify which of these is most visible to a member of the public, and which might be invisible but still shape the outcome.\n\n\nSource: Chapter 6, §6.3.3"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#what-will-count-as-success",
-    "href": "slides/07-implementation-learning.html#what-will-count-as-success",
+    "objectID": "slides/07-implementation-learning.html#emergency-action-still-needs-accountability",
+    "href": "slides/07-implementation-learning.html#emergency-action-still-needs-accountability",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "What will count as success?",
-    "text": "What will count as success?\nBefore collecting data, managers need to decide:\n\nWhat change is expected?\nFor whom should that change matter?\nWhat evidence would show progress or a problem?\nWhat decision could change in response?\n\n\nTime: 5 minutes. Source: Chapter 6, §§6.3.2–6.3.4. This slide synthesizes the chapter’s planning and learning logic. Ask students which question is hardest to answer before implementation begins.\n\n\nSource: Chapter 6, §§6.3.2–6.3.4"
+    "section": "Emergency action still needs accountability",
+    "text": "Emergency action still needs accountability\nDuring highly pathogenic avian influenza outbreaks, an agency may have to:\n\nrestrict wetland access;\nsuspend hunting seasons; or\nimpose carcass-transport rules quickly and with limited input.\n\n Participation is not always possible in an emergency. Agencies still need to explain the action, assess what happened, and learn from the response.\n\nSource: Chapter 6, §6.3.3.\n\n\nTime: 3 minutes. Source: Chapter 6, §6.3.3. This is a useful bridge to governance next week: authority, urgency, transparency, and later evaluation all matter even when ordinary participation cannot occur.\n\n\nSource: Chapter 6, §6.3.3"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#chapter-application-puget-sound",
-    "href": "slides/07-implementation-learning.html#chapter-application-puget-sound",
+    "objectID": "slides/07-implementation-learning.html#waterfowl-zones-show-why-implementation-is-social",
+    "href": "slides/07-implementation-learning.html#waterfowl-zones-show-why-implementation-is-social",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "Chapter application: Puget Sound",
-    "text": "Chapter application: Puget Sound\nThe Puget Sound recovery effort combines ecological indicators with Human Well-being Vital Signs.\n\nThe effort involves agencies, Tribes, universities, practitioners, and other partners across the region.\n\n\nIts measures help partners see whether recovery is affecting people as well as ecological conditions.\n\n\nTime: 6 minutes. Source: Chapter 6, Box 6.2. Keep claims within the box; this is the shared case for Friday.\n\n\nSource: Chapter 6, Box 6.2"
+    "section": "Waterfowl zones show why implementation is social",
+    "text": "Waterfowl zones show why implementation is social\nSetting waterfowl hunting zones can require managers to balance:\n\nmigration timing and population health;\nwhen and where hunters prefer to hunt;\nflyway guidance, harvest data, and migration models; and\ninput from surveys, advisory panels, or public comments.\n\n The final rule is one event. The implementation process is much larger.\n\nSource: Chapter 6, §6.3.3.\n\n\nTime: 3 minutes. Source: Chapter 6, §6.3.3. Ask students to name one biological and one social consideration in the example. Emphasize that both are part of carrying out a defensible decision.\n\n\nSource: Chapter 6, §6.3.3"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#human-well-being-vital-signs",
-    "href": "slides/07-implementation-learning.html#human-well-being-vital-signs",
+    "objectID": "slides/07-implementation-learning.html#learn-monitoring-records-change-evaluation-explains-it",
+    "href": "slides/07-implementation-learning.html#learn-monitoring-records-change-evaluation-explains-it",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "Human Well-being Vital Signs",
-    "text": "Human Well-being Vital Signs\n\n\n\nair quality and drinking water\nlocal foods and outdoor activity\ncultural well-being\neconomic vitality\n\n\n\ngood governance\nsense of place\nstewardship behaviors\n\n\n\nOne indicator is not the whole story. Together, they broaden what recovery can mean.\n\n\nTime: 5 minutes. Source: Chapter 6, Box 6.2. Ask pairs to select one indicator and explain why it belongs in a recovery effort.\n\n\nSource: Chapter 6, Box 6.2"
+    "section": "Learn: monitoring records change; evaluation explains it",
+    "text": "Learn: monitoring records change; evaluation explains it\n  Monitoring records change. Evaluation explains what that change means for the next decision.\n\nTime: 0 minutes. Source: Chapter 6, §6.3.4. Transition from what agencies do to what they can learn from the results.\n\n\nSource: Chapter 6, §6.3.4"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#learning-can-change-the-next-plan",
-    "href": "slides/07-implementation-learning.html#learning-can-change-the-next-plan",
+    "objectID": "slides/07-implementation-learning.html#monitor-an-objective-not-just-what-is-easy-to-count",
+    "href": "slides/07-implementation-learning.html#monitor-an-objective-not-just-what-is-easy-to-count",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "Learning can change the next plan",
-    "text": "Learning can change the next plan\n\n\nNew evidence may change the problem frame, objectives, implementation, or measures—not simply confirm the original plan.\n\n\nTime: 5 minutes. Source: Chapter 6, §6.3.4 and Box 6.2. Explain the diagram in words. The alt text provides the text equivalent.\n\n\nSource: Chapter 6, §6.3.4 and Box 6.2"
+    "section": "Monitor an objective, not just what is easy to count",
+    "text": "Monitor an objective, not just what is easy to count\nA mule-deer plan set an objective to increase hunter satisfaction by 10% over five years. Managers could adjust seasons and harvest rules, then use annual or biennial post-season surveys to track encounters, satisfaction, and harvest rates before and after implementation.\n \n\n🌟 The objective supplies the reason to monitor; the repeated design makes change interpretable.\n\n\nSource: Chapter 6, §6.3.4.1.\n\n\nTime: 4 minutes. Source: Chapter 6, §6.3.4.1. Have students identify the objective, action, and three monitored outcomes. This is a concrete example of a human-dimensions measure tied to a management action.\n\n\nSource: Chapter 6, §6.3.4.1"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#friday-puget-sound-application",
-    "href": "slides/07-implementation-learning.html#friday-puget-sound-application",
+    "objectID": "slides/07-implementation-learning.html#long-term-social-monitoring-can-reveal-a-changing-public",
+    "href": "slides/07-implementation-learning.html#long-term-social-monitoring-can-reveal-a-changing-public",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "Friday: Puget Sound application",
-    "text": "Friday: Puget Sound application\nPrepare to explain:\n\nthe effort’s why, who, what, and how;\none Human Well-being Vital Sign and its relevance;\none implementation or coordination feature; and\nhow monitoring could guide the next planning cycle.\n\n\nTime: 5 minutes. Source: Chapter 6, Box 6.2. Pair students to locate direct support in the box. Remind them that the next reading quiz is due Sunday night before Monday’s class.\n\n\nSource: Chapter 6, Box 6.2"
+    "section": "Long-term social monitoring can reveal a changing public",
+    "text": "Long-term social monitoring can reveal a changing public\nThe National Survey of Fishing, Hunting, and Wildlife-Associated Recreation has tracked participation, demographics, expenditures, and motivations roughly every five years since 1955.\n\n\n\nThose data reveal changes in participation, access, and recreation—including growth in non-consumptive activities—and can prompt agencies to reconsider recruitment, retention, and funding strategies.\n\n\n\n\nSource: Chapter 6, §6.3.4.1; U.S. Fish and Wildlife Service, 2022 National Survey of Fishing, Hunting, and Wildlife-Associated Recreation (public domain).\n\n\nTime: 3 minutes. Source: Chapter 6, §6.3.4.1. This slide lets students see monitoring as more than evaluating one project. Ask: What agency assumption could become outdated if the public changes but the agency does not track it?\n\n\nSource: Chapter 6, §6.3.4.1"
   },
   {
-    "objectID": "slides/07-implementation-learning.html#close-what-counts-as-a-strong-decision",
-    "href": "slides/07-implementation-learning.html#close-what-counts-as-a-strong-decision",
+    "objectID": "slides/07-implementation-learning.html#evaluation-asks-a-harder-question",
+    "href": "slides/07-implementation-learning.html#evaluation-asks-a-harder-question",
     "title": "Implementation, Monitoring, and Learning",
-    "section": "Close: what counts as a strong decision?",
-    "text": "Close: what counts as a strong decision?\nAn evidence-informed decision is transparent about:\n\nits objectives;\nthe evidence and values it uses;\nimplementation constraints; and\nthe ecological and human outcomes it will monitor.\n\n\nTime: 2 minutes. Source: Chapter 6, §§6.2–6.4. Close the week with the idea that learning is part of management, not a final add-on.\n\n\nSource: Chapter 6, §§6.2–6.4"
+    "section": "Evaluation asks a harder question",
+    "text": "Evaluation asks a harder question\n\nDid we accomplish what we set out to do?\n\n\nNumbers such as license sales, harvest, population estimates, participation rates, and survey scores are useful benchmarks.\n\nBut numbers alone may not explain why an outcome occurred, whose experience is missing, or whether the monitoring system itself has a blind spot.\n\nTime: 3 minutes. Source: Chapter 6, §6.3.4.2. Distinguish this from the earlier monitoring definition: evaluation interprets evidence against goals, objectives, and success metrics.\n\n\nSource: Chapter 6, §6.3.4.2"
   },
   {
-    "objectID": "slides/05-justice-governance.html#this-week-begins-wednesday",
-    "href": "slides/05-justice-governance.html#this-week-begins-wednesday",
+    "objectID": "slides/07-implementation-learning.html#qualitative-evidence-can-test-the-monitoring-system",
+    "href": "slides/07-implementation-learning.html#qualitative-evidence-can-test-the-monitoring-system",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Qualitative evidence can test the monitoring system",
+    "text": "Qualitative evidence can test the monitoring system\nTwo examples show how qualitative evidence can matter:\n\nInterviews in Arizona surfaced values and concerns that culturally narrow survey questions missed—questions about whether people see wildlife mainly as a resource for human use or as part of a broader moral community.\nInterviews with fishing captains uncovered gaps between observed bycatch and what monitoring programs officially recorded, as well as reduction practices absent from agency data.\n\n\n🌟 Qualitative evidence can explain a numerical pattern—or show that the pattern is incomplete.\n\n\nSource: Chapter 6, §6.3.4.2.\n\n\nTime: 4 minutes. Source: Chapter 6, §6.3.4.2. Ask students why a manager should not treat interviews as merely “anecdotes” when they identify a flaw in a measurement system. Keep the discussion about complementarity, not a competition between methods.\n\n\nSource: Chapter 6, §6.3.4.2"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#puget-sound-monitoring-human-well-being-takes-infrastructure",
+    "href": "slides/07-implementation-learning.html#puget-sound-monitoring-human-well-being-takes-infrastructure",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Puget Sound: monitoring human well-being takes infrastructure",
+    "text": "Puget Sound: monitoring human well-being takes infrastructure\n\n\nThe Human Well-being Vital Signs were developed through a multi-year collaborative social-science process tied to regional recovery goals.\n\nThe system combines existing agency data with a state-funded biennial survey of 9,000 residents across 12 counties. Questions were pilot-tested and reviewed by a Social Science Advisory Committee.\n\n  \n\n\nSource: Chapter 6, Box 6.2; Puget Sound Partnership, Puget Sound Vital Signs.\n\n\nTime: 4 minutes. Source: Chapter 6, Box 6.2. This is the richer Puget Sound story: who built the indicators, how they are measured, and why they can be used alongside ecological monitoring.\n\n\nSource: Chapter 6, Box 6.2"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#the-point-of-the-puget-sound-indicators",
+    "href": "slides/07-implementation-learning.html#the-point-of-the-puget-sound-indicators",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "The point of the Puget Sound indicators",
+    "text": "The point of the Puget Sound indicators\nThey have helped the Partnership:\n\nevaluate residents’ experiences, behaviors, and perceived quality of life alongside ecological conditions;\ngenerate additional human-dimensions research;\ncreate an internal social-science position; and\nincorporate human-well-being priorities into recovery planning.\n\nThis is what it looks like when monitoring changes an institution’s capacity to make decisions.\n\nSource: Chapter 6, Box 6.2.\n\n\nTime: 2 minutes. Source: Chapter 6, Box 6.2. Avoid claiming that every vital sign changed. The chapter reports many stable results; its central lesson is that social indicators changed what the recovery system could see and do.\n\n\nSource: Chapter 6, Box 6.2"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#apply-it-the-barbed-hook-decision",
+    "href": "slides/07-implementation-learning.html#apply-it-the-barbed-hook-decision",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Apply it: the barbed-hook decision",
+    "text": "Apply it: the barbed-hook decision\nTry the process on one final decision problem.\n\nTime: 0 minutes. Source: Chapter 6, §6.5, Review Question 3. Transition to an active-learning prompt using the chapter’s own scenario.\n\n\nSource: Chapter 6, §6.5, Review Question 3"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#case-restart-a-decision-process",
+    "href": "slides/07-implementation-learning.html#case-restart-a-decision-process",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Case: restart a decision process",
+    "text": "Case: restart a decision process\nA state wildlife agency banned barbed hooks on a popular river fishery.\nAn angler survey later found that local publics were upset, felt they could no longer catch fish, and believed they had not been properly consulted.\nIn groups of three, prepare a two-minute response:\n\nWhat did the original process fail to learn before implementation?\nWhat biological and social evidence would you gather if you restarted it?\nWhat would you monitor and evaluate after a revised decision?\n\n\nTime: 7 minutes. Source: Chapter 6, §6.5, Review Question 3. Have students use the why/who/what/how framework from Monday, but require one concrete biological and one social evidence source. Then call on two groups: one to name a pre-decision failure, one to explain an after-implementation learning plan.\n\n\nSource: Chapter 6, §6.5, Review Question 3"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#friday-use-puget-sound-as-a-decision-system",
+    "href": "slides/07-implementation-learning.html#friday-use-puget-sound-as-a-decision-system",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Friday: use Puget Sound as a decision system",
+    "text": "Friday: use Puget Sound as a decision system\nFor Friday, your group will use the Puget Sound evidence system to:\n\nframe one specific recovery or restoration decision;\nconnect a Human Well-being Vital Sign to an affected perspective;\nrecommend an implementation or coordination action and a tradeoff; and\nstate what evidence would require a revised plan.\n\n\nTime: 2 minutes. Source: Chapter 6, Box 6.2. Make the bridge explicit: Friday is not an indicator-identification exercise. Students must use the evidence system to justify a decision and a revision trigger.\n\n\nSource: Chapter 6, Box 6.2"
+  },
+  {
+    "objectID": "slides/07-implementation-learning.html#close-learning-changes-the-next-decision",
+    "href": "slides/07-implementation-learning.html#close-learning-changes-the-next-decision",
+    "title": "Implementation, Monitoring, and Learning",
+    "section": "Close: learning changes the next decision",
+    "text": "Close: learning changes the next decision\nA defensible management process does not merely collect more information.\n\nIt makes objectives, alternatives, tradeoffs, implementation conditions, and outcomes visible enough that an agency can explain what it will do differently next time.\n\nTime: 1 minute. Source: Chapter 6, §§6.3.1–6.3.4.2. Close on the chapter’s throughline: transparency, accountability, and adaptive decision-making depend on linking information to an actual next choice.\n\n\nSource: Chapter 6, §§6.3.1–6.3.4.2"
+  },
+  {
+    "objectID": "slides/05-justice-governance.html#why-this-comes-after-evidence-and-learning",
+    "href": "slides/05-justice-governance.html#why-this-comes-after-evidence-and-learning",
     "title": "Justice, Participation, and Governance",
-    "section": "This week begins Wednesday",
-    "text": "This week begins Wednesday\nMonday is Labor Day. Today integrates Chapters 4 and 5 to prepare for Friday’s application.\n\nTime: 2 minutes. Confirm that the quiz is due Tuesday at 11:59 p.m., before Wednesday’s class, because Monday is Labor Day."
+    "section": "Why this comes after evidence and learning",
+    "text": "Why this comes after evidence and learning\nEvidence, planning, and learning are essential. This week asks who is included in those processes, whose knowledge is taken seriously, and how authority is exercised.\n\nTime: 2 minutes. Confirm that the quiz is due Sunday at 11:59 p.m., before Monday’s class, and point students to the Chapter 4–5 Friday application."
   },
   {
     "objectID": "slides/05-justice-governance.html#todays-question",
@@ -557,28 +606,28 @@
     "href": "index.html#module-1-foundations-for-human-dimensions-decisions",
     "title": "NRES 315",
     "section": "Module 1 — Foundations for human-dimensions decisions",
-    "text": "Module 1 — Foundations for human-dimensions decisions\n\nLecture 01 — Course launch\nLast updated: September 14, 2026 at 8:48 AM CDT\nLecture 02 — People, habitats, and species\nLast updated: September 14, 2026 at 8:48 AM CDT"
+    "text": "Module 1 — Foundations for human-dimensions decisions\n\nLecture 01 — Course launch Last updated: September 14, 2026 at 8:48 AM CDT\nLecture 02 — People, habitats, and species Last updated: September 14, 2026 at 8:48 AM CDT"
   },
   {
     "objectID": "index.html#module-2-conservation-history-and-public-trust-continued-in-week-3",
     "href": "index.html#module-2-conservation-history-and-public-trust-continued-in-week-3",
     "title": "NRES 315",
     "section": "Module 2 — Conservation history and public trust (continued in Week 3)",
-    "text": "Module 2 — Conservation history and public trust (continued in Week 3)\n\nLecture 03 — Conservation history as living context\nLast updated: September 14, 2026 at 8:47 AM CDT\nLecture 04 — Public trust: for whom, for what, and across time?\nLast updated: September 9, 2026 at 8:59 AM CDT"
+    "text": "Module 2 — Conservation history and public trust (continued in Week 3)\n\nLecture 03 — Conservation history as living context Last updated: September 14, 2026 at 8:47 AM CDT\nLecture 04 — Public trust: for whom, for what, and across time? Last updated: September 9, 2026 at 8:59 AM CDT"
   },
   {
-    "objectID": "index.html#module-3-justice-participation-and-governance-begins-after-public-trust-continuation",
-    "href": "index.html#module-3-justice-participation-and-governance-begins-after-public-trust-continuation",
+    "objectID": "index.html#module-3-evidence-planning-and-learning",
+    "href": "index.html#module-3-evidence-planning-and-learning",
     "title": "NRES 315",
-    "section": "Module 3 — Justice, participation, and governance (begins after public-trust continuation)",
-    "text": "Module 3 — Justice, participation, and governance (begins after public-trust continuation)\n\nLecture 05 — Justice, participation, and governance\nLast updated: August 31, 2026 at 8:53 AM CDT"
+    "section": "Module 3 — Evidence, planning, and learning",
+    "text": "Module 3 — Evidence, planning, and learning\n\nLecture 05 — Evidence, framing, and planning Last updated: September 16, 2026 at 8:37 AM CDT\nLecture 06 — Implementation, monitoring, and learning Last updated: September 16, 2026 at 9:20 AM CDT"
   },
   {
-    "objectID": "index.html#module-4-evidence-planning-and-learning",
-    "href": "index.html#module-4-evidence-planning-and-learning",
+    "objectID": "index.html#module-4-deij-participation-and-governance",
+    "href": "index.html#module-4-deij-participation-and-governance",
     "title": "NRES 315",
-    "section": "Module 4 — Evidence, planning, and learning",
-    "text": "Module 4 — Evidence, planning, and learning\n\nLecture 06 — Evidence, framing, and planning\nLast updated: September 14, 2026 at 9:07 AM CDT\nLecture 07 — Implementation, monitoring, and learning\nLast updated: August 28, 2026 at 4:42 PM CDT\n\nNew lectures appear here only after they are ready for students."
+    "section": "Module 4 — DEIJ, participation, and governance",
+    "text": "Module 4 — DEIJ, participation, and governance\n\nLecture 07 — DEIJ, participation, and governance Last updated: September 16, 2026 at 8:40 AM CDT\n\nNew lectures appear here only after they are ready for students."
   },
   {
     "objectID": "slides/02-people-habitats-species.html#todays-question",
@@ -854,11 +903,11 @@
     "text": "Close: what your Friday response must show\nYour group is not predicting the correct harvest rule or representing only one current user group.\nYour group is advising an accountable public trustee:\n\nGiven a documented population decline, should the agency use a temporary harvest restriction before the next season, and how should it make and review that decision for a broad public across time?\n\nA strong response makes visible:\n\na specific decision and its public responsibility;\ncurrent and future beneficiaries whose interests may differ;\na genuine tradeoff and trustee reasoning; and\na transparent explanation or review plan with a trigger for reconsideration.\n\n\nSource: Chapter 3, §§3.2–3.4.\n\n\nTime: 1 minute. Read the question aloud. State plainly: “Friday is a prospective stewardship decision, not the Montana stream-access case and not a vote for one user group.” Remind students that the response must use the public-trust framework, with no outside legal claims or biological estimates. The next reading quiz is due Sunday at 11:59 p.m. before Monday’s class."
   },
   {
-    "objectID": "slides/06-evidence-planning.html#building-from-week-3",
-    "href": "slides/06-evidence-planning.html#building-from-week-3",
+    "objectID": "slides/06-evidence-planning.html#building-from-public-trust-thinking",
+    "href": "slides/06-evidence-planning.html#building-from-public-trust-thinking",
     "title": "Evidence, Framing, and Planning",
-    "section": "Building from Week 3",
-    "text": "Building from Week 3\nLast week: Legitimate conservation decisions require attention to justice, participation, and governance.\n\nThis week: How do managers use evidence to plan, act, and learn?\n\nTime: 3 minutes. Source: Chapter 6, §§6.1–6.2. Retrieve the prior connection: authority and participation shape which problems are recognized and whose evidence counts.\n\n\nSource: Chapter 6, §§6.1–6.2"
+    "section": "Building from public-trust thinking",
+    "text": "Building from public-trust thinking\nLast week: Public institutions hold responsibilities to current and future beneficiaries.\n\nThis week: How do managers use evidence to plan, act, and learn in ways that make those responsibilities visible?\n\nTime: 3 minutes. Source: Chapter 6, §§6.1–6.2. Retrieve the prior connection: public-trust thinking asks managers to account for beneficiaries and future options; this chapter provides a routine for making and revising decisions.\n\n\nSource: Chapter 6, §§6.1–6.2"
   },
   {
     "objectID": "slides/06-evidence-planning.html#the-central-question",
