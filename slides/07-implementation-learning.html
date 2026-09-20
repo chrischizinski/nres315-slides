@@ -442,7 +442,7 @@
   <meta name="generator" content="quarto-1.10.18">
 
   <meta name="author" content="NRES 315: Human Dimensions of Fish and Wildlife Management">
-  <meta name="dcterms.date" content="2026-09-16">
+  <meta name="dcterms.date" content="2026-09-18">
   <title>NRES 315 – Implementation, Monitoring, and Learning</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -564,6 +564,15 @@ $selectionBackgroundColor: #d4e7d1;
   background-color: #e0ebe0;
 }
 
+/* Quarto's reveal CSS sets `div.columns { display: initial }`, and for a div
+   `initial` computes to `inline`, not `block`. Because the `h2` above is
+   `inline-block`, an inline columns box flows onto the heading's line: the
+   first column lands beside the title and the second wraps below it. Whether a
+   slide broke therefore depended on how long its title happened to be. */
+.reveal .columns {
+  display: block;
+}
+
 .reveal .source-note {
   position: absolute;
   right: 0.7em;
@@ -583,10 +592,22 @@ $selectionBackgroundColor: #d4e7d1;
   padding-bottom: 3em !important;
 }
 
+/* Reversed teal block. Deliberately NOT the left-bar-plus-pale-fill idiom used
+   by `h2`: a key idea is content to read, not a label, so it differs in hue,
+   weight, and text color rather than only in shade. */
 .reveal .key-idea {
-  border-left: 0.3em solid #146778;
-  background: #eef5ee;
-  padding: 0.55em 0.8em;
+  border: 0;
+  background: #146778;
+  color: #ffffff;
+  padding: 0.65em 0.9em;
+  border-radius: 3px;
+}
+
+/* Inherit the reversed text color through inline emphasis and links. */
+.reveal .key-idea strong,
+.reveal .key-idea em,
+.reveal .key-idea a {
+  color: inherit;
 }
 
 /* Emphasize mnemonic terms without making color the sole cue. */
@@ -1233,7 +1254,7 @@ NRES 315: Human Dimensions of Fish and Wildlife Management
 </div>
 </div>
 
-  <p class="date">2026-09-16</p>
+  <p class="date">2026-09-18</p>
 </section>
 <section id="what-happens-after-a-plan-is-adopted" class="slide level2">
 <h2>What happens after a plan is adopted?</h2>
@@ -1746,12 +1767,13 @@ display:block!important;
 <p>For Friday, your group will use the Puget Sound evidence system to:</p>
 <ol type="1">
 <li>frame one specific recovery or restoration decision;</li>
-<li>connect a Human Well-being Vital Sign to an affected perspective;</li>
+<li>connect a Human Well-being Vital Sign, measure, and affected perspective;</li>
 <li>recommend an implementation or coordination action and a tradeoff; and</li>
-<li>state what evidence would require a revised plan.</li>
+<li>state a possible monitoring result and how you would revise the plan.</li>
 </ol>
+<p><strong>Submit:</strong> role record + four sections (200–350 words) before class ends. Each present member then completes the private Group Check.</p>
 <aside class="notes">
-<p>Time: 2 minutes. Source: Chapter 6, Box 6.2. Make the bridge explicit: Friday is not an indicator-identification exercise. Students must use the evidence system to justify a decision and a revision trigger.</p>
+<p>Time: 2 minutes. Source: Chapter 6, Box 6.2. Make the bridge explicit: Friday is not an indicator-identification exercise. Students must use the evidence system to justify a proposed decision and a revision trigger. Distinguish proposals from case facts. The shared response uses the common four-criterion rubric (80 points); each present member, including the submitter, completes the private Group Check at the end of class (20 points).</p>
 <style type="text/css">
 span.MJX_Assistive_MathML {
 position:absolute!important;
