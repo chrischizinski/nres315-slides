@@ -1,0 +1,280 @@
+---
+title: "Psychology and Human Behavior"
+subtitle: "Week 7 Wednesday — From diagnosis to a strategy that can be evaluated"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "Last updated: Sept 20, 2026"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## Monday gave us a diagnosis
+
+Cognition, conation, affect. Person and situation. The specificity principle.
+
+Today those become **frameworks** — the tools that turn a diagnosis into a
+strategy someone could fund and evaluate.
+
+::: notes
+Time: 2 minutes. Source: Chapter 8, §8.4. Remind students that the specificity
+principle from Box 8.5 is the reason TACT exists; they are the same idea at two
+levels of abstraction.
+
+**Pacing.** Full deck is 53 minutes; the core path is 45. Slides marked "If time is short, skip this slide" are the drop list: motivation/satisfaction and self-determination theory. Protect TACT, the reasoned action approach, and the pair rehearsal --- they map directly onto Friday items 1 and 3.
+:::
+
+## Today's question
+
+What has to be true before a person performs a specific conservation behavior?
+
+::: notes
+Time: 1 minute. Source: Chapter 8, §8.4.3. Write it on the board. Every
+framework today is an answer to this question from a different angle.
+:::
+
+## What you should be able to do
+
+By the end of today, you should be able to:
+
+- define a target behavior using **TACT**;
+- apply the **reasoned action approach** — attitudes, perceived norms,
+  perceived behavioral control;
+- explain **collective action** and why a perceived norm changes what an
+  individual does; and
+- use **affect**, **motivation**, and **satisfaction** to explain a behavior
+  the other frameworks miss.
+
+::: notes
+Time: 1 minute. Source: Chapter 8, §§8.4.2–8.4.5. These four map onto Friday's
+four response items in order.
+:::
+
+## Define the behavior first {background-color="#2f6b57" .section-slide}
+
+You cannot manage, measure, or evaluate a behavior you have not specified.
+
+::: notes
+Time: 1 minute. Source: Chapter 8, §8.4.3.
+:::
+
+## TACT
+
+| Letter | Question | Weak | Strong |
+|---|---|---|---|
+| **T**arget | What or whom? | "the environment" | live wells, bilge, and drain plug |
+| **A**ction | Do what, exactly? | "be responsible" | drain them |
+| **C**ontext | Where, under what conditions? | "in general" | before leaving the north ramp |
+| **T**ime | When, how often, for how long? | "someday" | every trip, 2027 open-water season |
+
+::: {.key-idea}
+"Boaters should care more about invasive species" fails all four. It cannot be
+observed, so it cannot be managed.
+:::
+
+::: notes
+Time: 6 minutes. Source: Chapter 8, §8.4.3 and Box 8.5. Do this live: take a
+vague goal from the class and force all four columns. Then ask who would
+observe it and where — if nobody can answer that, the behavior is still not
+specified. Friday's item 1 is exactly this exercise.
+:::
+
+## The reasoned action approach
+
+Behavioral **intention** is the most immediate predictor of behavior. Three
+things shape it:
+
+- **Attitudes** — the person's own evaluation of the behavior.
+- **Perceived norms** — the social pressure to perform or avoid it.
+- **Perceived behavioral control** (self-efficacy) — belief in one's ability to
+  carry it out successfully.
+
+::: notes
+Time: 6 minutes. Source: Chapter 8, §8.4.3. Stress that these are three
+separate levers. A favorable attitude with no self-efficacy produces nothing; so
+does high self-efficacy against a hostile norm. This is why "raise awareness"
+campaigns fail when awareness was never the binding constraint.
+:::
+
+## Which lever is actually broken?
+
+::: {.fragment}
+**Attitude is fine, norm is fine, control is low** → make the behavior easier,
+teach the skill, remove the time cost.
+:::
+
+::: {.fragment}
+**Attitude is fine, control is fine, norm is low** → make others' behavior
+visible; recruit the groups people belong to.
+:::
+
+::: {.fragment}
+**Attitude is the problem** → this is the rarest case in conservation, and the
+one most campaigns assume.
+:::
+
+::: notes
+Time: 5 minutes. Source: Chapter 8, §8.4.3. Reveal one at a time. This slide is
+the practical payoff of the whole week: the diagnosis determines the
+intervention, and getting it wrong wastes the budget. Friday's case brief is
+built so that the third box is demonstrably not the problem.
+:::
+
+## Collective action {background-color="#123f5a" .section-slide}
+
+Some behaviors only make sense if others are doing them too.
+
+::: notes
+Time: 1 minute. Source: Chapter 8, §8.4.2.
+:::
+
+## Individual factors and collective factors
+
+The collective interest model holds that behavior is influenced by **individual
+factors** and **collective factors** together.
+
+In the Montana bear-attractant work (Box 8.4):
+
+- Different attractant-securing behaviors were associated with **different**
+  suites of individual factors.
+- **Collective factors were influential across the board.**
+- Landowners who believed their neighbors were securing attractants, and
+  expected them to keep doing so, were **30% to 100% more likely** to secure
+  their own.
+
+::: notes
+Time: 6 minutes. Source: Chapter 8, Box 8.4. The most consistent individual
+predictor was biocentric belief, but the collective effect was the one that
+held across every behavior. Practitioners responded by changing the messaging
+to convey normative information, reduce feelings of isolation, and invest in
+professionals who start conversations among landowners.
+:::
+
+## Why this changes the intervention
+
+::: {.key-idea}
+If a person's behavior depends on what they believe others are doing, then a
+message about the harm of the problem is aimed at the wrong variable.
+:::
+
+A perceived norm can be wrong. People routinely underestimate how many others
+are complying — and act on the underestimate.
+
+::: notes
+Time: 4 minutes. Source: Chapter 8, §8.4.2. This distinction matters on Friday:
+a survey item asking "do most others drain their boats?" measures a *perceived*
+norm, not a compliance rate. Groups that treat it as a measured rate have made
+an error the brief warns about.
+:::
+
+## Affect: emotions are not decoration
+
+Emotions influence perception, judgment, memory, and behavior. They are
+psychological **and** physiological responses to events, situations, or stimuli.
+
+- Seeing a robin at a feeder, or a raccoon at a trash can, can evoke anything
+  from appreciation and awe to fear or disgust.
+- In a deer-management study, emotions influenced the **acceptability of
+  management options**.
+
+::: notes
+Time: 4 minutes. Source: Chapter 8, §8.4.4. Affect is a relative newcomer in
+this field, which is why it is often missing from agency analysis. Note the
+management consequence: emotion shapes not only behavior but whether a proposed
+action is seen as acceptable at all. Resentment toward an agency is affect, and
+it is actionable evidence.
+:::
+
+## Motivation and satisfaction
+
+**Motivation** is why people act. **Satisfaction** is what they get out of it.
+
+Decker and Connelly's three orientations:
+
+- **Affiliative** — social interaction and bonding.
+- **Achievement** — reaching a performance goal.
+- **Appreciative** — peace, belonging, stress reduction.
+
+::: notes
+Time: 4 minutes. Source: Chapter 8, §8.4.5. The management consequence is that
+agencies must manage more than bag limits: they manage experiential outcomes.
+Two people performing the identical behavior may be seeking entirely different
+things, and a program that serves one may not serve the other.
+
+**If time is short, skip this slide.** The thread survives without it.
+:::
+
+## Self-determination theory
+
+Motivation is driven by three basic psychological needs:
+
+- **Autonomy** — feeling in control of one's own actions.
+- **Competence** — feeling effective in an environment.
+- **Relatedness** — connection with others.
+
+::: {.key-idea}
+A program that tells people what to do, implies they are doing it wrong, and
+isolates them, undercuts all three at once.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 8, §8.4.5. When conservation programs meet
+these needs, participants show higher intrinsic motivation. Connect to Friday:
+an enforcement-only framing can damage autonomy and relatedness even when the
+rule itself is correct.
+
+**If time is short, skip this slide.** The thread survives without it.
+:::
+
+## Pair rehearsal: match the lever
+
+With a partner, name the framework and the lever you would pull:
+
+> "There's a line of eight boats and a guy in a hurry behind me. I'm not
+> holding that up for ten minutes."
+
+> "On the tournament circuit everybody decons. You'd get talked about if you
+> didn't."
+
+> "Every sign out here is written like we did something wrong."
+
+::: notes
+Time: 5 minutes. Source: Chapter 8, §§8.4.2–8.4.4. Answers: perceived
+behavioral control plus a situational constraint; perceived norm, strongly
+positive; affect, with a self-determination reading available. All three
+quotations are in Friday's case brief, so this is direct rehearsal for items
+2 and 3.
+:::
+
+## Friday
+
+Read the **Week 07 Case Brief: The Thornapple Lake Decontamination Problem**
+before class. Everything you need is in it.
+
+A $180,000 campaign changed nothing — because **92% of boaters already agreed**
+invasive mussels are harmful, before and after.
+
+::: notes
+Time: 2 minutes. Source: Chapter 8, §§8.4–8.4.5. Tell students the roles this
+week are target behavior lead, person factors lead, and situation and norms
+lead, and that the roster is published. Warn them that the $220,000 budget
+arithmetic is part of the grade.
+:::
+
+## Close
+
+::: {.key-idea}
+A strategy that cannot name its target behavior, the lever it is pulling, and
+the indicator that would show it working is not a strategy. It is a hope.
+:::
+
+::: notes
+Time: 1 minute. Source: Chapter 8, §8.5. Preview Week 8: the same decline
+problem viewed from sociology, where the unit of analysis stops being the
+individual.
+:::

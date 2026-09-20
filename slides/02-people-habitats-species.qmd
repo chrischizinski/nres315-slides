@@ -47,9 +47,9 @@ Time: 1 minute. These objectives follow the chapter's guiding questions. Tell st
 
 ## Chesapeake Bay is a shared social–ecological system
 
-::: {.columns}
+::: columns
 
-::: {.column width="53%"}
+::::: {.column width="53%"}
 
 ::: {.smaller}
 
@@ -61,13 +61,13 @@ The Bay is degraded by overfishing, pollution, nutrient loading, and habitat des
 
 :::
 
-:::
+:::::
 
-::: {.column width="47%"}
+::::: {.column width="47%"}
 
 ![](../assets/unsplash/chesapeake-bay-steve-adams.jpg){.fill-content fig-alt="Autumn trees frame a shoreline on Chesapeake Bay. Sunlight reflects off the water, with a wooded point and distant small boats visible." height=430}
 
-:::
+:::::
 
 :::
 
@@ -102,18 +102,18 @@ Time: 2 minutes. Ask: “Does naming all of these interests decide what to do?�
 
 Ecological science identifies the Bay’s condition and the likely effects of actions. It does not choose the action.
 
-::: {.columns}
+::: columns
 
-::: {.column width="48%"}
+::::: {.column width="48%"}
 
 **Science can clarify**
 
 - nutrient inputs, water quality, and habitat condition;
 - likely effects of management actions.
 
-:::
+:::::
 
-::: {.column width="52%"}
+::::: {.column width="52%"}
 
 **A decision must still address**
 
@@ -121,7 +121,7 @@ Ecological science identifies the Bay’s condition and the likely effects of ac
 - acceptable tradeoffs; and
 - affected publics and costs.
 
-:::
+:::::
 
 :::
 
@@ -327,9 +327,9 @@ Time: 2 minutes. Explain that systematic research, principled participation, and
 
 ## Different perspectives can create conflict—and exclusion
 
-::: {.columns}
+::: columns
 
-::: {.column width="57%"}
+::::: {.column width="57%"}
 
 ::: {.compact}
 
@@ -344,13 +344,13 @@ Lasting responses may require:
 
 :::
 
-:::
+:::::
 
-::: {.column width="43%"}
+::::: {.column width="43%"}
 
 ![](../assets/unsplash/deer-road-emmanuel-munoz.jpg){.fill-content fig-alt="Three deer stand at the edge of a paved two-lane road in a wooded landscape; one deer is crossing the road." height=350}
 
-:::
+:::::
 
 Human dimensions also asks:
 

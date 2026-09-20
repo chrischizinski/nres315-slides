@@ -2,7 +2,7 @@
 title: "Implementation, Monitoring, and Learning"
 subtitle: "Week 4 Wednesday — Decision Systems in Practice"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
-date: "Last updated: Sept 16, 2026"
+date: "Last updated: Sept 18, 2026"
 filters:
   - ../source-footer.lua
 format:
@@ -240,7 +240,7 @@ five years since 1955.
 
 <br>
 
-::: {.columns}
+::: columns
 ::::: {.column width="63%"}
 Those data reveal changes in participation, access, and recreation---including
 growth in non-consumptive activities---and can prompt agencies to reconsider
@@ -312,7 +312,7 @@ between methods.
 
 ## Puget Sound: monitoring human well-being takes infrastructure
 
-::: {.columns}
+::: columns
 ::::: {.column width="58%"}
 The Human Well-being Vital Signs were developed through a multi-year
 collaborative social-science process tied to regional recovery goals.
@@ -397,14 +397,20 @@ pre-decision failure, one to explain an after-implementation learning plan.
 For Friday, your group will use the Puget Sound evidence system to:
 
 1. frame one specific recovery or restoration decision;
-2. connect a Human Well-being Vital Sign to an affected perspective;
+2. connect a Human Well-being Vital Sign, measure, and affected perspective;
 3. recommend an implementation or coordination action and a tradeoff; and
-4. state what evidence would require a revised plan.
+4. state a possible monitoring result and how you would revise the plan.
+
+**Submit:** role record + four sections (200–350 words) before class ends.
+Each present member then completes the private Group Check.
 
 ::: notes
 Time: 2 minutes. Source: Chapter 6, Box 6.2. Make the bridge explicit: Friday is
 not an indicator-identification exercise. Students must use the evidence system
-to justify a decision and a revision trigger.
+to justify a proposed decision and a revision trigger. Distinguish proposals from
+case facts. The shared response uses the common four-criterion rubric (80
+points); each present member, including the submitter, completes the private
+Group Check at the end of class (20 points).
 :::
 
 ## Close: learning changes the next decision

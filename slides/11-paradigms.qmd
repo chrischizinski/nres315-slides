@@ -1,0 +1,316 @@
+---
+title: "Disciplines and Paradigms"
+subtitle: "Week 6 Wednesday — What counts as convincing evidence?"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "Last updated: Sept 16, 2026"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## The method is never the whole story
+
+On Monday, we used disciplines to see different parts of a management problem.
+
+Today we ask the prior question: **What assumptions lead a team to call one
+kind of evidence persuasive, relevant, or sufficient?**
+
+::: notes
+Time: 2 minutes. Source: Chapter 7, §7.3. Use a familiar contrast: a survey can
+show a broad pattern; it cannot, on its own, show how every community makes
+meaning of that pattern. Neither fact makes one method universally superior.
+:::
+
+## By the end of class, you can
+
+- distinguish ontology, epistemology, methodology, and axiology;
+- compare how paradigms shape questions and evidence; and
+- select a defensible combination of approaches for a contested decision.
+
+::: notes
+Time: 2 minutes. Source: Chapter 7, §§7.3–7.3.3. These objectives prepare
+students to identify assumptions and then use them in a management case.
+:::
+
+## A paradigm is a working worldview {.section-slide .divider-plan background-color="#123f5a"}
+
+It shapes what a researcher takes to be real, how knowledge can be developed,
+which methods fit, and what purposes should guide inquiry.
+
+::: notes
+Time: 1 minute. Source: Chapter 7, §7.3.2. Make the term less intimidating:
+students already make assumptions when they decide that a number, story, map,
+or meeting should carry weight in a decision.
+:::
+
+## Four questions sit underneath a research design {.smaller}
+
+| Foundation | Plain-language question |
+|---|---|
+| **Ontology** | What is real here? |
+| **Epistemology** | What can we know, and how? |
+| **Methodology** | What process can produce credible knowledge? |
+| **Axiology** | What values and responsibilities guide the inquiry? |
+
+::: {.source-note}
+Source: Chapter 7, §7.3.1.
+:::
+
+::: notes
+Time: 5 minutes. Source: Chapter 7, §7.3.1. Give a deer-management example.
+One team may treat attitude as a measurable construct; another may focus on the
+different meanings residents attach to deer. Both must still explain how their
+approach produces credible knowledge and how it will be used.
+:::
+
+## Axiology is why “value-free” is not the whole answer
+
+Researchers and managers make choices about:
+
+- which problems are worth studying;
+- whose experiences and knowledge are included;
+- what harms to avoid; and
+- how findings should be used.
+
+Naming those choices does not make research less rigorous. It makes its
+responsibilities more visible.
+
+::: {.source-note}
+Source: Chapter 7, §7.3.1.
+:::
+
+::: notes
+Time: 3 minutes. Source: Chapter 7, §7.3.1. Connect to Weeks 4–5: a monitoring
+system is built around objectives, and governance determines who helps set
+them. Axiology is not an excuse to ignore evidence; it clarifies what evidence
+is being sought and why.
+:::
+
+## The same wolf issue can generate different rigorous questions
+
+| Starting point | A question it makes possible |
+|---|---|
+| Measure a pattern | What percentage of residents supports recovery? |
+| Interpret meaning | How do communities describe what wolves represent? |
+| Examine power | Whose voices are absent from recovery decisions? |
+| Solve a problem | What evidence mix can support a workable decision? |
+
+::: {.source-note}
+Source: Chapter 7, §7.3.2.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 7, §7.3.2. These are adapted from the
+chapter's key point. Ask students which question a statewide survey answers
+best and which require a different design. Do not characterize any one question
+as the “correct” starting point in all contexts.
+:::
+
+## Positivism: measure a reality that exists independently
+
+Positivist work emphasizes observation, experimentation, and logical reasoning
+to identify patterns in a reality that is “out there” to be discovered.
+
+**Useful when:** a question calls for careful measurement of a relationship or
+effect.
+
+**Watch for:** meanings, histories, and unequal power may not be captured by
+measurement alone.
+
+::: {.source-note}
+Source: Chapter 7, §7.3.2.1.
+:::
+
+::: notes
+Time: 3 minutes. Source: Chapter 7, §7.3.2.1. Use the chapter's message-test
+example: Does exposure to a particular habitat-restoration message increase
+support? Explain that a carefully designed experiment can be very strong for
+that bounded causal question.
+:::
+
+## Post-positivism: measure carefully and stay revisable
+
+Post-positivism still values systematic empirical inquiry, but treats knowledge
+as provisional because observation, measurement, and interpretation are
+imperfect.
+
+It invites transparent limits: sampling error, uncertainty, bias, and plausible
+alternative explanations.
+
+::: {.source-note}
+Source: Chapter 7, §7.3.2.2.
+:::
+
+::: notes
+Time: 3 minutes. Source: Chapter 7, §7.3.2.2. Tie this to monitoring: a survey
+estimate of support for chronic-wasting-disease actions is useful, but it does
+not represent every resident perfectly or eliminate the need to revisit a
+decision as conditions change.
+:::
+
+## Interpretivism: examine how people make meaning {.section-slide .divider-do background-color="#2f6b57"}
+
+People's experiences, cultures, histories, and contexts shape what a species or
+management action means to them. Multiple perspectives are part of the object
+of inquiry—not simply noise around one number.
+
+::: notes
+Time: 1 minute. Source: Chapter 7, §7.3.2.3. Transition to approaches where
+the goal is not a single average or one universal interpretation.
+:::
+
+## Interpretive evidence is systematic, not “just stories”
+
+Interviews, focus groups, participant observation, and narrative analysis can
+be designed carefully to examine how people construct meaning.
+
+For wolf recovery, an interpretive study might ask how ranchers, Tribal members,
+agency staff, and urban residents each describe wolves and their management.
+
+The goal is to understand context and differences in meaning—not to force them
+into a single account.
+
+::: {.source-note}
+Source: Chapter 7, §7.3.2.3.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 7, §7.3.2.3. Connect to the Arizona and
+commercial-fisher examples from Week 4: qualitative evidence can identify a
+blind spot in a measurement system. Rigor comes from transparent design and
+interpretation, not from pretending a lived experience is a percentage.
+:::
+
+## Critical approaches ask how power shapes knowledge
+
+Critical inquiry examines how history, inequality, marginalization, and
+disenfranchisement affect whose knowledge is treated as legitimate and who
+experiences the consequences of a decision.
+
+It carries an explicit commitment to justice, empowerment, and social change.
+
+::: {.source-note}
+Source: Chapter 7, §7.3.2.4.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 7, §7.3.2.4. Connect directly to Week 5: a
+participation process can appear inclusive while still withholding influence.
+Ask what evidence would reveal historical exclusion from a wildlife decision,
+and what a team would owe people once it recognized that exclusion.
+:::
+
+## Pragmatism asks what combination can improve this decision
+
+Pragmatism treats knowledge as a tool for addressing a problem under real
+constraints: time, funding, politics, uncertainty, and implementation capacity.
+
+It can combine survey patterns, interviews, and public testing of alternatives
+when that combination is useful and credible for the decision at hand.
+
+::: {.source-note}
+Source: Chapter 7, §7.3.2.5.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 7, §7.3.2.5. Avoid describing pragmatism as
+“anything goes.” It still requires a defensible fit between the question,
+evidence, feasibility, transparency, and decision process.
+:::
+
+## Indigenous knowledge systems are not an add-on data source {.section-slide .divider-learn background-color="#123f5a"}
+
+They are complete, place-based systems of knowledge, practice, relationship,
+responsibility, and governance.
+
+::: notes
+Time: 1 minute. Source: Chapter 7, §7.3.3. State this plainly before any
+example. Do not collapse distinct Nations, communities, or knowledge systems
+into one generic category.
+:::
+
+## Two-Eyed Seeing: work from the strengths of both eyes
+
+**Etuaptmumk**, often translated as *Two-Eyed Seeing*, is a Mi’kmaw concept
+that recognizes the value of Indigenous and Western knowledge systems while
+seeking respectful, meaningful partnership.
+
+It is not a shortcut for extracting local observations into a Western project.
+It requires attention to relationships, sovereignty, and who guides the work.
+
+::: {.source-note}
+Source: Chapter 7, §7.3.3.1.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 7, §7.3.3.1. Pair this with the governance
+lecture: Tribal governments are sovereign decision-makers, not simply a
+stakeholder group. Emphasize that the concept names an orientation toward
+respectful partnership, not a universal method that others can claim without
+relationship or accountability.
+:::
+
+## Case diagnosis: choose evidence without choosing sides
+
+**Scenario:** A state agency must revise a drought-season fishing closure. It
+has creel data, temperature records, and public comments, but hears that its
+current process misses subsistence and Tribal fishing perspectives.
+
+In groups of three:
+
+1. Name one question the agency must answer.
+2. Name two kinds of evidence or knowledge that fit it.
+3. State one process condition required for that evidence to be used responsibly.
+
+::: notes
+Time: 8 minutes. Source: Chapter 7, §§7.3–7.3.3. Debrief toward fit and
+accountability. Good answers may include biological thresholds plus community
+experience, but require a process that recognizes sovereignty and does not ask
+one group to validate a decision already made.
+:::
+
+## Friday
+
+Read the **Week 06 Case Brief: Four Proposals on One Desk — The Thornapple
+Lake Decision** before class. Everything you need is in it.
+
+Four rigorous proposals, one $180,000 budget, an eight-month deadline, and a
+late letter from a Tribal fisheries program setting a condition about who owns
+the knowledge.
+
+::: {.source-note}
+Source: Chapter 7, §§7.3.1–7.3.3.
+:::
+
+::: notes
+Time: 3 minutes. Source: Chapter 7, §§7.3.1–7.3.3. Tell students the roles this
+week are question and paradigm lead, methods and evidence lead, and standpoint
+and limits lead, and that the group and role roster is already published. Warn
+them that the budget arithmetic is part of the grade: Proposal 4 alone leaves
+$30,000, and Proposal 3 runs a month past the deadline.
+:::
+
+## Close: rigor is a match among question, evidence, and responsibility
+
+Paradigms make our assumptions inspectable. That is useful because management
+decisions need evidence that is credible **and** a process that is appropriate
+to the people, places, and consequences involved.
+
+**Next week:** use psychology to move from “people should care more” to a
+specific, observable behavior and a plausible strategy.
+
+::: {.source-note}
+Source: Chapter 7, §§7.3–7.4.
+:::
+
+::: notes
+Time: 2 minutes. Source: Chapter 7, §§7.3–7.4. Exit prompt: What assumption
+about evidence do you now notice in a management claim? Use a few responses to
+open the next class, then connect to Chapter 8's behavior frameworks.
+:::

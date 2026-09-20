@@ -1,0 +1,308 @@
+---
+title: "Sociology and Social Change"
+subtitle: "Week 8 Monday — When the explanation is not in the individual"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "Last updated: Sept 20, 2026"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## Last week we looked inside the person
+
+Psychology asked what a person believes, intends, and feels, and what the
+situation in front of them allows.
+
+This week the unit of analysis changes. **Sociology asks about the patterns
+that exist beyond any one person** — and that shape what any individual can
+believe, intend, or do.
+
+::: notes
+Time: 2 minutes. Source: Chapter 9, §9.2. Be explicit that this is not a
+correction of psychology. It is a different level of explanation, and the two
+are complementary.
+
+**Pacing.** Full deck is 50 minutes; the core path is 42. Slides marked "If time is short, skip this slide" are the drop list: the "applied" slide and social order/social change. Protect troubles-and-issues and the pair rehearsal --- both are Friday item 1.
+:::
+
+## Today's question
+
+When thousands of people give the same individual reason, what are we actually
+looking at?
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §9.3.2. This is the troubles-versus-issues
+question, and it is the spine of Friday's item 1.
+:::
+
+## What you should be able to do
+
+By the end of today, you should be able to:
+
+- distinguish **structure** and **agency**, and explain why you need both;
+- define a **social fact** and distinguish a private **trouble** from a public
+  **issue**;
+- explain **social construction** and give a fish-and-wildlife example; and
+- define **social order** and **social change**.
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §§9.3.1–9.3.5. Wednesday adds the three
+theoretical perspectives and the core concepts of socialization, community, and
+stratification.
+:::
+
+## Structure and agency {background-color="#123f5a" .section-slide}
+
+Society shapes people. People reshape society.
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §9.3.1.
+:::
+
+## Two words, one relationship
+
+::: columns
+::::: {.column width="50%"}
+
+**Structure**
+
+The stable, patterned relationships among societal elements that influence
+human action: institutions, roles, norms.
+
+:::::
+::::: {.column width="50%"}
+
+**Agency**
+
+The capacity of individuals to act independently and make choices.
+
+:::::
+:::
+
+::: {.key-idea}
+Structuration: people's interactions create and renegotiate structures, while
+individuals act within the contexts those structures produce.
+:::
+
+::: notes
+Time: 5 minutes. Source: Chapter 9, §9.3.1. Giddens' point is mutual
+dependence, not a compromise between two positions. Do not let students
+translate it as "some of each."
+:::
+
+## The river and its banks
+
+A river's **banks** guide its **flow**.
+
+The flow gradually **reshapes the banks**.
+
+::: {.key-idea}
+Society influences human behavior while individuals actively reshape society.
+:::
+
+::: notes
+Time: 3 minutes. Source: Chapter 9, §9.3.1. This is the chapter's own analogy
+and it is the fastest way to recover the concept when a group collapses into
+pure structure or pure choice on Friday. Ask: what would it mean to say the
+river "chose" its course? What would it mean to say the banks are the whole
+story?
+:::
+
+## Applied: why did participation change?
+
+A sociologist asks structural questions:
+
+- Has urbanization made the landscape harder to access?
+- Have rural communities — traditionally a primary source of social support for
+  hunting — declined in population?
+- Have those areas changed in **character**, even where headcount held?
+
+::: notes
+Time: 4 minutes. Source: Chapter 9, §9.3.1 and Box 9.1. Box 9.1 notes that
+urbanization is the demographic trend most strongly associated with reducing
+participation, and that most demographic trends dampen it. Note the third
+bullet: character can change while population does not. Friday's Exhibit A is
+built on exactly that distinction.
+
+**If time is short, skip this slide.** The thread survives without it.
+:::
+
+## Social facts {background-color="#2f6b57" .section-slide}
+
+Values, norms, and structures that exist outside any one person.
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §9.3.2.
+:::
+
+## Durkheim's move
+
+The decision to die by suicide is intensely personal. Yet rates vary
+enormously across places, groups, and eras.
+
+::: {.key-idea}
+An explanation that works only at the individual level cannot explain why the
+**rate** differs. Durkheim found social support to be a strong predictor of
+aggregate rates.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 9, §9.3.2. Handle this example with care and
+keep it brief and analytic. The methodological point is what matters: a purely
+individual explanation cannot account for variation in an aggregate rate. That
+move is the foundation of the discipline.
+:::
+
+## Troubles and issues
+
+C. Wright Mills:
+
+::: columns
+::::: {.column width="50%"}
+
+**Troubles**
+
+Private experiences. One person's schedule got busier. One person lost a place
+to hunt.
+
+:::::
+::::: {.column width="50%"}
+
+**Issues**
+
+The same troubles, when they become widespread across a population — and point
+to structural change.
+
+:::::
+:::
+
+::: notes
+Time: 6 minutes. Source: Chapter 9, §9.3.2. Work the chapter's own example: a
+survey shows hunters quit because of "no time" or "nowhere to go." On the
+surface, individual troubles. But their broad distribution asks different
+questions — has leisure time declined generally? has land conversion or
+posting increased in certain regions? This is precisely Friday's item 1, and
+the case brief supplies the county data that converts one into the other.
+:::
+
+## Social construction {background-color="#123f5a" .section-slide}
+
+Concepts created through human interaction and maintained by collective
+agreement.
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §9.3.3.
+:::
+
+## Game fish and rough fish
+
+Both are real animals. The **categories** are social constructs.
+
+- "Game fish" are constructed as desirable, so policy promotes them: creel,
+  length, and gear limits.
+- "Rough fish," often **native** species, are constructed as less valuable — so
+  many go unregulated entirely: no creel, bag, or gear limit.
+
+::: {.key-idea}
+Saying a category is socially constructed does not mean it is imaginary. It
+means the agreement is what produces the regulation.
+:::
+
+::: notes
+Time: 6 minutes. Source: Chapter 9, §9.3.3. This is the best example in the
+chapter because the management consequence is so concrete. Also cover
+"endangered": we designate a species endangered because we decided a population
+has fallen below a socially acceptable threshold warranting intervention. The
+threshold is a social judgment applied to a biological measurement.
+:::
+
+## What is not socially constructed
+
+Gravity. Temperature. Thermodynamics.
+
+::: {.key-idea}
+Professionals constantly negotiate the tension between biophysical realities
+that no belief can alter and social constructions that determine what we do
+about them.
+:::
+
+::: notes
+Time: 3 minutes. Source: Chapter 9, §9.3.3. Insert this deliberately. Students
+either over-apply social construction to everything or dismiss it as relativism;
+this slide forecloses both. "Wilderness," by contrast, is a construct carrying
+cultural, symbolic, and political significance — the same physical place is
+viewed very differently by different people and cultures.
+:::
+
+## Social order and social change
+
+**Social order:** the structures, institutions, facts, and constructs that
+maintain stability — and which can also produce inequalities of status, role,
+and position.
+
+**Social change:** transformation of basic social structures and institutions
+over time, often originating in economics, politics, technology, or natural
+realities.
+
+::: notes
+Time: 4 minutes. Source: Chapter 9, §§9.3.4–9.3.5. Give the chapter's
+management example of social order: traditional agency funding structures often
+prioritize license buyers, positioning other publics lower in a perceived
+hierarchy — which influences whose interests are included. That connects
+directly back to Week 5's governance and funding discussion. For social change,
+use the 1970s environmental movement: culture, politics, and natural realities
+shifting at once.
+
+**If time is short, skip this slide.** The thread survives without it.
+:::
+
+## Pair rehearsal: trouble or issue?
+
+With a partner, decide which each is, and name the structural question you
+would ask:
+
+1. "I lost my hunting spot when the neighbor sold the farm."
+2. 63% of lapsed hunters in a county say they have "nowhere to go."
+3. "I don't have time anymore."
+4. Commuting over 30 minutes rose from 19% to 46% of county residents.
+
+::: notes
+Time: 5 minutes. Source: Chapter 9, §9.3.2. Items 1 and 3 are troubles as
+stated; 2 and 4 are the same content as issues. The useful answer names the
+structural question — who sold, to whom, and why did that pattern accelerate?
+All four figures appear in Friday's case brief.
+:::
+
+## Wednesday and Friday
+
+**Wednesday:** the three sociological perspectives, plus socialization,
+identity, community, place, and stratification.
+
+**Before Friday:** read the **Week 08 Case Brief: Who Still Hunts Cedar
+County?** It is a separate document in the Canvas module and is required
+preparation.
+
+::: notes
+Time: 2 minutes. Source: Chapter 9, §§9.4–9.6. Set the frame now: the county is
+fictional, no claim is made about any real community, and no student will be
+asked to account for their own background or family.
+:::
+
+## Close
+
+::: {.key-idea}
+When thousands of people give the same private reason, the reason has stopped
+being private. That is the moment a management problem becomes a sociological
+one.
+:::
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §9.3.2. Restate the quiz deadline and the
+case-brief reading expectation.
+:::

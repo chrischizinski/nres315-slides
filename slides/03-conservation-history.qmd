@@ -55,7 +55,7 @@ for whom should inherited institutions act?
 
 <br>
 
-::: {.columns}
+::: columns
 ::::: {.column width="33%"}
 **Priority**
 
@@ -107,7 +107,7 @@ across eras.
 
 <br>
 
-::: {.columns}
+::: columns
 ::::: {.column width="48%"}
 **Timeline question**
 
@@ -254,7 +254,7 @@ cause.
 
 ## Era of Exploitation: short-term use, lasting damage
 
-::: {.columns}
+::: columns
 ::::: {.column width="50%"}
 **Conditions**
 
@@ -472,7 +472,7 @@ disappeared from current practice.
 
 ## Law made participation and accountability more visible
 
-::: {.columns}
+::: columns
 ::::: {.column width="50%"}
 **National Environmental Policy Act (1970)**
 
@@ -641,7 +641,7 @@ nonconsumptive use, and changing societal values.
 
 ## Technology adds capacity---and new questions
 
-::: {.columns}
+::: columns
 ::::: {.column width="50%"}
 **New possibilities**
 

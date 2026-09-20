@@ -1,0 +1,306 @@
+---
+title: "Sociology and Social Change"
+subtitle: "Week 8 Wednesday — Perspectives, socialization, community, and place"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "Last updated: Sept 20, 2026"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## Monday gave us the fundamentals
+
+Structure and agency. Social facts. Troubles and issues. Social construction.
+Social order and social change.
+
+Today: three **perspectives** that ask different questions of the same problem,
+and the **core concepts** that explain how a person comes to participate at
+all.
+
+::: notes
+Time: 2 minutes. Source: Chapter 9, §§9.4–9.6. Reconnect to Week 6: paradigms
+shaped what counts as evidence; perspectives shape what counts as the question.
+
+**Pacing.** Full deck is 56 minutes; the core path is 44. Slides marked "If time is short, skip this slide" are the drop list: roles and identities, socialization-can-exclude, and community-based conservation. Protect Box 9.2 and the two socialization slides --- they are Friday item 3.
+:::
+
+## Today's question
+
+Three sociologists look at the same declining participation. What does each
+one ask?
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §9.4 and Table 9.1. Write it on the board.
+Friday does not require students to pick a perspective, but items 2 and 3
+reward a student who can hear which one a claim is coming from.
+:::
+
+## What you should be able to do
+
+By the end of today, you should be able to:
+
+- distinguish **functionalism**, **conflict**, and **symbolic interactionism**;
+- explain **roles** and **identities** as socially constructed;
+- explain **socialization** through agent, target, and context; and
+- use **community** and **stratification** to say who is served and who is not.
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §§9.4–9.6.4. These map onto Friday's items
+2, 3, and 4.
+:::
+
+## Three perspectives {background-color="#123f5a" .section-slide}
+
+Functionalism · Conflict · Symbolic interactionism
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §9.4 and Table 9.1.
+:::
+
+## What each one asks
+
+| Perspective | View of society | The question it asks |
+|---|---|---|
+| **Functionalism** | Interdependent institutions, each with a function, maintaining the whole | How do the parts of this system relate and produce this outcome? |
+| **Conflict** | Structure emerging from competition for resources and power; winners and losers | Who wins, who loses, how did that emerge, and what structures sustain it? |
+| **Symbolic interactionism** | Meaning built and negotiated through everyday interaction | How do people construct the meaning of this thing through interaction? |
+
+::: notes
+Time: 6 minutes. Source: Chapter 9, §9.4 and Table 9.1. Work one problem across
+all three columns — declining access is ideal. Functionalism: what function did
+the walk-in program serve in the system? Conflict: who gained access when
+residents lost it? Interactionism: what does "being a hunter here" mean now?
+None is the correct one; each is a different question.
+:::
+
+## Roles and identities
+
+**Roles** are social positions carrying expectations for behavior.
+**Identity** is the meaning a person attaches to themselves based on how they
+understand and prioritize those roles.
+
+- Most of us expect to occupy the role of "parent." Far fewer occupy "angler,"
+  "hunter," "birdwatcher," or "falconer."
+- The meanings and expectations of a prominent role are more widely shared than
+  those of an uncommon one.
+
+::: notes
+Time: 4 minutes. Source: Chapter 9, §9.6.1. The management payoff: hunter
+identities are shaped by material factors too — weapon type, method, target
+species — plus social class, residency, and particular landscapes. That is why
+agencies should segment hunter typologies rather than treat participants as one
+uniform group. "Hunters support this" is usually a claim that has not been
+checked.
+
+**If time is short, skip this slide.** The thread survives without it.
+:::
+
+## Socialization {background-color="#2f6b57" .section-slide}
+
+How people learn the beliefs, values, norms, and behaviors of their culture.
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §9.6.2. Open by noting that fish and
+wildlife management relies heavily on voluntary compliance — so how people are
+socialized into expected standards is not a side topic.
+:::
+
+## Agent, target, context
+
+- **Agent** — the person or institution doing the socializing.
+- **Target** — the person being socialized.
+- **Context** — the setting in which it happens.
+
+**Primary socialization** happens through parents in childhood.
+**Secondary socialization** happens through peers, teachers, extended family,
+media, and institutions.
+
+::: notes
+Time: 4 minutes. Source: Chapter 9, §9.6.2 and Box 9.2. These three variables
+are the analytic tool for Friday's item 3. Have students name the agent, target,
+and context in their own introduction to any outdoor activity — without
+requiring anyone to share.
+:::
+
+## Box 9.2 — what actually predicts participation
+
+National survey data on three variables: gender, rural upbringing, and whether
+the respondent's father hunted.
+
+- 82% of males with a hunting father had tried hunting — and rural versus urban
+  upbringing made **no difference** (81% vs. 83%).
+- For females with a hunting father, the effect was modest: 27%.
+- For females **without** a hunting father: 6%, with rural upbringing making no
+  difference.
+
+::: {.key-idea}
+The presence of a hunting agent in the household mattered more than the rural
+or urban context in which socialization took place.
+:::
+
+::: notes
+Time: 6 minutes. Source: Chapter 9, Box 9.2. Present these as findings about
+socialization mechanisms, not as claims about who ought to hunt. The striking
+result is that a primary agent made context nearly irrelevant.
+:::
+
+## When does rural upbringing matter?
+
+Exactly one case: **males who grew up rural without hunting fathers** were far
+more likely to have tried hunting (59%) than urban males without hunting
+fathers (34%).
+
+::: {.key-idea}
+Rural upbringing fosters participation mainly by **standing in for absent
+primary agents** — other family, friends, or institutions step in where the
+behavior is widely seen as normative.
+:::
+
+::: notes
+Time: 5 minutes. Source: Chapter 9, Box 9.2. This is the slide that makes
+Friday's Response C intelligible: if secondary agents substitute for absent
+primary ones, then a program that supplies a mentor is intervening on the
+actual mechanism. No corresponding effect was observed for females, which the
+chapter connects to how normative the behavior is for each group.
+:::
+
+## Socialization can also exclude
+
+Carini and Weber examined how angling magazines socialize women into the sport.
+They found women were:
+
+- underrepresented relative to their actual participation;
+- depicted in stereotypical roles;
+- usually accompanied by men; and
+- overtly sexualized.
+
+::: {.key-idea}
+When images reinforce a male-centric social space, people may not see
+themselves as suitable members of the group.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 9, §9.6.2. Media is a secondary socialization
+agent, and it operates whether or not an agency intends it to. Keep this
+analytic; the point is the mechanism, not an indictment of a magazine.
+
+**If time is short, skip this slide.** The thread survives without it.
+:::
+
+## Community {background-color="#123f5a" .section-slide}
+
+The intermediary space between the individual and broader society.
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §9.6.3.
+:::
+
+## Three elements of community
+
+- **Local territory** — a specific physical setting.
+- **Local society** — the structures and institutions that meet local needs.
+- **Social interaction** — active engagement of people with one another.
+
+A community facing an urgent issue can act in ways not predictable from its
+members' individual attitudes — a local ordinance may be a collective
+compromise that reflects nobody's average view.
+
+::: notes
+Time: 4 minutes. Source: Chapter 9, §9.6.3. Note the second element for
+Friday: when the institutions that met local needs disappear, the community can
+persist in territory while losing the structures that carried a practice.
+:::
+
+## Community-based conservation is not automatic
+
+Locally designed institutions can outperform centralized management. But
+success depends on context and the robustness of the process.
+
+- **Credibility:** do short-term local interests override broader goals?
+- **Capacity:** technical expertise, management skill, finances, political
+  access.
+- **Power:** collaboration can be derailed when elite factions hold
+  disproportionate influence.
+
+::: {.key-idea}
+Without these assets, community-based approaches can reinforce existing
+inequalities rather than correct them.
+:::
+
+::: notes
+Time: 4 minutes. Source: Chapter 9, §9.6.3. This is a direct callback to Week
+5's collaboration material. "Community-led" is not a synonym for "equitable,"
+and Friday's item 4 asks who a recommendation does not serve.
+
+**If time is short, skip this slide.** The thread survives without it.
+:::
+
+## Stratification and inequality
+
+**Stratification:** the processes allocating resources and opportunities by
+hierarchical ranking or socially agreed criteria.
+**Inequality:** the uneven or unfair distribution that results.
+
+- The cost of equipment, transportation, and access can become prohibitive.
+- Agencies risk losing large segments of their user base who can no longer
+  afford to participate.
+- Public trust thinking holds that wildlife is not owned by any group but held
+  for the public benefit — which makes equity a trust obligation, not a
+  preference.
+
+::: notes
+Time: 4 minutes. Source: Chapter 9, §9.6.4. Close the loop to Week 5 explicitly:
+the funding structure that positions license buyers first is a stratification
+fact with a governance consequence. On Friday, the rise in leased-land
+nonresident hunts is the stratification evidence.
+:::
+
+## Pair rehearsal: name the perspective
+
+With a partner, name the perspective behind each claim:
+
+1. "The walk-in program held the access system together; when it shrank,
+   everything downstream failed."
+2. "Out-of-state lease clients gained the access that local residents lost."
+3. "'Heritage' means something different now than it did when my father said
+   it."
+
+::: notes
+Time: 5 minutes. Source: Chapter 9, §9.4. Answers: functionalism, conflict,
+symbolic interactionism. All three claims are available from Friday's case
+brief, and the third is the social-construction item in Friday's item 3.
+:::
+
+## Friday
+
+Read the **Week 08 Case Brief: Who Still Hunts Cedar County?** before class.
+Everything you need is in it.
+
+Licenses down 44% in twenty years. County population nearly flat. Farm
+operations down from 1,290 to 610. Posted acres up from 61,000 to 219,000.
+
+::: notes
+Time: 2 minutes. Source: Chapter 9, §§9.3–9.6. Tell students the roles this
+week are social structure lead, meaning and identity lead, and community and
+consequences lead. Repeat the frame: the county is fictional, no claim is made
+about any real community, and nobody is asked about their own background.
+Note that the $260,000 budget does not fit any two responses together.
+:::
+
+## Close
+
+::: {.key-idea}
+A response aimed at individual preference cannot fix a problem produced by
+structural change. Diagnosing which one you have is the whole job.
+:::
+
+::: notes
+Time: 1 minute. Source: Chapter 9, §9.7. Preview Week 9: economics, where
+those same distributional questions get prices attached.
+:::

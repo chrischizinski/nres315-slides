@@ -258,7 +258,7 @@ why/who/what/how to the Puget Sound effort as a low-stakes preview.
 
 ## A goal gives direction; objectives make it testable
 
-::: {.columns}
+::: columns
 ::::: {.column width="48%"}
 **Goal**
 
@@ -361,7 +361,7 @@ implementation plan.
 
 ## "Learn" requires monitoring and evaluation
 
-::: {.columns}
+::: columns
 ::::: {.column width="50%"}
 **Monitor**
 

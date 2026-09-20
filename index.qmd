@@ -10,27 +10,47 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 ## Module 1 — Foundations for human-dimensions decisions
 
 - [Lecture 01 — Course launch](slides/01-course-launch.qmd)
-  <small class="deck-updated">Last updated: September 14, 2026 at 8:48 AM CDT</small>
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
 - [Lecture 02 — People, habitats, and species](slides/02-people-habitats-species.qmd)
-  <small class="deck-updated">Last updated: September 14, 2026 at 8:48 AM CDT</small>
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
 
 ## Module 2 — Conservation history and public trust (continued in Week 3)
 
 - [Lecture 03 — Conservation history as living context](slides/03-conservation-history.qmd)
-  <small class="deck-updated">Last updated: September 14, 2026 at 8:47 AM CDT</small>
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
 - [Lecture 04 — Public trust: for whom, for what, and across time?](slides/04-public-trust.qmd)
-  <small class="deck-updated">Last updated: September 9, 2026 at 8:59 AM CDT</small>
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
 
 ## Module 3 — Evidence, planning, and learning
 
 - [Lecture 05 — Evidence, framing, and planning](slides/06-evidence-planning.qmd)
-  <small class="deck-updated">Last updated: September 16, 2026 at 8:37 AM CDT</small>
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
 - [Lecture 06 — Implementation, monitoring, and learning](slides/07-implementation-learning.qmd)
-  <small class="deck-updated">Last updated: September 16, 2026 at 9:20 AM CDT</small>
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
 
 ## Module 4 — DEIJ, participation, and governance
 
-- [Lecture 07 — DEIJ, participation, and governance](slides/05-justice-governance.qmd)
-  <small class="deck-updated">Last updated: September 16, 2026 at 8:40 AM CDT</small>
+- [Lecture 07 — Diversity, equity, inclusion, and justice](slides/08-deij-and-justice.qmd)
+  <small class="deck-updated">Last updated: September 20, 2026 at 6:34 PM CDT</small>
+- [Lecture 08 — Fish and wildlife governance](slides/09-governance.qmd)
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+
+## Module 5 — Disciplines, paradigms, and evidence
+
+- [Lecture 09 — Disciplines: one problem, many useful questions](slides/10-disciplines.qmd)
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+- [Lecture 10 — Paradigms: what counts as convincing evidence?](slides/11-paradigms.qmd)
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+
+## Module 6 — Behavior, society, and change
+
+- [Lecture 11 — Psychology: the person and the situation](slides/12-psychology.qmd)
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+- [Lecture 12 — From diagnosis to a strategy that can be evaluated](slides/13-behavior-strategy.qmd)
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+- [Lecture 13 — Sociology: when the explanation is not in the individual](slides/14-sociology.qmd)
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+- [Lecture 14 — Perspectives, socialization, community, and place](slides/15-society-and-place.qmd)
+  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
 
 New lectures appear here only after they are ready for students.

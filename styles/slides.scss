@@ -70,6 +70,15 @@ $selectionBackgroundColor: #d4e7d1;
   background-color: #e0ebe0;
 }
 
+/* Quarto's reveal CSS sets `div.columns { display: initial }`, and for a div
+   `initial` computes to `inline`, not `block`. Because the `h2` above is
+   `inline-block`, an inline columns box flows onto the heading's line: the
+   first column lands beside the title and the second wraps below it. Whether a
+   slide broke therefore depended on how long its title happened to be. */
+.reveal .columns {
+  display: block;
+}
+
 .reveal .source-note {
   position: absolute;
   right: 0.7em;
@@ -89,10 +98,22 @@ $selectionBackgroundColor: #d4e7d1;
   padding-bottom: 3em !important;
 }
 
+/* Reversed teal block. Deliberately NOT the left-bar-plus-pale-fill idiom used
+   by `h2`: a key idea is content to read, not a label, so it differs in hue,
+   weight, and text color rather than only in shade. */
 .reveal .key-idea {
-  border-left: 0.3em solid #146778;
-  background: #eef5ee;
-  padding: 0.55em 0.8em;
+  border: 0;
+  background: #146778;
+  color: #ffffff;
+  padding: 0.65em 0.9em;
+  border-radius: 3px;
+}
+
+/* Inherit the reversed text color through inline emphasis and links. */
+.reveal .key-idea strong,
+.reveal .key-idea em,
+.reveal .key-idea a {
+  color: inherit;
 }
 
 /* Emphasize mnemonic terms without making color the sole cue. */

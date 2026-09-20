@@ -174,7 +174,7 @@ beneficiaries are broader than the loudest or most direct users.
 
 ## Trustees and trust managers do different work
 
-::: {.columns}
+::: columns
 ::::: {.column width="50%"}
 **Trustees**
 
@@ -222,7 +222,7 @@ current users. Do not introduce extra examples.
 
 ## Intergenerational equity changes the time horizon
 
-::: {.columns}
+::: columns
 ::::: {.column width="48%"}
 **A narrow present-only question**
 
