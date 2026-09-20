@@ -2,7 +2,7 @@
 
 Public lecture slides for NRES 315 at the University of Nebraska–Lincoln.
 
-**[Open the slide site](https://chrischizinski.github.io/nres315-slides/)**
+**[Open the slide site](https://chrischizinski.com/nres315-slides/)**
 
 This course examines how people, institutions, values, evidence, and ethics
 shape fish and wildlife management. The slides support class meetings and give
@@ -15,8 +15,8 @@ students a browser-friendly way to revisit key ideas and cases.
   governance, evidence, planning, and learning
 - A growing set of lectures arranged by course module
 
-Start with the [course-launch lecture](https://chrischizinski.github.io/nres315-slides/slides/01-course-launch.html),
-or use the [slide directory](https://chrischizinski.github.io/nres315-slides/)
+Start with the [course-launch lecture](https://chrischizinski.com/nres315-slides/slides/01-course-launch.html),
+or use the [slide directory](https://chrischizinski.com/nres315-slides/)
 to select a topic.
 
 ## Using the slides
