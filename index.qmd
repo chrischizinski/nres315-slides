@@ -33,7 +33,7 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 - [Lecture 07 — Diversity, equity, inclusion, and justice](slides/08-deij-and-justice.qmd)
   <small class="deck-updated">Last updated: September 20, 2026 at 6:34 PM CDT</small>
 - [Lecture 08 — Fish and wildlife governance](slides/09-governance.qmd)
-  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+  <small class="deck-updated">Last updated: September 23, 2026 at 8:57 AM CDT</small>
 
 ## Module 5 — Disciplines, paradigms, and evidence
 

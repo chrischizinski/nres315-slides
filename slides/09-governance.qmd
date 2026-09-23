@@ -19,15 +19,20 @@ format:
 Monday's answer was that presence is not influence, and that a process without
 shared influence tends to produce decisions that do not hold.
 
+<br>
+
 Today asks the mechanical follow-up: **what determines whether influence can be
 shared at all?**
 
 ::: notes
-Time: 2 minutes. Source: Chapter 5, §5.2. Governance is the machinery that
-turns Chapter 4's commitments into law, policy, funding, authority, and
-everyday practice.
+Time: 2 minutes. Source: Chapter 5, §5.2. Governance is the machinery that turns
+Chapter 4's commitments into law, policy, funding, authority, and everyday
+practice.
 
-**Pacing.** Full deck is 54 minutes; the core path is 48. Slides marked "If time is short, skip this slide" are the drop list: Box 5.1 and the funding slide. Protect the last three: the pair rehearsal is the direct rehearsal for Friday item 2, and the Friday slide carries the case-brief reading expectation.
+**Pacing.** Full deck is 54 minutes; the core path is 48. Slides marked "If time
+is short, skip this slide" are the drop list: Box 5.1 and the funding slide.
+Protect the last three: the pair rehearsal is the direct rehearsal for Friday
+item 2, and the Friday slide carries the case-brief reading expectation.
 :::
 
 ## Today's question
@@ -36,8 +41,8 @@ Who can act, who must be involved, and what constraints shape the decision?
 
 ::: notes
 Time: 1 minute. Source: Chapter 5, §5.2. The chapter states this as the
-practical question for students and professionals. Write it on the board; it
-is the spine of the whole class and of Friday's item 2.
+practical question for students and professionals. Write it on the board; it is
+the spine of the whole class and of Friday's item 2.
 :::
 
 ## What you should be able to do
@@ -51,11 +56,11 @@ By the end of today, you should be able to:
 - explain how funding operates as a governance mechanism.
 
 ::: notes
-Time: 1 minute. Source: Chapter 5, §§5.2–5.6. These map onto the four sections
+Time: 1 minute. Source: Chapter 5, §§5.2--5.6. These map onto the four sections
 of class and onto Friday's four response items.
 :::
 
-## Governance is not background {background-color="#2f6b57" .section-slide}
+## Governance is not background {.section-slide background-color="#2f6b57"}
 
 It determines what management is allowed, expected, and able to do.
 
@@ -69,6 +74,8 @@ governance is at the core of management, not peripheral to it.
 Governance is the interplay of **rules, policies, institutions, and powers**
 that guide decision-making, implementation, and enforcement.
 
+<br>
+
 A biologist may identify a habitat problem, harvest concern, disease risk, or
 access need. The response depends on statutes, budgets, commissions, courts,
 Tribal authority, landownership, public support, and administrative capacity.
@@ -81,40 +88,42 @@ produce is a governance analysis.
 
 ## The structure, with one state as the example
 
-![](../assets/manuscript-figures/figure-5-1-governance-structure.png){fig-alt="A three-column example of state-level fish and wildlife governance in Idaho. Beneficiaries and the state constitution connect to the state legislature and governor, which connect to the department and fish and game commission. The figure illustrates how legal authority flows from beneficiaries to trust administrators." height=390}
+![](../assets/manuscript-figures/figure-5-1-governance-structure.png){fig-alt="A three-column example of state-level fish and wildlife governance in Idaho. Beneficiaries and the state constitution connect to the state legislature and governor, which connect to the department and fish and game commission. The figure illustrates how legal authority flows from beneficiaries to trust administrators." height=490}
 
 Trace three things: **decision-making · implementation · enforcement**
 
 ::: notes
-Time: 3 minutes. Source: Chapter 5, §5.2 and Figure 5.1. Use the alt text as
-the text equivalent. Emphasize that the Idaho figure is an example, not a
-universal structure; the chapter's "Did You Know" contrasts Idaho's independent
-Department of Fish and Game with Minnesota's fish and wildlife work inside a
-broader Department of Natural Resources.
+Time: 3 minutes. Source: Chapter 5, §5.2 and Figure 5.1. Use the alt text as the
+text equivalent. Emphasize that the Idaho figure is an example, not a universal
+structure; the chapter's "Did You Know" contrasts Idaho's independent Department
+of Fish and Game with Minnesota's fish and wildlife work inside a broader
+Department of Natural Resources.
 :::
 
 ## Four foundations, four questions
 
-| Foundation | The question it answers |
-|---|---|
-| Deliberative democracy | Who gets a voice? |
-| Public trust thinking | Who owns or benefits from wildlife? |
-| Sustainable use | How much use is sustainable? |
-| Precautionary principle | How should agencies act when the risk of inaction is high? |
+  | Foundation              | The question it answers                                    |
+  | ----------------------- | ---------------------------------------------------------- |
+  | Deliberative democracy  | Who gets a voice?                                          |
+  | Public trust thinking   | Who owns or benefits from wildlife?                        |
+  | Sustainable use         | How much use is sustainable?                               |
+  | Precautionary principle | How should agencies act when the risk of inaction is high? |
 
 ::: notes
-Time: 4 minutes. Source: Chapter 5, §§5.3.1–5.3.1.4. Take each in turn. For
+Time: 4 minutes. Source: Chapter 5, §§5.3.1--5.3.1.4. Take each in turn. For
 deliberative democracy, note that direct democracy also shapes wildlife policy:
-Arkansas's 1997 conservation sales tax, California's 1998 trapping
-prohibition, Colorado's 2020 wolf reintroduction. For precaution, use the
-Atlantic cod collapse and the 21 species delisted as extinct in 2023.
+Arkansas's 1997 conservation sales tax, California's 1998 trapping prohibition,
+Colorado's 2020 wolf reintroduction. For precaution, use the Atlantic cod
+collapse and the 21 species delisted as extinct in 2023.
 :::
 
 ## The foundations can pull against each other
 
+<br> <br>
+
 ::: {.key-idea}
 A decision can seek participation, public benefit, sustainable use, and caution
-under uncertainty at the same time — and those aims can point in different
+under uncertainty at the same time --- and those aims can point in different
 directions.
 :::
 
@@ -126,7 +135,22 @@ also requires monitoring, thresholds, and willingness to act before all
 uncertainty is removed.
 :::
 
-## Box 5.1 — the North American Model
+## Seven tenets of the North American Model
+
+1. Wildlife is conserved and held in **public trust** for all citizens.
+2. Commerce in dead wildlife is eliminated.
+3. Wildlife is allocated by the democratic **rule of law**.
+4. Wildlife may be killed only for a legitimate, non-frivolous purpose.
+5. Wildlife is an **international resource**.
+6. Everyone has equal opportunity under the law to hunt and fish.
+7. **Scientific management** guides wildlife conservation.
+
+::: notes
+Source: Chapter 5, Box 5.1. These are the seven principles of the North American
+Model of Wildlife Conservation, summarized from the assigned reading.
+:::
+
+## Critiques the North American Model
 
 A **historical summary** of how wildlife management developed, largely from the
 1920s through the 1950s. Seven principles, with wildlife as a public trust at
@@ -142,8 +166,8 @@ Critiques it has drawn:
 
 ::: notes
 Time: 4 minutes. Source: Chapter 5, Box 5.1. The key distinction: the model is
-descriptive, the ten contemporary principles are normative. The critiques do
-not make it irrelevant; they show why governance must ask who benefits, who
+descriptive, the ten contemporary principles are normative. The critiques do not
+make it irrelevant; they show why governance must ask who benefits, who
 participates, and which species and values receive attention.
 
 **If time is short, skip this slide.** The thread survives without it.
@@ -151,20 +175,23 @@ participates, and which species and values receive attention.
 
 ## Good governance is more than biological success
 
-Chapter 5 offers ten criteria. They cluster into six qualities:
+Chapter 5 offers ten criteria that can be clustered into six qualities
 
-**responsive · inclusive of diverse perspectives · transparent and accessible ·
-accountable · sustainable and adaptable · able to coordinate across
-boundaries**
+1. responsive
+2. inclusive of diverse perspectives
+3. transparent and accessible
+4. accountable 5. sustainable and
+5. adaptable
+6. coordinated across boundaries
 
 ::: notes
-Time: 4 minutes. Source: Chapter 5, §§5.3.2–5.3.3. Ask which quality would be
-hardest to assess and why. Then ask the chapter's own warning: what happens
-when principles remain performative? Publics hear broad commitments but cannot
-see how those commitments shaped the decision, and frustration increases.
+Time: 4 minutes. Source: Chapter 5, §§5.3.2--5.3.3. Ask which quality would be
+hardest to assess and why. Then ask the chapter's own warning: what happens when
+principles remain performative? Publics hear broad commitments but cannot see
+how those commitments shaped the decision, and frustration increases.
 :::
 
-## Governance in action {background-color="#123f5a" .section-slide}
+## Governance in action {.section-slide background-color="#123f5a"}
 
 Decisions are distributed across overlapping jurisdictions, not located in a
 single office.
@@ -179,16 +206,16 @@ access, and conflict are central to the profession.
 - **Federal:** migratory birds, threatened and endangered species, marine
   mammals, interstate commerce; NEPA applies to federal lands, federal funding,
   or ESA-listed species.
-- **Tribes and First Nations:** sovereign entities with inherent rights,
-  their own programs, commissions, and law enforcement.
-- **States, provinces, territories:** broad authority within their borders
-  under the state ownership doctrine; commissions of 4–19 members typically
-  set regulations.
+- **Tribes and First Nations:** sovereign entities with inherent rights, their
+  own programs, commissions, and law enforcement.
+- **States, provinces, territories:** broad authority within their borders under
+  the state ownership doctrine; commissions of 4--19 members typically set
+  regulations.
 - **Courts:** the 2024 ruling overturning the Chevron Doctrine shifted
   interpretation of ambiguous statutes from agency experts to judges.
 
 ::: notes
-Time: 5 minutes. Source: Chapter 5, §§5.4.1–5.4.3 and §§5.5.1–5.5.3. Spend the
+Time: 5 minutes. Source: Chapter 5, §§5.4.1--5.4.3 and §§5.5.1--5.5.3. Spend the
 most time on the Tribal row: at least 56.2 million acres held in trust; the
 Indian Reorganization Act of 1934 and the Indian Self-Determination and
 Education Assistance Act of 1975; missions that often prioritize cultural and
@@ -206,15 +233,15 @@ is roughly **97%**.
   doctrine still applies.
 - Conservation is rarely a legal obligation without an instrument such as a
   conservation easement.
-- So governance reaches private land mostly through **incentives**: CRP and
-  WRP (1985), Forest Legacy (1990), EQIP and CSP (1996), Working Lands for
-  Wildlife (2012).
+- So governance reaches private land mostly through **incentives**: CRP and WRP
+  (1985), Forest Legacy (1990), EQIP and CSP (1996), Working Lands for Wildlife
+  (2012).
 
 ::: notes
 Time: 4 minutes. Source: Chapter 5, §5.5.4. For a Nebraska class this is the
-single most consequential slide of the day. If 97% of the state is private,
-then voluntary, incentive-based governance is not a supplement to management
-here — it is the main instrument.
+single most consequential slide of the day. If 97% of the state is private, then
+voluntary, incentive-based governance is not a supplement to management here ---
+it is the main instrument.
 :::
 
 ## Funding is a governance mechanism
@@ -224,7 +251,7 @@ feasible.
 
 - Federal excise-tax programs support state fish and wildlife work.
 - State, Tribal, Canadian, NGO, and mitigation sources create other pathways.
-- Diverse revenue expands capacity — and each source carries its own
+- Diverse revenue expands capacity --- and each source carries its own
   constraints and expectations.
 
 ::: notes
@@ -235,37 +262,33 @@ funds toward Tribal governments. Who holds the money is a governance question.
 **If time is short, skip this slide.** The thread survives without it.
 :::
 
-## Box 5.2 — collaboration and comanagement
+## Collaboration and comanagement
 
 ::: columns
 ::::: {.column width="50%"}
-
 **Collaboration**
 
 People work together to find common ground, solve problems, and respond to
 conflict. May or may not hold decision authority.
-
 :::::
 ::::: {.column width="50%"}
-
 **Comanagement**
 
 A formal or informal arrangement in which **sovereign entities** share
 responsibility and authority.
-
 :::::
 :::
 
 ::: notes
-Time: 4 minutes. Source: Chapter 5, Box 5.2. The distinction matters for
-Friday: two of the three options in the case brief are collaboration, one is
+Time: 4 minutes. Source: Chapter 5, Box 5.2. The distinction matters for Friday:
+two of the three options in the case brief are collaboration, one is
 comanagement. Comanagement is available only where a sovereign partner exists.
 :::
 
 ## What makes collaboration hold
 
 - Engage every relevant interest; work to understand others' interests.
-- Make sure participants know their **BATNA** — best alternative to a
+- Make sure participants know their **BATNA** --- best alternative to a
   negotiated agreement.
 - Send representatives who are knowledgeable **and empowered** by their
   organizations.
@@ -282,7 +305,7 @@ something to gain.
 ::: notes
 Time: 3 minutes. Source: Chapter 5, Box 5.2. Define BATNA plainly: what each
 party gets if they walk away. Ask students which party in Friday's case brief
-has the strongest BATNA — that party is the hardest to keep at the table.
+has the strongest BATNA --- that party is the hardest to keep at the table.
 :::
 
 ## Four practical questions for any decision
@@ -294,7 +317,7 @@ has the strongest BATNA — that party is the hardest to keep at the table.
    for the decision to work?
 
 ::: notes
-Time: 2 minutes. Source: Chapter 5, §§5.2–5.3. Use as a checklist, not a claim
+Time: 2 minutes. Source: Chapter 5, §§5.2--5.3. Use as a checklist, not a claim
 that every decision has the same answers. Friday's response item 2 asks for
 exactly this map.
 :::
@@ -303,12 +326,12 @@ exactly this map.
 
 With a partner, complete this claim about Friday's case:
 
-> The decision is made by ______ under the constraint of ______. It cannot be
-> implemented without ______. One party that can challenge or block it is
-> ______.
+> The decision is made by \_\_\_\_\_\_ under the constraint of \_\_\_\_\_\_. It
+> cannot be implemented without \_\_\_\_\_\_. One party that can challenge or
+> block it is \_\_\_\_\_\_.
 
 ::: notes
-Time: 5 minutes. Source: Chapter 5, §§5.4–5.5. Two minutes to draft, then hear
+Time: 5 minutes. Source: Chapter 5, §§5.4--5.5. Two minutes to draft, then hear
 two claims. Push on the last blank: the ability to challenge a decision is the
 accountability mechanism, and students routinely leave it blank. This is direct
 rehearsal for Friday item 2.
@@ -323,7 +346,7 @@ Your group and role are already published in **Friday Application 05: Group and
 Role Assignments**.
 
 ::: notes
-Time: 2 minutes. Source: Chapters 4–5. Remind students that the three roles
+Time: 2 minutes. Source: Chapters 4--5. Remind students that the three roles
 this week are authority and mandate lead, record and evidence lead, and
 recognition and access lead, and that no outside research is permitted.
 :::
@@ -336,6 +359,6 @@ set of relationships and regulations can make the action possible.
 :::
 
 ::: notes
-Time: 1 minute. Source: Chapter 5, §5.5. This sentence is close to the
-chapter's own and is the standard Friday's recommendation is held to.
+Time: 1 minute. Source: Chapter 5, §5.5. This sentence is close to the chapter's
+own and is the standard Friday's recommendation is held to.
 :::
