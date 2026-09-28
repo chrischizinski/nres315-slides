@@ -38,7 +38,7 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 ## Module 5 — Disciplines, paradigms, and evidence
 
 - [Lecture 09 — Disciplines: one problem, many useful questions](slides/10-disciplines.qmd)
-  <small class="deck-updated">Last updated: September 28, 2026 at 9:21 AM CDT</small>
+  <small class="deck-updated">Last updated: September 28, 2026 at 9:33 AM CDT</small>
 - [Lecture 10 — Paradigms: what counts as convincing evidence?](slides/11-paradigms.qmd)
   <small class="deck-updated">Last updated: September 28, 2026 at 9:21 AM CDT</small>
 

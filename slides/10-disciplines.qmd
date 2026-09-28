@@ -1,6 +1,6 @@
 ---
 title: "Disciplines: One Problem, Many Useful Questions"
-subtitle: "Week 6 Monday — One conservation problem, many useful questions"
+subtitle: "Week 6 Monday — How disciplines shape the questions we ask"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
 date: "Last updated: Sept 28, 2026"
 filters:
