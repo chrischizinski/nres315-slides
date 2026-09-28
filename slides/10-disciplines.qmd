@@ -1,5 +1,5 @@
 ---
-title: "Disciplines and Paradigms"
+title: "Disciplines: One Problem, Many Useful Questions"
 subtitle: "Week 6 Monday — One conservation problem, many useful questions"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
 date: "Last updated: Sept 28, 2026"
@@ -48,12 +48,15 @@ why different approaches treat different evidence as persuasive.
 
 <br>
 
-No single discipline owns a conservation problem. Each lens changes the question
-we can ask---and the evidence we will need.
+A **discipline** is a branch of knowledge that guides inquiry. Each brings
+characteristic questions, concepts, and ways of developing evidence.
+
+No single discipline owns a conservation problem.
 
 ::: notes
-Time: 1 minute. Source: Chapter 7, §7.2. Transition into the four classic
-disciplinary foundations emphasized in the chapter.
+Time: 1 minute. Source: Chapter 7, §§7.2--7.2.1. Define discipline before
+introducing the four classic disciplinary foundations emphasized in the
+chapter. Stress that the lenses are complementary rather than interchangeable.
 :::
 
 ## Four lenses, one wolf-recovery decision {.smaller}

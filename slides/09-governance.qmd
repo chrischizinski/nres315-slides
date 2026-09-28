@@ -2,7 +2,7 @@
 title: "Fish and Wildlife Governance"
 subtitle: "Week 5 Wednesday — Who can act, who must be involved, what constrains them?"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
-date: "Last updated: Sept 20, 2026"
+date: "Last updated: Sept 26, 2026"
 filters:
   - ../source-footer.lua
 format:
@@ -340,7 +340,8 @@ rehearsal for Friday item 2.
 ## Friday
 
 Read the **Week 05 Case Brief: the Cottonwood River Access and Restoration
-Plan** before class. Everything you need is in it.
+Plan** before class. All case facts are in it; bring the concepts from Chapters
+4--5 and this week's class work.
 
 Your group and role are already published in **Friday Application 05: Group and
 Role Assignments**.

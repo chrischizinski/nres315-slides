@@ -2,7 +2,7 @@
 title: "Psychology and Human Behavior"
 subtitle: "Week 7 Wednesday — From diagnosis to a strategy that can be evaluated"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
-date: "Last updated: Sept 20, 2026"
+date: "Last updated: Sept 26, 2026"
 filters:
   - ../source-footer.lua
 format:
@@ -254,7 +254,8 @@ quotations are in Friday's case brief, so this is direct rehearsal for items
 ## Friday
 
 Read the **Week 07 Case Brief: The Thornapple Lake Decontamination Problem**
-before class. Everything you need is in it.
+before class. All case facts are in it; bring the concepts from Chapter 8 and
+this week's class work.
 
 A $180,000 campaign changed nothing — because **92% of boaters already agreed**
 invasive mussels are harmful, before and after.
