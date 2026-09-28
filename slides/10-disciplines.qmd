@@ -2,7 +2,7 @@
 title: "Disciplines and Paradigms"
 subtitle: "Week 6 Monday — One conservation problem, many useful questions"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
-date: "Last updated: Sept 16, 2026"
+date: "Last updated: Sept 28, 2026"
 filters:
   - ../source-footer.lua
 format:
@@ -20,14 +20,16 @@ An agency considering wolf recovery may need to ask about population dynamics.
 It may also need to ask about fear, livelihoods, identity, authority, and what
 people owe to one another and to wildlife.
 
+<br>
+
 **Today:** use disciplines as a way to ask better questions before a decision
 narrows too quickly.
 
 ::: notes
 Time: 3 minutes. Source: Chapter 7, §7.2. Start with a show of hands: What is
 the first question a wildlife biologist might ask? Then ask what that question
-cannot answer on its own. Do not suggest that biology is insufficient; it is
-one necessary part of a larger decision.
+cannot answer on its own. Do not suggest that biology is insufficient; it is one
+necessary part of a larger decision.
 :::
 
 ## By the end of class, you can
@@ -44,8 +46,10 @@ why different approaches treat different evidence as persuasive.
 
 ## Different lenses make different parts of a problem visible {.section-slide .divider-plan background-color="#123f5a"}
 
+<br>
+
 No single discipline owns a conservation problem. Each lens changes the question
-we can ask—and the evidence we will need.
+we can ask---and the evidence we will need.
 
 ::: notes
 Time: 1 minute. Source: Chapter 7, §7.2. Transition into the four classic
@@ -54,19 +58,19 @@ disciplinary foundations emphasized in the chapter.
 
 ## Four lenses, one wolf-recovery decision {.smaller}
 
-| Lens | A question it can make visible |
-|---|---|
-| **Psychology** | Why do people perceive the same risk differently? |
-| **Sociology** | How do community norms and identities shape support? |
-| **Economics** | Who bears costs and receives benefits under each option? |
-| **Ethics** | What responsibilities and harms should guide the choice? |
+  | Lens           | A question it can make visible                           |
+  | ---            | ---                                                      |
+  | **Psychology** | Why do people perceive the same risk differently?        |
+  | **Sociology**  | How do community norms and identities shape support?     |
+  | **Economics**  | Who bears costs and receives benefits under each option? |
+  | **Ethics**     | What responsibilities and harms should guide the choice? |
 
 ::: {.source-note}
-Source: Chapter 7, §§7.2–7.2.1.4.
+Source: Chapter 7, §§7.2--7.2.1.4.
 :::
 
 ::: notes
-Time: 4 minutes. Source: Chapter 7, §§7.2–7.2.1.4. Ask students to notice that
+Time: 4 minutes. Source: Chapter 7, §§7.2--7.2.1.4. Ask students to notice that
 these are not competing versions of the same question. They name different
 features of the decision. Keep the wolf example hypothetical; the task is to
 practice question selection, not argue a particular recovery policy.
@@ -78,6 +82,8 @@ practice question selection, not argue a particular recovery policy.
 - beliefs, values, emotions, and intentions; and
 - why people respond differently to the same management action.
 
+<br>
+
 For example: Why might two residents who receive the same bear-safety message
 take different actions afterward?
 
@@ -86,10 +92,10 @@ Source: Chapter 7, §7.2.1.1.
 :::
 
 ::: notes
-Time: 3 minutes. Source: Chapter 7, §7.2.1.1. Preview Chapter 8 without
-teaching its full behavior frameworks today. Emphasize that psychology can
-study individuals and groups, but its central unit of analysis is often the
-mind and behavior.
+Time: 3 minutes. Source: Chapter 7, §7.2.1.1. Preview Chapter 8 without teaching
+its full behavior frameworks today. Emphasize that psychology can study
+individuals and groups, but its central unit of analysis is often the mind and
+behavior.
 :::
 
 ## Sociology asks about relationships and institutions
@@ -98,8 +104,10 @@ mind and behavior.
 - how traditions and opportunities are passed on; and
 - how institutions and trust shape conservation outcomes.
 
-For example: How might a hunting tradition be sustained—or interrupted—across
-generations in one community?
+<br>
+
+For example: How might a hunting tradition be sustained---or
+interrupted---across generations in one community?
 
 ::: {.source-note}
 Source: Chapter 7, §7.2.1.2.
@@ -113,21 +121,23 @@ community, place, and institutions make that decision more or less possible.
 
 ## Economics makes scarcity and distribution explicit
 
-Economics is not simply “putting a dollar value on nature.” It asks how limited
-resources are allocated, what incentives people face, and how costs and
-benefits are distributed across time and among people.
+Economics is not simply "putting a dollar value on nature." It asks how limited
+resources are allocated, what incentives people face, and how costs and benefits
+are distributed across time and among people.
 
-For example: Who pays for wetland restoration, who benefits, and what changes
-if landowners face a different incentive?
+<br>
+
+For example: Who pays for wetland restoration, who benefits, and what changes if
+landowners face a different incentive?
 
 ::: {.source-note}
 Source: Chapter 7, §7.2.1.3.
 :::
 
 ::: notes
-Time: 3 minutes. Source: Chapter 7, §7.2.1.3. Foreshadow Week 9. Make clear
-that an economic comparison can inform a decision without deciding what is fair
-or morally acceptable.
+Time: 3 minutes. Source: Chapter 7, §7.2.1.3. Foreshadow Week 9. Make clear that
+an economic comparison can inform a decision without deciding what is fair or
+morally acceptable.
 :::
 
 ## Ethics addresses the question evidence cannot settle alone
@@ -144,12 +154,14 @@ Source: Chapter 7, §7.2.1.4.
 :::
 
 ::: notes
-Time: 3 minutes. Source: Chapter 7, §7.2.1.4. Keep ethics distinct from
-personal preference. Ethical reasoning gives a disciplined way to examine
-propositions about right and wrong; it does not eliminate disagreement.
+Time: 3 minutes. Source: Chapter 7, §7.2.1.4. Keep ethics distinct from personal
+preference. Ethical reasoning gives a disciplined way to examine propositions
+about right and wrong; it does not eliminate disagreement.
 :::
 
 ## Some fields turn knowledge into action {.section-slide .divider-do background-color="#2f6b57"}
+
+<br>
 
 Applied fields help agencies implement, communicate, regulate, fund, and
 evaluate decisions in the settings where conservation actually happens.
@@ -161,13 +173,13 @@ lenses helps explain a problem; applied fields help make a response workable.
 
 ## A strong decision needs more than a good explanation
 
-| Field | What it contributes to practice |
-|---|---|
-| Education | skills, learning, and environmental literacy |
-| Law | authority, constraints, and enforceable rules |
-| Planning | land use, infrastructure, and competing needs |
-| Public administration | accountability, budgets, and coordination |
-| Business | finance, organization, and program delivery |
+  | Field | What it contributes to practice |
+  | --- | --- |
+  | Education | skills, learning, and environmental literacy |
+  | Law | authority, constraints, and enforceable rules |
+  | Planning | land use, infrastructure, and competing needs |
+  | Public administration | accountability, budgets, and coordination |
+  | Business | finance, organization, and program delivery |
 
 ::: {.source-note}
 Source: Chapter 7, §7.2.2.
@@ -176,33 +188,45 @@ Source: Chapter 7, §7.2.2.
 ::: notes
 Time: 4 minutes. Source: Chapter 7, §7.2.2. Ask: Which field becomes essential
 after an agency has selected an alternative? Answer: often several at once.
-Connect to Week 4 implementation—an adopted plan still needs authority,
+Connect to Week 4 implementation---an adopted plan still needs authority,
 resources, staff capacity, and public accountability.
 :::
 
-## Arts and humanities are evidence about meaning—not decoration
+## Arts and humanities are evidence about meaning not just aesthetics
 
+::: columns
+::::: {.column width="32%"}
+![](../assets/book-covers/sand-county-almanac.jpg){fig-alt="Cover of Aldo Leopold's A Sand County Almanac and Sketches Here and There, featuring a black-and-white illustration of three Canada geese beneath the title in red lettering." height=440}
+:::::
+
+::::: {.column width="68%"}
 Stories, images, history, and cultural expression can reveal how people attach
 meaning to a species or place. They can also communicate consequences in ways a
 technical report may not.
 
+<br>
+
 That does **not** mean substituting a moving image for evidence. It means asking
 what a solely technical account is unable to hear or convey.
+:::::
+:::
 
 ::: {.source-note}
-Source: Chapter 7, §7.2.3 and Box 7.1.
+Source: Chapter 7, §7.2.3 and Box 7.1. Cover image: Open Library.
 :::
 
 ::: notes
 Time: 3 minutes. Source: Chapter 7, §7.2.3 and Box 7.1. Use the chapter's
 examples of visual art, illustration, and ecological art to show that art can
-educate, change imagination, and sometimes materially contribute to habitat.
-Ask students for a conservation image that changed what they noticed.
+educate, change imagination, and sometimes materially contribute to habitat. Ask
+students for a conservation image that changed what they noticed.
 :::
 
 ## When disciplines meet, the work changes {.section-slide .divider-learn background-color="#123f5a"}
 
-Complex decisions often require scientists to connect methods—and to work with
+<br>
+
+Complex decisions often require scientists to connect methods---and to work with
 the people who will live with the decision.
 
 ::: notes
@@ -212,13 +236,17 @@ lenses to the degree of integration among them.
 
 ## Interdisciplinary is not the same as transdisciplinary
 
+::: {.small}
 - **Multidisciplinary:** several fields address one problem side by side.
 - **Interdisciplinary:** fields integrate concepts, theories, or methods.
 - **Transdisciplinary:** scientific fields work with practitioners, decision
   makers, and resource users to define, interpret, and apply the work.
 
-The key question is not “How many disciplines are present?” but “Who helped
-shape the problem and how are their insights connected?”
+![](../assets/diagrams/collaboration-approaches.svg){fig-alt="Three panels compare collaboration approaches. Multidisciplinary work shows ecology and biology, social science, and policy and law as separate circles working alongside one another. Interdisciplinary work shows ecology and biology overlapping with social science to form an integrated approach. Transdisciplinary work shows scientific disciplines, resource professionals, and community partners overlapping; together they co-define problems and co-produce knowledge." height=355}
+
+The key question is not "How many disciplines are present?" but "Who helped
+shape the problem and how are their insights connected?"
+:::
 
 ::: {.source-note}
 Source: Chapter 7, §7.2.4.
@@ -231,7 +259,7 @@ integrated. Then ask what changes when landowners, hunters, Tribal governments,
 and agency staff help define the problem from the outset.
 :::
 
-## Quick practice: build the question set
+## What does the team need to know?
 
 **Scenario:** A town wants to reduce road collisions with deer near new housing.
 
@@ -240,31 +268,40 @@ With a partner, write two questions the project team must answer:
 1. one question a biological or spatial lens would ask; and
 2. one question from a human-dimensions lens.
 
+<br>
+
 Then name one field or partner that should be involved before the team chooses
 an alternative.
 
 ::: notes
-Time: 6 minutes. Source: Chapter 7, §§7.2–7.2.4. Circulate and press students
+Time: 6 minutes. Source: Chapter 7, §§7.2--7.2.4. Circulate and press students
 to write questions rather than solutions. Debrief by sorting examples: risk
 perception, commuting patterns, property-owner costs, development rules,
 responsibility, and wildlife movement all belong in a fuller problem frame.
 :::
 
-## Close: choose the question before choosing the method
+## Close: one problem requires several kinds of questions
 
-A survey, interview, cost analysis, map, or public meeting is not inherently
-the right tool. The useful tool is the one that matches a clearly framed
-question and an accountable decision process.
+A wildlife decision may require biological, psychological, sociological,
+economic, ethical, and applied perspectives. Each makes a different part of the
+problem visible.
 
-**Wednesday:** Why can two rigorous teams study the same issue and still treat
-different kinds of evidence as convincing?
+The point is not to identify the **best** discipline. It is to recognize what
+each discipline can answer---and what it cannot.
+
+<br>
+
+**Wednesday:** We move from the questions disciplines ask to why researchers
+disagree about what counts as convincing evidence.
 
 ::: {.source-note}
-Source: Chapter 7, §§7.2–7.3.
+Source: Chapter 7, §§7.2--7.3.
 :::
 
 ::: notes
-Time: 2 minutes. Source: Chapter 7, §§7.2–7.3. Collect one question from two
-or three pairs. Explain that Wednesday will make the assumptions under those
-choices visible: reality, knowledge, method, and values.
+Time: 2 minutes. Source: Chapter 7, §§7.2--7.3. Return to the opening wolf
+decision and ask students to name one part of that problem each disciplinary
+lens makes visible. Explain that Wednesday will examine why researchers may
+disagree about reality, knowledge, method, and values even when their work is
+rigorous.
 :::
