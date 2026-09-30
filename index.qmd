@@ -11,52 +11,66 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 
 - [Lecture 01 — Course launch](slides/01-course-launch.qmd)
   <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+  <small>[Lecture 01 handout (PDF)](handouts/01-course-launch.pdf)</small>
 - [Lecture 02 — People, habitats, and species](slides/02-people-habitats-species.qmd)
   <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+  <small>[Lecture 02 handout (PDF)](handouts/02-people-habitats-species.pdf)</small>
 
 ## Module 2 — Conservation history and public trust
 
 - [Lecture 03 — Conservation history as living context](slides/03-conservation-history.qmd)
   <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+  <small>[Lecture 03 handout (PDF)](handouts/03-conservation-history.pdf)</small>
 
 ## Module 3 — Public-trust thinking in management decisions
 
 - [Lecture 04 — Public trust: for whom, for what, and across time?](slides/04-public-trust.qmd)
   <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+  <small>[Lecture 04 handout (PDF)](handouts/04-public-trust.pdf)</small>
 
 ## Module 4 — Evidence, planning, and learning
 
 - [Lecture 05 — Evidence, framing, and planning](slides/06-evidence-planning.qmd)
   <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+  <small>[Lecture 05 handout (PDF)](handouts/06-evidence-planning.pdf)</small>
 - [Lecture 06 — Implementation, monitoring, and learning](slides/07-implementation-learning.qmd)
   <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+  <small>[Lecture 06 handout (PDF)](handouts/07-implementation-learning.pdf)</small>
 
 ## Module 5 — DEIJ, participation, and governance
 
 - [Lecture 07 — Diversity, equity, inclusion, and justice](slides/08-deij-and-justice.qmd)
   <small class="deck-updated">Last updated: September 20, 2026 at 6:34 PM CDT</small>
+  <small>[Lecture 07 handout (PDF)](handouts/08-deij-and-justice.pdf)</small>
 - [Lecture 08 — Fish and wildlife governance](slides/09-governance.qmd)
   <small class="deck-updated">Last updated: September 28, 2026 at 8:51 AM CDT</small>
+  <small>[Lecture 08 handout (PDF)](handouts/09-governance.pdf)</small>
 
 ## Module 6 — Disciplines, paradigms, and evidence
 
 - [Lecture 09 — Disciplines: one problem, many useful questions](slides/10-disciplines.qmd)
   <small class="deck-updated">Last updated: September 28, 2026 at 9:33 AM CDT</small>
+  <small>[Lecture 09 handout (PDF)](handouts/10-disciplines.pdf)</small>
 - [Lecture 10 — Paradigms: what counts as convincing evidence?](slides/11-paradigms.qmd)
   <small class="deck-updated">Last updated: September 30, 2026 at 9:49 AM CDT</small>
+  <small>[Lecture 10 handout (PDF)](handouts/11-paradigms.pdf)</small>
 
 ## Module 7 — Psychology and human behavior
 
 - [Lecture 11 — Psychology: the person and the situation](slides/12-psychology.qmd)
   <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+  <small>[Lecture 11 handout (PDF)](handouts/12-psychology.pdf)</small>
 - [Lecture 12 — From diagnosis to a strategy that can be evaluated](slides/13-behavior-strategy.qmd)
   <small class="deck-updated">Last updated: September 26, 2026 at 10:51 AM CDT</small>
+  <small>[Lecture 12 handout (PDF)](handouts/13-behavior-strategy.pdf)</small>
 
 ## Module 8 — Sociology, social change, and place
 
 - [Lecture 13 — Sociology: when the explanation is not in the individual](slides/14-sociology.qmd)
   <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+  <small>[Lecture 13 handout (PDF)](handouts/14-sociology.pdf)</small>
 - [Lecture 14 — Perspectives, socialization, community, and place](slides/15-society-and-place.qmd)
   <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+  <small>[Lecture 14 handout (PDF)](handouts/15-society-and-place.pdf)</small>
 
 New lectures appear here only after they are ready for students.
