@@ -2,7 +2,7 @@
 title: "Paradigms and Evidence"
 subtitle: "Week 6 Wednesday — What counts as convincing evidence?"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
-date: "Last updated: Sept 28, 2026"
+date: "Last updated: Sept 30, 2026"
 filters:
   - ../source-footer.lua
 format:
@@ -18,8 +18,10 @@ format:
 
 On Monday, we used disciplines to see different parts of a management problem.
 
-Today we ask the prior question: **What assumptions lead a team to call one
-kind of evidence persuasive, relevant, or sufficient?**
+<br>
+
+Today we ask the prior question: **What assumptions lead a team to call one kind
+of evidence persuasive, relevant, or sufficient?**
 
 ::: notes
 Time: 2 minutes. Source: Chapter 7, §7.3. Use a familiar contrast: a survey can
@@ -34,42 +36,78 @@ meaning of that pattern. Neither fact makes one method universally superior.
 - select a defensible combination of approaches for a contested decision.
 
 ::: notes
-Time: 2 minutes. Source: Chapter 7, §§7.3–7.3.3. These objectives prepare
+Time: 2 minutes. Source: Chapter 7, §§7.3--7.3.3. These objectives prepare
 students to identify assumptions and then use them in a management case.
 :::
 
 ## A paradigm is a working worldview {.section-slide .divider-plan background-color="#123f5a"}
+
+<br>
 
 It shapes what a researcher takes to be real, how knowledge can be developed,
 which methods fit, and what purposes should guide inquiry.
 
 ::: notes
 Time: 1 minute. Source: Chapter 7, §7.3.2. Make the term less intimidating:
-students already make assumptions when they decide that a number, story, map,
-or meeting should carry weight in a decision.
+students already make assumptions when they decide that a number, story, map, or
+meeting should carry weight in a decision.
+:::
+
+## Can one discipline use different paradigms?
+
+**Yes.** A discipline is a field of inquiry; a paradigm is a set of assumptions
+that guides inquiry.
+
+<br>
+
+Two sociologists studying mountain lion management might ask:
+
+- How do community norms relate to support for a proposed action?
+- What meanings do residents attach to mountain lions?
+
+<br>
+
+Both work within sociology. They may begin from different paradigms.
+
+::: {.source-note}
+Source: Chapter 7, §§7.2.1.2, 7.3.1--7.3.2; mountain lion example adapted for
+class.
+:::
+
+::: notes
+Time: 2 minutes. Source: Chapter 7, §§7.2.1.2, 7.3.1--7.3.2. Connect Monday's
+disciplinary lens to today's philosophical lens. The first question seeks a
+pattern; the second seeks meaning. Both belong within sociology, so a discipline
+does not prescribe one paradigm. This example illustrates the distinction rather
+than assigning a paradigm solely from a question or method. Do not name the five
+paradigms yet; they are introduced later in the deck.
 :::
 
 ## Four questions sit underneath a research design {.smaller}
 
-| Foundation | Plain-language question |
-|---|---|
-| **Ontology** | What is real here? |
-| **Epistemology** | What can we know, and how? |
-| **Methodology** | What process can produce credible knowledge? |
-| **Axiology** | What values and responsibilities guide the inquiry? |
+<br>
+
+  | Foundation | Plain-language question |
+  | --- | --- |
+  | **Ontology** | What is real here? |
+  | **Epistemology** | What can we know, and how? |
+  | **Methodology** | What process can produce credible knowledge? |
+  | **Axiology** | What values and responsibilities guide the inquiry? |
 
 ::: {.source-note}
 Source: Chapter 7, §7.3.1.
 :::
 
 ::: notes
-Time: 5 minutes. Source: Chapter 7, §7.3.1. Give a deer-management example.
-One team may treat attitude as a measurable construct; another may focus on the
+Time: 5 minutes. Source: Chapter 7, §7.3.1. Give a deer-management example. One
+team may treat attitude as a measurable construct; another may focus on the
 different meanings residents attach to deer. Both must still explain how their
 approach produces credible knowledge and how it will be used.
 :::
 
-## Axiology is why “value-free” is not the whole answer
+## Good research names its values and responsibilities
+
+<br>
 
 Researchers and managers make choices about:
 
@@ -78,106 +116,201 @@ Researchers and managers make choices about:
 - what harms to avoid; and
 - how findings should be used.
 
-Naming those choices does not make research less rigorous. It makes its
-responsibilities more visible.
+<br>
+
+Naming those choices makes research responsibilities more visible.
 
 ::: {.source-note}
 Source: Chapter 7, §7.3.1.
 :::
 
 ::: notes
-Time: 3 minutes. Source: Chapter 7, §7.3.1. Connect to Weeks 4–5: a monitoring
-system is built around objectives, and governance determines who helps set
-them. Axiology is not an excuse to ignore evidence; it clarifies what evidence
-is being sought and why.
+Time: 3 minutes. Source: Chapter 7, §7.3.1. Connect to Weeks 4--5: a monitoring
+system is built around objectives, and governance determines who helps set them.
+Axiology is not an excuse to ignore evidence; it clarifies what evidence is
+being sought and why.
 :::
 
-## The same wolf issue can generate different rigorous questions
+## The same mountain lion issue can generate different rigorous questions
 
-| Starting point | A question it makes possible |
-|---|---|
-| Measure a pattern | What percentage of residents supports recovery? |
-| Interpret meaning | How do communities describe what wolves represent? |
-| Examine power | Whose voices are absent from recovery decisions? |
-| Solve a problem | What evidence mix can support a workable decision? |
+<br>
+
+  | Starting point    | A question it makes possible                          |
+  | ---               | ---                                                   |
+  | Measure a pattern | What share of residents supports a proposed action?   |
+  | Interpret meaning | What do mountain lions mean to different communities? |
+  | Examine power     | Whose voices are missing from management decisions?   |
+  | Solve a problem   | What evidence mix supports a workable decision?       |
 
 ::: {.source-note}
-Source: Chapter 7, §7.3.2.
+Source: Chapter 7, §7.3.2; mountain lion example adapted for class.
 :::
 
 ::: notes
-Time: 4 minutes. Source: Chapter 7, §7.3.2. These are adapted from the
-chapter's key point. Ask students which question a statewide survey answers
-best and which require a different design. Do not characterize any one question
-as the “correct” starting point in all contexts.
+Time: 4 minutes. Source: Chapter 7, §7.3.2. These are adapted from the chapter's
+key point. Ask students which question a statewide survey answers best and which
+require a different design. Do not characterize any one question as the
+"correct" starting point in all contexts.
+:::
+
+## 5 major research traditions relevant to HD
+
+<br>
+
+  | Paradigm                       | Starting point                                                         |
+  | ------------------------------ | ---------------------------------------------------------------------- |
+  | Positivism                     | Measure a reality that exists independently.                           |
+  | Post-positivism                | Measure carefully while accounting for uncertainty.                    |
+  | Interpretivism                 | Understand the meanings people make.                                   |
+  | Critical paradigm              | Examine how power shapes knowledge and decisions.                      |
+  | Pragmatism                     | Use approaches that fit the decision at hand.                          |
+
+<br> They are **not the only paradigms**, and researchers still use them.
+Together they show how assumptions about measurement, uncertainty, meaning,
+power, and action shape research questions and evidence.
+
+::: {.source-note}
+Source: Chapter 7, §§7.3.1--7.3.2.5.
+:::
+
+::: notes
+Time: 2 minutes. Source: Chapter 7, §§7.3.1--7.3.2.5. This is the students'
+first introduction to the five named paradigms; the next slide begins with
+positivism. The chapter calls these major paradigms relevant to human
+dimensions, not an exhaustive list. Its reason for teaching paradigms is that
+they shape questions, credible evidence, and interpretation. The five also give
+students a useful contrast among measurement, uncertainty, meaning, power, and
+practical action; that teaching rationale is an inference from the chapter's
+sequence. They remain in use, though researchers do not have to belong to only
+one or use a label in exactly the same way. Do not ask students to classify the
+mountain lion questions before teaching each paradigm. Indigenous ways of
+knowing follow later as complete knowledge systems, not a sixth technique in
+this table.
 :::
 
 ## Positivism: measure a reality that exists independently
 
-Positivist work emphasizes observation, experimentation, and logical reasoning
-to identify patterns in a reality that is “out there” to be discovered.
+**Where we start:** the most measurement-focused tradition. Each paradigm that
+follows keeps or questions part of this view.
 
-**Useful when:** a question calls for careful measurement of a relationship or
-effect.
+<br>
 
-**Watch for:** meanings, histories, and unequal power may not be captured by
-measurement alone.
+Reality exists independently of what people believe about it. Careful
+observation and experiments can reveal measurable patterns and effects.
+
+<br>
+
+A researcher could test whether a specific message changes support for a
+proposed mountain lion action.
+
+<br>
+
+**Therefore:** define the outcome, compare responses systematically, and measure
+the effect.
 
 ::: {.source-note}
-Source: Chapter 7, §7.3.2.1.
+Source: Chapter 7, §7.3.2.1; mountain lion example adapted for class.
 :::
 
 ::: notes
-Time: 3 minutes. Source: Chapter 7, §7.3.2.1. Use the chapter's message-test
-example: Does exposure to a particular habitat-restoration message increase
-support? Explain that a carefully designed experiment can be very strong for
-that bounded causal question.
+Time: 3 minutes. Source: Chapter 7, §7.3.2.1. The chapter tests whether a
+habitat-restoration message changes support; this slide adapts the question to
+mountain lion management. Explain why an experiment and clear measures fit a
+bounded causal question. Meanings, histories, and unequal power may remain
+outside what this measurement can answer. The top line sets up the sequence:
+each later slide opens by naming what it keeps from, or breaks with, the one
+before. That sequence is a teaching device; the chapter lists the paradigms in
+this order but only calls post-positivism an evolution of positivism.
 :::
 
 ## Post-positivism: measure carefully and stay revisable
 
-Post-positivism still values systematic empirical inquiry, but treats knowledge
-as provisional because observation, measurement, and interpretation are
-imperfect.
+**From positivism:** keeps the belief that reality exists and the commitment to
+systematic evidence. Questions whether we can ever measure it exactly.
 
-It invites transparent limits: sampling error, uncertainty, bias, and plausible
-alternative explanations.
+<br>
+
+We can only approximate reality. Uncertainty, bias, and error shape every
+observation, so conclusions stay open to revision.
+
+<br>
+
+A survey can estimate support for a mountain lion action, but who responds and
+how the question is asked can affect the estimate.
+
+<br>
+
+**Therefore:** report uncertainty, check bias and alternative explanations, and
+revise conclusions when new evidence arrives.
 
 ::: {.source-note}
-Source: Chapter 7, §7.3.2.2.
+Source: Chapter 7, §7.3.2.2; mountain lion example adapted for class.
 :::
 
 ::: notes
-Time: 3 minutes. Source: Chapter 7, §7.3.2.2. Tie this to monitoring: a survey
-estimate of support for chronic-wasting-disease actions is useful, but it does
-not represent every resident perfectly or eliminate the need to revisit a
-decision as conditions change.
+Time: 3 minutes. Source: Chapter 7, §7.3.2.2. Contrast with the prior slide:
+post-positivism retains systematic inquiry but treats a finding as an
+approximation, not a final reading of reality. The chapter's example is a survey
+about chronic-wasting-disease management; the slide adapts that logic to the
+mountain lion issue. Ask what could change the survey estimate: who was sampled,
+who responded, question wording, or a plausible alternative explanation.
+Post-positivism is not limited to surveys or quantitative methods; the chapter
+allows qualitative and mixed methods when inquiry is systematic, transparent,
+and open to revision.
 :::
 
-## Interpretivism: examine how people make meaning {.section-slide .divider-do background-color="#2f6b57"}
+## Interpretivism: examine how people make meaning
 
-People's experiences, cultures, histories, and contexts shape what a species or
-management action means to them. Multiple perspectives are part of the object
-of inquiry—not simply noise around one number.
+**From post-positivism:** a sharper break. There is no single reality to
+approximate; the same issue can hold multiple realities for different people.
+
+<br>
+
+People make meaning through experience, culture, and context. The same wildlife
+issue can mean different things to different people.
+
+<br>
+
+A researcher could ask residents what mountain lions and their management mean
+to them.
+
+<br>
+
+**Therefore:** gather open-ended accounts and interpret differences in context
+rather than force them into one average.
+
+::: {.source-note}
+Source: Chapter 7, §7.3.2.3; mountain lion example adapted for class.
+:::
 
 ::: notes
-Time: 1 minute. Source: Chapter 7, §7.3.2.3. Transition to approaches where
-the goal is not a single average or one universal interpretation.
+Time: 3 minutes. Source: Chapter 7, §7.3.2.3. The top line reflects the
+chapter's contrast: the goal is not one single reality but the multiple
+realities people experience. Contrast the question with the prior measurement
+examples: the goal is to understand meanings in context, not estimate one
+population average. The mountain lion example adapts the chapter's
+wolf-reintroduction example. The next slide explains how open-ended inquiry can
+still be systematic.
 :::
 
-## Interpretive evidence is systematic, not “just stories”
+## Interpretive evidence is systematic, not "just stories"
 
-Interviews, focus groups, participant observation, and narrative analysis can
-be designed carefully to examine how people construct meaning.
+Interviews, focus groups, participant observation, and narrative analysis can be
+designed carefully to examine how people construct meaning.
 
-For wolf recovery, an interpretive study might ask how ranchers, Tribal members,
-agency staff, and urban residents each describe wolves and their management.
+<br>
 
-The goal is to understand context and differences in meaning—not to force them
+For mountain lion management, an interpretive study might ask how ranchers,
+Tribal members, agency staff, and urban residents each describe mountain lions
+and their management.
+
+<br>
+
+The goal is to understand context and differences in meaning---not to force them
 into a single account.
 
 ::: {.source-note}
-Source: Chapter 7, §7.3.2.3.
+Source: Chapter 7, §7.3.2.3; mountain lion example adapted for class.
 :::
 
 ::: notes
@@ -187,59 +320,102 @@ blind spot in a measurement system. Rigor comes from transparent design and
 interpretation, not from pretending a lived experience is a percentage.
 :::
 
-## Critical approaches ask how power shapes knowledge
+## Critical paradigm: examine how power shapes knowledge
 
-Critical inquiry examines how history, inequality, marginalization, and
-disenfranchisement affect whose knowledge is treated as legitimate and who
-experiences the consequences of a decision.
+**From interpretivism:** keeps the idea that reality is socially constructed.
+Adds that power and privilege shape whose construction counts.
 
-It carries an explicit commitment to justice, empowerment, and social change.
+<br>
+
+History and power shape whose knowledge is heard and who bears the consequences
+of a decision.
+
+<br>
+
+A researcher could ask whose concerns shaped a mountain lion management proposal
+and whose concerns were left out.
+
+<br>
+
+**Therefore:** examine exclusion and inequity, and ask whether the research
+reinforces or challenges them.
 
 ::: {.source-note}
-Source: Chapter 7, §7.3.2.4.
+Source: Chapter 7, §7.3.2.4; mountain lion example adapted for class.
 :::
 
 ::: notes
 Time: 4 minutes. Source: Chapter 7, §7.3.2.4. Connect directly to Week 5: a
 participation process can appear inclusive while still withholding influence.
-Ask what evidence would reveal historical exclusion from a wildlife decision,
-and what a team would owe people once it recognized that exclusion.
+The mountain lion question adapts the chapter's examples of historical exclusion
+and whose knowledge is treated as legitimate. Ask what evidence would reveal
+exclusion and what a team would owe people once it recognized it. The paradigm
+carries an explicit commitment to justice and social change. Link to the prior
+paradigm: the chapter says the critical paradigm views reality as socially
+constructed, like interpretivism, but emphasizes power and privilege.
 :::
 
-## Pragmatism asks what combination can improve this decision
+## Pragmatism: choose evidence that serves the decision
 
-Pragmatism treats knowledge as a tool for addressing a problem under real
-constraints: time, funding, politics, uncertainty, and implementation capacity.
+**From the other four:** does not start from one objective truth or one
+constructed reality. It asks which knowledge is useful for this problem.
 
-It can combine survey patterns, interviews, and public testing of alternatives
-when that combination is useful and credible for the decision at hand.
+<br>
+
+Knowledge is a tool for solving problems. The question, context, and constraints
+guide the choice of methods.
+
+<br>
+
+For a mountain lion decision, a team could combine a survey of support with
+interviews about reasons and meetings to test options.
+
+<br>
+
+**Therefore:** choose a credible evidence mix that fits the decision, budget,
+and timeline.
 
 ::: {.source-note}
-Source: Chapter 7, §7.3.2.5.
+Source: Chapter 7, §7.3.2.5; mountain lion example adapted for class.
 :::
 
 ::: notes
-Time: 4 minutes. Source: Chapter 7, §7.3.2.5. Avoid describing pragmatism as
-“anything goes.” It still requires a defensible fit between the question,
-evidence, feasibility, transparency, and decision process.
+Time: 4 minutes. Source: Chapter 7, §7.3.2.5. The chapter's example combines
+surveys, interviews, and meetings to study angler satisfaction; this slide
+adapts that logic to a hypothetical mountain lion decision. Avoid describing
+pragmatism as "anything goes." Each approach still needs a defensible fit with
+the question, evidence, feasibility, transparency, and decision process. Link to
+the prior paradigms: the chapter says pragmatism does not focus primarily on one
+objective truth or one constructed reality, and often combines multiple
+approaches and methods.
 :::
 
 ## Indigenous knowledge systems are not an add-on data source {.section-slide .divider-learn background-color="#123f5a"}
 
-They are complete, place-based systems of knowledge, practice, relationship,
-responsibility, and governance.
+**From the five paradigms:** those are Western traditions. Indigenous knowledge
+systems answer the same four questions from their own foundations.
+
+<br> They are complete, place-based systems of knowledge, practice,
+relationship, responsibility, and governance.
 
 ::: notes
-Time: 1 minute. Source: Chapter 7, §7.3.3. State this plainly before any
-example. Do not collapse distinct Nations, communities, or knowledge systems
-into one generic category.
+Time: 1 minute. Source: Chapter 7, §7.3.3. The top line follows the chapter's
+own transition: the paradigms above are Western academic traditions, and
+Indigenous worldviews possess their own ontology, epistemology, methodology, and
+axiology. Point back to the four-questions slide. This is not a sixth paradigm
+on the list. State this plainly before any example. Do not collapse distinct
+Nations, communities, or knowledge systems into one generic category.
 :::
 
 ## Two-Eyed Seeing: work from the strengths of both eyes
 
-**Etuaptmumk**, often translated as *Two-Eyed Seeing*, is a Mi’kmaw concept
-that recognizes the value of Indigenous and Western knowledge systems while
-seeking respectful, meaningful partnership.
+<br>
+
+**Etuaptmumk**, often translated as *Two-Eyed Seeing*, is a Mi'kmaw concept that
+recognizes the value of Indigenous and Western knowledge systems while seeking
+respectful, meaningful partnership.
+
+<br>
 
 It is not a shortcut for extracting local observations into a Western project.
 It requires attention to relationships, sovereignty, and who guides the work.
@@ -258,6 +434,8 @@ relationship or accountability.
 
 ## Case diagnosis: choose evidence without choosing sides
 
+<br>
+
 **Scenario:** A state agency must revise a drought-season fishing closure. It
 has creel data, temperature records, and public comments, but hears that its
 current process misses subsistence and Tribal fishing perspectives.
@@ -266,10 +444,11 @@ In groups of three:
 
 1. Name one question the agency must answer.
 2. Name two kinds of evidence or knowledge that fit it.
-3. State one process condition required for that evidence to be used responsibly.
+3. State one process condition required for that evidence to be used
+   responsibly.
 
 ::: notes
-Time: 8 minutes. Source: Chapter 7, §§7.3–7.3.3. Debrief toward fit and
+Time: 8 minutes. Source: Chapter 7, §§7.3--7.3.3. Debrief toward fit and
 accountability. Good answers may include biological thresholds plus community
 experience, but require a process that recognizes sovereignty and does not ask
 one group to validate a decision already made.
@@ -277,26 +456,30 @@ one group to validate a decision already made.
 
 ## Friday
 
-Read the **Week 06 Case Brief: Four Proposals on One Desk — The Thornapple
+<br>
+
+Read the **Week 06 Case Brief: Four Proposals on One Desk --- The Thornapple
 Lake Decision** before class. All case facts are in it; bring the concepts from
 Chapter 7 and this week's class work.
+
+<br>
 
 Four rigorous proposals, one $180,000 budget, an eight-month deadline, and a
 late letter from a Tribal fisheries program setting a condition about who owns
 the knowledge.
 
 ::: {.source-note}
-Source: Chapter 7, §§7.3.1–7.3.3.
+Source: Chapter 7, §§7.3.1--7.3.3.
 :::
 
 ::: notes
-Time: 3 minutes. Source: Chapter 7, §§7.3.1–7.3.3. Tell students the roles this
+Time: 3 minutes. Source: Chapter 7, §§7.3.1--7.3.3. Tell students the roles this
 week are question and paradigm lead, methods and evidence lead, and standpoint
 and limits lead, and that the group and role roster is already published. Warn
 them that the budget arithmetic is part of the grade: Proposal 4 alone leaves
 $30,000, and Proposal 3 runs a month past the deadline. For combinations, costs
-add but the components run concurrently, so the longest component determines
-the timeline.
+add but the components run concurrently, so the longest component determines the
+timeline.
 :::
 
 ## Close: rigor is a match among question, evidence, and responsibility
@@ -305,15 +488,15 @@ Paradigms make our assumptions inspectable. That is useful because management
 decisions need evidence that is credible **and** a process that is appropriate
 to the people, places, and consequences involved.
 
-**Next week:** use psychology to move from “people should care more” to a
+**Next week:** use psychology to move from "people should care more" to a
 specific, observable behavior and a plausible strategy.
 
 ::: {.source-note}
-Source: Chapter 7, §§7.3–7.4.
+Source: Chapter 7, §§7.3--7.4.
 :::
 
 ::: notes
-Time: 2 minutes. Source: Chapter 7, §§7.3–7.4. Exit prompt: What assumption
+Time: 2 minutes. Source: Chapter 7, §§7.3--7.4. Exit prompt: What assumption
 about evidence do you now notice in a management claim? Use a few responses to
 open the next class, then connect to Chapter 8's behavior frameworks.
 :::
