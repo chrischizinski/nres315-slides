@@ -58,7 +58,7 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 ## Module 7 — Psychology and human behavior
 
 - [Lecture 11 — Psychology: the person and the situation](slides/12-psychology.qmd)
-  <small class="deck-updated">Last updated: September 20, 2026 at 5:53 PM CDT</small>
+  <small class="deck-updated">Last updated: October 5, 2026 at 9:25 AM CDT</small>
   <small>[Lecture 11 handout (PDF)](handouts/12-psychology.pdf)</small>
 - [Lecture 12 — From diagnosis to a strategy that can be evaluated](slides/13-behavior-strategy.qmd)
   <small class="deck-updated">Last updated: September 26, 2026 at 10:51 AM CDT</small>
