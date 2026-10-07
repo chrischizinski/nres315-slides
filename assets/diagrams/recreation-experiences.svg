@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="recreation-experiences-title recreation-experiences-desc">
+<title id="recreation-experiences-title">Motivation, experience, and satisfaction</title>
+<desc id="recreation-experiences-desc">Motivation concerns desired outcomes such as social connection, achievement, and appreciating nature. Experience concerns what happens during participation, including catch, harvest, access, and crowding. Satisfaction concerns the positive emotional and psychological outcomes of the experience. Desired outcomes differ across people, and several benefits can matter at once. Conceptual summary of Chapter 8 section 8.4.5.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#123f5a"/></marker></defs>
+<rect width="1200" height="560" fill="#fcfbf7"/>
+<g font-family="Arial, sans-serif" fill="#1e2d36">
+<rect x="25" y="50" width="350" height="145" rx="12" fill="#e0ebe0" stroke="#123f5a" stroke-width="3"/>
+<text x="200.0" y="93" text-anchor="middle" font-size="32" font-weight="bold">
+<tspan x="200.0" dy="0">Motivation</tspan>
+</text>
+<text x="200.0" y="136" text-anchor="middle" font-size="25" font-weight="normal">
+<tspan x="200.0" dy="0">What someone seeks</tspan>
+</text>
+<rect x="425" y="50" width="350" height="145" rx="12" fill="#dbeaf0" stroke="#123f5a" stroke-width="3"/>
+<text x="600.0" y="93" text-anchor="middle" font-size="32" font-weight="bold">
+<tspan x="600.0" dy="0">Experience</tspan>
+</text>
+<text x="600.0" y="136" text-anchor="middle" font-size="25" font-weight="normal">
+<tspan x="600.0" dy="0">What happens</tspan>
+</text>
+<rect x="825" y="50" width="350" height="145" rx="12" fill="#e0ebe0" stroke="#123f5a" stroke-width="3"/>
+<text x="1000.0" y="93" text-anchor="middle" font-size="32" font-weight="bold">
+<tspan x="1000.0" dy="0">Satisfaction</tspan>
+</text>
+<text x="1000.0" y="136" text-anchor="middle" font-size="25" font-weight="normal">
+<tspan x="1000.0" dy="0">What someone gains</tspan>
+</text>
+<path d="M 375 125 H 420" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<path d="M 775 125 H 820" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<text x="200" y="267" text-anchor="middle" font-size="27" font-weight="normal">
+<tspan x="200" dy="0">Social connection</tspan>
+<tspan x="200" dy="43">Achievement</tspan>
+<tspan x="200" dy="43">Appreciation in nature</tspan>
+</text>
+<text x="600" y="267" text-anchor="middle" font-size="27" font-weight="normal">
+<tspan x="600" dy="0">Catch and harvest</tspan>
+<tspan x="600" dy="43">Access</tspan>
+<tspan x="600" dy="43">Crowding</tspan>
+</text>
+<text x="1000" y="267" text-anchor="middle" font-size="27" font-weight="normal">
+<tspan x="1000" dy="0">Positive emotional</tspan>
+<tspan x="1000" dy="43">or psychological</tspan>
+<tspan x="1000" dy="43">outcomes</tspan>
+</text>
+<text x="600" y="477" text-anchor="middle" font-size="28" font-weight="bold">
+<tspan x="600" dy="0">Desired outcomes differ; several benefits may matter at once.</tspan>
+</text>
+</g>
+</svg>
