@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="self-determination-title self-determination-desc">
+<title id="self-determination-title">Three needs in self-determination theory</title>
+<desc id="self-determination-desc">Autonomy means feeling in control of one’s actions, competence means feeling effective, and relatedness means connecting with others. Supporting these needs can strengthen intrinsic motivation and well-being. The diagram summarizes Chapter 8 section 8.4.5; it does not promise automatic compliance.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#123f5a"/></marker></defs>
+<rect width="1200" height="560" fill="#fcfbf7"/>
+<g font-family="Arial, sans-serif" fill="#1e2d36">
+<rect x="25" y="45" width="350" height="190" rx="12" fill="#e0ebe0" stroke="#123f5a" stroke-width="3"/>
+<text x="200.0" y="88" text-anchor="middle" font-size="33" font-weight="bold">
+<tspan x="200.0" dy="0">Autonomy</tspan>
+</text>
+<text x="200.0" y="131" text-anchor="middle" font-size="25" font-weight="normal">
+<tspan x="200.0" dy="0">Choice over one’s</tspan>
+<tspan x="200.0" dy="35">actions</tspan>
+</text>
+<path d="M 200 235 V 307 L 600 365" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<rect x="425" y="45" width="350" height="190" rx="12" fill="#e0ebe0" stroke="#123f5a" stroke-width="3"/>
+<text x="600.0" y="88" text-anchor="middle" font-size="33" font-weight="bold">
+<tspan x="600.0" dy="0">Competence</tspan>
+</text>
+<text x="600.0" y="131" text-anchor="middle" font-size="25" font-weight="normal">
+<tspan x="600.0" dy="0">Feeling able</tspan>
+<tspan x="600.0" dy="35">and effective</tspan>
+</text>
+<path d="M 600 235 V 307 L 600 365" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<rect x="825" y="45" width="350" height="190" rx="12" fill="#e0ebe0" stroke="#123f5a" stroke-width="3"/>
+<text x="1000.0" y="88" text-anchor="middle" font-size="33" font-weight="bold">
+<tspan x="1000.0" dy="0">Relatedness</tspan>
+</text>
+<text x="1000.0" y="131" text-anchor="middle" font-size="25" font-weight="normal">
+<tspan x="1000.0" dy="0">Connection</tspan>
+<tspan x="1000.0" dy="35">with others</tspan>
+</text>
+<path d="M 1000 235 V 307 L 600 365" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<rect x="180" y="370" width="840" height="145" rx="12" fill="#dbeaf0" stroke="#123f5a" stroke-width="3"/>
+<text x="600.0" y="413" text-anchor="middle" font-size="32" font-weight="bold">
+<tspan x="600.0" dy="0">Supporting these needs can strengthen</tspan>
+<tspan x="600.0" dy="34">intrinsic motivation and well-being</tspan>
+</text>
+</g>
+</svg>

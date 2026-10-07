@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="reasoned-action-paths-title reasoned-action-paths-desc">
+<title id="reasoned-action-paths-title">Beliefs, intention, and behavior</title>
+<desc id="reasoned-action-paths-desc">Three belief paths lead to attitude toward a specified behavior, perceived norms, and perceived behavioral control. All three influence intention, which predicts behavior. Actual skills and environmental conditions also influence behavior. A dashed path from perceived control to behavior represents its possible correspondence to actual control. Background factors shape beliefs. Simplified from Chapter 8 Figure 8.2.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#123f5a"/></marker></defs>
+<rect width="1200" height="560" fill="#fcfbf7"/>
+<g font-family="Arial, sans-serif" fill="#1e2d36">
+<text x="600" y="36" text-anchor="middle" font-size="28" font-weight="bold">
+<tspan x="600" dy="0">Background factors shape behavior-specific beliefs</tspan>
+</text>
+<rect x="20" y="65" width="245" height="108" rx="12" fill="#e0ebe0" stroke="#123f5a" stroke-width="3"/>
+<text x="142.5" y="108" text-anchor="middle" font-size="29" font-weight="bold">
+<tspan x="142.5" dy="0">Behavioral</tspan>
+<tspan x="142.5" dy="34">beliefs</tspan>
+</text>
+<rect x="330" y="65" width="305" height="108" rx="12" fill="#dbeaf0" stroke="#123f5a" stroke-width="3"/>
+<text x="482.5" y="108" text-anchor="middle" font-size="29" font-weight="bold">
+<tspan x="482.5" dy="0">Attitude toward</tspan>
+<tspan x="482.5" dy="34">the behavior</tspan>
+</text>
+<path d="M 265 119 H 327" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<rect x="20" y="205" width="245" height="108" rx="12" fill="#e0ebe0" stroke="#123f5a" stroke-width="3"/>
+<text x="142.5" y="248" text-anchor="middle" font-size="29" font-weight="bold">
+<tspan x="142.5" dy="0">Normative</tspan>
+<tspan x="142.5" dy="34">beliefs</tspan>
+</text>
+<rect x="330" y="205" width="305" height="108" rx="12" fill="#dbeaf0" stroke="#123f5a" stroke-width="3"/>
+<text x="482.5" y="248" text-anchor="middle" font-size="29" font-weight="bold">
+<tspan x="482.5" dy="0">Perceived norms</tspan>
+</text>
+<path d="M 265 259 H 327" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<rect x="20" y="345" width="245" height="108" rx="12" fill="#e0ebe0" stroke="#123f5a" stroke-width="3"/>
+<text x="142.5" y="388" text-anchor="middle" font-size="29" font-weight="bold">
+<tspan x="142.5" dy="0">Control</tspan>
+<tspan x="142.5" dy="34">beliefs</tspan>
+</text>
+<rect x="330" y="345" width="305" height="108" rx="12" fill="#dbeaf0" stroke="#123f5a" stroke-width="3"/>
+<text x="482.5" y="388" text-anchor="middle" font-size="29" font-weight="bold">
+<tspan x="482.5" dy="0">Perceived</tspan>
+<tspan x="482.5" dy="34">behavioral control</tspan>
+</text>
+<path d="M 265 399 H 327" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<rect x="725" y="205" width="200" height="108" rx="12" fill="#dbeaf0" stroke="#123f5a" stroke-width="3"/>
+<text x="825.0" y="248" text-anchor="middle" font-size="30" font-weight="bold">
+<tspan x="825.0" dy="0">Intention</tspan>
+</text>
+<rect x="990" y="205" width="190" height="108" rx="12" fill="#dbeaf0" stroke="#123f5a" stroke-width="3"/>
+<text x="1085.0" y="248" text-anchor="middle" font-size="30" font-weight="bold">
+<tspan x="1085.0" dy="0">Behavior</tspan>
+</text>
+<path d="M 635 119 H 675 L 723 235" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<path d="M 635 259 H 723" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<path d="M 635 399 H 675 L 723 281" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<path d="M 925 259 H 986" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<rect x="915" y="420" width="265" height="126" rx="12" fill="#e0ebe0" stroke="#123f5a" stroke-width="3"/>
+<text x="1047.5" y="463" text-anchor="middle" font-size="29" font-weight="bold">
+<tspan x="1047.5" dy="0">Actual control</tspan>
+</text>
+<text x="1047.5" y="506" text-anchor="middle" font-size="25" font-weight="normal">
+<tspan x="1047.5" dy="0">Skills and abilities</tspan>
+<tspan x="1047.5" dy="35">Environmental factors</tspan>
+</text>
+<path d="M 1085 420 V 317" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)"/>
+<path d="M 635 420 C 740 515 890 355 994 315" fill="none" stroke="#123f5a" stroke-width="3.5" marker-end="url(#arrow)" stroke-dasharray="9 7"/>
+<text x="756" y="509" text-anchor="middle" font-size="24" font-weight="normal">
+<tspan x="756" dy="0">Perceived control may</tspan>
+<tspan x="756" dy="29">reflect actual control</tspan>
+</text>
+</g>
+</svg>
