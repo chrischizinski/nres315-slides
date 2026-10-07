@@ -61,7 +61,7 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
   <small class="deck-updated">Published: October 5, 2026 at 9:45 AM CDT</small>
   <small>[Lecture 11 handout (PDF)](handouts/12-psychology.pdf)</small>
 - [Lecture 12 — Explaining behavior and choosing a response](slides/13-behavior-strategy.qmd)
-  <small class="deck-updated">Source updated: October 7, 2026 at 8:52 AM CDT</small>
+  <small class="deck-updated">Published: October 7, 2026 at 9:00 AM CDT</small>
   <small>[Lecture 12 handout (PDF)](handouts/13-behavior-strategy.pdf)</small>
 
 ## Module 8 — Sociology, social change, and place
