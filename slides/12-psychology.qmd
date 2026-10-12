@@ -353,8 +353,8 @@ decision is much more specific.
 
 - Wildlife value orientations predict **general** acceptability of hunting well.
 
-- They predict **archery hunting** [action] **a white-tailed deer** [target]
-  **in a suburban neighborhood** [context] **in fall 2027** [time] far less
+- They predict **archery hunting** \[action\] **a white-tailed deer** \[target\]
+  **in a suburban neighborhood** \[context\] **in fall 2027** \[time\] far less
   well.
 
 ::: {.key-idea}

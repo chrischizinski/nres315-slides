@@ -2,7 +2,7 @@
 title: "Sociology and Social Change"
 subtitle: "Week 8 Wednesday — Perspectives, socialization, community, and place"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
-date: "Last updated: Sept 20, 2026"
+date: "Last updated: Oct. 6, 2026"
 filters:
   - ../source-footer.lua
 format:
@@ -27,7 +27,7 @@ all.
 Time: 2 minutes. Source: Chapter 9, §§9.4–9.6. Reconnect to Week 6: paradigms
 shaped what counts as evidence; perspectives shape what counts as the question.
 
-**Pacing.** Full deck is 56 minutes; the core path is 44. Slides marked "If time is short, skip this slide" are the drop list: roles and identities, socialization-can-exclude, and community-based conservation. Protect Box 9.2 and the two socialization slides --- they are Friday item 3.
+**Pacing.** Full deck is 50 minutes; the core path is 40. Slides marked "If time is short, skip this slide" are the drop list: roles and identities, socialization-can-exclude, and community-based conservation. Protect Box 9.2 and the two socialization slides --- they are Friday item 3.
 :::
 
 ## Today's question
@@ -65,14 +65,29 @@ Time: 1 minute. Source: Chapter 9, §9.4 and Table 9.1.
 
 ## What each one asks
 
-| Perspective | View of society | The question it asks |
-|---|---|---|
-| **Functionalism** | Interdependent institutions, each with a function, maintaining the whole | How do the parts of this system relate and produce this outcome? |
-| **Conflict** | Structure emerging from competition for resources and power; winners and losers | Who wins, who loses, how did that emerge, and what structures sustain it? |
-| **Symbolic interactionism** | Meaning built and negotiated through everyday interaction | How do people construct the meaning of this thing through interaction? |
+```{r}
+#| echo: false
+#| output: asis
+source("../table-style.R")
+data.frame(
+    Perspective = c("Functionalism", "Conflict", "Symbolic interactionism"),
+    `View of society` = c(
+        "Interdependent institutions maintaining the whole",
+        "Competition for resources and power; winners and losers",
+        "Meaning negotiated through everyday interaction"
+    ),
+    `Question` = c(
+        "How do the parts relate and produce this outcome?",
+        "Who wins, who loses, and what sustains that pattern?",
+        "How do people construct meaning through interaction?"
+    ),
+    check.names = FALSE
+) |>
+    nres315_slide_table(font_size = 22, header_font_size = 24, row_padding = 10)
+```
 
 ::: notes
-Time: 6 minutes. Source: Chapter 9, §9.4 and Table 9.1. Work one problem across
+Time: 5 minutes. Source: Chapter 9, §9.4 and Table 9.1. Work one problem across
 all three columns — declining access is ideal. Functionalism: what function did
 the walk-in program serve in the system? Conflict: who gained access when
 residents lost it? Interactionism: what does "being a hunter here" mean now?
@@ -91,7 +106,7 @@ understand and prioritize those roles.
   those of an uncommon one.
 
 ::: notes
-Time: 4 minutes. Source: Chapter 9, §9.6.1. The management payoff: hunter
+Time: 3 minutes. Source: Chapter 9, §9.6.1. The management payoff: hunter
 identities are shaped by material factors too — weapon type, method, target
 species — plus social class, residency, and particular landscapes. That is why
 agencies should segment hunter typologies rather than treat participants as one
@@ -145,7 +160,7 @@ or urban context in which socialization took place.
 :::
 
 ::: notes
-Time: 6 minutes. Source: Chapter 9, Box 9.2. Present these as findings about
+Time: 4 minutes. Source: Chapter 9, Box 9.2. Present these as findings about
 socialization mechanisms, not as claims about who ought to hunt. The striking
 result is that a primary agent made context nearly irrelevant.
 :::
@@ -234,7 +249,7 @@ inequalities rather than correct them.
 :::
 
 ::: notes
-Time: 4 minutes. Source: Chapter 9, §9.6.3. This is a direct callback to Week
+Time: 3 minutes. Source: Chapter 9, §9.6.3. This is a direct callback to Week
 5's collaboration material. "Community-led" is not a synonym for "equitable,"
 and Friday's item 4 asks who a recommendation does not serve.
 
@@ -265,22 +280,24 @@ nonresident hunts is the stratification evidence.
 
 With a partner, name the perspective behind each claim:
 
-1. "The walk-in program held the access system together; when it shrank,
-   everything downstream failed."
-2. "Out-of-state lease clients gained the access that local residents lost."
+1. "The walk-in program held the access system together; what changed when it shrank?"
+2. "How do rising nonresident leases and declining resident access reveal
+   unequal opportunities?"
 3. "'Heritage' means something different now than it did when my father said
    it."
 
 ::: notes
-Time: 5 minutes. Source: Chapter 9, §9.4. Answers: functionalism, conflict,
-symbolic interactionism. All three claims are available from Friday's case
-brief, and the third is the social-construction item in Friday's item 3.
+Time: 4 minutes. Source: Chapter 9, §9.4. Answers: functionalism, conflict,
+symbolic interactionism. These are interpretive claims to examine, not established causal findings.
+The brief shows shrinking walk-in acreage and rising nonresident leased-land
+licenses; it does not prove everything downstream failed. The third paraphrases
+the meaning question in Friday item 3.
 :::
 
 ## Friday
 
 Read the **Week 08 Case Brief: Who Still Hunts Cedar County?** before class.
-Everything you need is in it.
+It supplies the case facts; Chapter 9 supplies the concepts.
 
 Licenses down 44% in twenty years. County population nearly flat. Farm
 operations down from 1,290 to 610. Posted acres up from 61,000 to 219,000.
@@ -290,7 +307,9 @@ Time: 2 minutes. Source: Chapter 9, §§9.3–9.6. Tell students the roles this
 week are social structure lead, meaning and identity lead, and community and
 consequences lead. Repeat the frame: the county is fictional, no claim is made
 about any real community, and nobody is asked about their own background.
-Note that the $260,000 budget does not fit any two responses together.
+Require one complete response A, B, or C within $260,000. Every pair exceeds
+the budget; no component prices support a scaled combination. Protect the
+indicator and revision trigger required in item 4.
 :::
 
 ## Close
@@ -302,5 +321,7 @@ structural change. Diagnosing which one you have is the whole job.
 
 ::: notes
 Time: 1 minute. Source: Chapter 9, §9.7. Preview Week 9: economics, where
-those same distributional questions get prices attached.
+those same distributional questions are examined through incentives and
+market and nonmarket values. Monday, October 19 is fall break; the usual
+Sunday quiz deadline remains, and the integrated lesson is Wednesday, October 21.
 :::
