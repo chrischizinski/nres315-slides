@@ -2,7 +2,8 @@
 title: "Sociology and Social Change"
 subtitle: "Week 8 Monday — When the explanation is not in the individual"
 author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
-date: "Last updated: Oct. 12, 2026"
+date: "October 12, 2026"
+date-format: "MMMM D, YYYY"
 filters:
   - ../source-footer.lua
 format:
