@@ -79,4 +79,10 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
   <small class="deck-updated">Published: October 21, 2026 at 8:52 AM CDT</small>
   <small>[Lecture 15 handout (PDF)](handouts/16-economics.pdf)</small>
 
+## Module 10 — Ethics and moral reasoning
+
+- [Lecture 16 — Ethics: what should we do, and who counts?](slides/17-ethics.qmd)
+  <small class="deck-updated">Source updated: October 21, 2026 at 9:27 AM CDT</small>
+  <small>[Lecture 16 handout (PDF)](handouts/17-ethics.pdf)</small>
+
 New lectures appear here only after they are ready for students.

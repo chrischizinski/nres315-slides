@@ -54,6 +54,7 @@
     "handouts/14-sociology.pdf",
     "handouts/15-society-and-place.pdf",
     "handouts/16-economics.pdf",
+    "handouts/17-ethics.pdf",
     "index.qmd",
     "slides/01-course-launch.qmd",
     "slides/02-people-habitats-species.qmd",
@@ -70,6 +71,7 @@
     "slides/14-sociology.qmd",
     "slides/15-society-and-place.qmd",
     "slides/16-economics.qmd",
+    "slides/17-ethics.qmd",
     "source-footer.lua",
     "styles/slides.scss",
     "table-style.R"
