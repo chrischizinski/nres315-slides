@@ -300,14 +300,18 @@ Time: 1 minute. Source: Chapters 3, 5, and 10; Friday Case Brief 09. Grounding: 
 
 ::: {.columns}
 ::::: {.column width="48%"}
-**Private:** excludable + rivalrous.A harvested fish sold for food.
+**Private:** excludable + rivalrous.\
+A harvested fish sold for food.
 
-**Club:** excludable + largely non-rivalrous.Member access before congestion.
+**Club:** excludable + largely non-rivalrous.\
+Member access before congestion.
 :::::
 ::::: {.column width="48%"}
-**Common-pool:** hard to exclude + rivalrous.A fish stock subject to harvest.
+**Common-pool:** hard to exclude + rivalrous.\
+A fish stock subject to harvest.
 
-**Public:** hard to exclude + non-rivalrous.Climate-regulation benefits.
+**Public:** hard to exclude + non-rivalrous.\
+Climate-regulation benefits.
 :::::
 :::
 
@@ -575,7 +579,7 @@ Name **what to learn**, **how to learn it**, and **whose information is needed**
 
 Then state:
 
-**If we found ___, we would revise ___ because ___.**
+**If we found \_\_\_, we would revise \_\_\_ because \_\_\_.**
 
 <br>
 
