@@ -578,10 +578,10 @@ $selectionBackgroundColor: #d4e7d1;
   margin: 0 0 0.6em;
 }
 
-/* Authors separate blocks with a lone <br>. Normalize it to one consistent
-   spacer so gaps match from slide to slide. */
+/* Authors separate blocks with a lone <br>, meaning "leave a blank line
+   here." Render it as one consistent blank line on every slide. */
 .reveal .slides section p:has(> br:only-child) {
-  height: 0.15em;
+  height: 0.9em;
   margin: 0;
   overflow: hidden;
 }
@@ -845,10 +845,6 @@ $selectionBackgroundColor: #d4e7d1;
 .reveal .section-slide .smart-term {
   color: #ffffff;
   background: transparent;
-}
-
-.reveal .section-slide p:has(> br:only-child) {
-  display: none;
 }
 
 .reveal .smaller { font-size: 0.78em; }

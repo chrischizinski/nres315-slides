@@ -578,10 +578,10 @@ $selectionBackgroundColor: #d4e7d1;
   margin: 0 0 0.6em;
 }
 
-/* Authors separate blocks with a lone <br>. Normalize it to one consistent
-   spacer so gaps match from slide to slide. */
+/* Authors separate blocks with a lone <br>, meaning "leave a blank line
+   here." Render it as one consistent blank line on every slide. */
 .reveal .slides section p:has(> br:only-child) {
-  height: 0.15em;
+  height: 0.9em;
   margin: 0;
   overflow: hidden;
 }
@@ -845,10 +845,6 @@ $selectionBackgroundColor: #d4e7d1;
 .reveal .section-slide .smart-term {
   color: #ffffff;
   background: transparent;
-}
-
-.reveal .section-slide p:has(> br:only-child) {
-  display: none;
 }
 
 .reveal .smaller { font-size: 0.78em; }
@@ -1794,11 +1790,15 @@ display:block!important;
 <p><br></p>
 <div class="columns">
 <div class="column" style="width:48%;">
-<p><strong>Private:</strong> excludable + rivalrous.A harvested fish sold for food.</p>
-<p><strong>Club:</strong> excludable + largely non-rivalrous.Member access before congestion.</p>
+<p><strong>Private:</strong> excludable + rivalrous.<br>
+A harvested fish sold for food.</p>
+<p><strong>Club:</strong> excludable + largely non-rivalrous.<br>
+Member access before congestion.</p>
 </div><div class="column" style="width:48%;">
-<p><strong>Common-pool:</strong> hard to exclude + rivalrous.A fish stock subject to harvest.</p>
-<p><strong>Public:</strong> hard to exclude + non-rivalrous.Climate-regulation benefits.</p>
+<p><strong>Common-pool:</strong> hard to exclude + rivalrous.<br>
+A fish stock subject to harvest.</p>
+<p><strong>Public:</strong> hard to exclude + non-rivalrous.<br>
+Climate-regulation benefits.</p>
 </div></div>
 <aside class="notes">
 <p>Time: 2 minutes. Source: Chapter 10. Grounding: §10.3.2/Table 10.2. Examples apply the definitions; exclusion and congestion depend on institutions and context. Public good is not synonymous with publicly owned. A watershed contains multiple goods; do not classify the entire place as one type. Link rival harvest to overuse and non-excludable benefits to difficulty collecting voluntary payments.</p>
@@ -2152,7 +2152,7 @@ display:block!important;
 <p>Name <strong>what to learn</strong>, <strong>how to learn it</strong>, and <strong>whose information is needed</strong>.</p>
 <p><br></p>
 <p>Then state:</p>
-<p>**If we found <strong><em>, we would revise </em></strong> because ___.**</p>
+<p><strong>If we found ___, we would revise ___ because ___.</strong></p>
 <p><br></p>
 <p>For example, poor enrollment on priority parcels would be a reason to reconsider an offer or the preferred alternative.</p>
 <aside class="notes">
