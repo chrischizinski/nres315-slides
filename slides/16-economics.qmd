@@ -1,0 +1,332 @@
+---
+title: "Economics and Conservation Tradeoffs"
+subtitle: "Week 9 Wednesday — Incentives, value, and who pays"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "October 21, 2026"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## One lesson for a shortened week
+
+Monday was fall break. Today we connect Chapter 10's economic tools:
+
+- What changes a person's incentive to act?
+- Which benefits have no market price?
+- Who gains, who pays, and what evidence would change our choice?
+
+::: notes
+Time: 2 minutes. Source: Chapter 10, §§10.2–10.5; course calendar. This is the
+single 50-minute lesson for Week 9, not the second half of a missing Monday
+lecture. The quiz retained its usual Sunday deadline. Accessibility: text-only
+slides, unique headings, no color-dependent meaning or required images.
+:::
+
+## Economics asks about limited resources
+
+**Economics:** how individuals and societies allocate limited resources to
+meet current and future needs.
+
+<br>
+
+A conservation choice uses land, time, labor, and funding. Its consequences
+can extend beyond the person making it.
+
+::: notes
+Time: 2 minutes. Source: Chapter 10, §§10.2–10.3. Connect to Week 8: unequal
+access and social conditions affect choices; economics makes incentives and
+tradeoffs explicit. Keep economic utility distinct from psychological values.
+:::
+
+## What you should be able to do today
+
+- Diagnose an incentive or externality problem.
+- Distinguish market price from economic value.
+- Identify beneficiaries and cost bearers.
+- Compare alternatives provisionally and propose deciding evidence.
+
+::: notes
+Time: 1 minute. Source: Chapter 10, §§10.3–10.5. These are Friday's four
+sections and the module's four objectives.
+:::
+
+## Property rights are a bundle
+
+Rights can include **access, use, management, exclusion, and transfer**.
+
+<br>
+
+Who may enter, take a resource, change its management, exclude others, or
+transfer a right? These are different questions.
+
+::: notes
+Time: 3 minutes. Source: Chapter 10, §10.3.1 and Table 10.1. Use the chapter's
+fisheries example in Box 10.1: secure harvest shares may change incentives,
+but poorly designed allocations can concentrate rights. Do not imply a
+partnership automatically acquires regulatory authority over private land.
+:::
+
+## Classify the good before choosing the rule
+
+Ask two questions: can people be **excluded**, and does one person's use
+**reduce what remains** for others?
+
+<br>
+
+- Private: excludable and rivalrous.
+- Public: non-excludable and non-rivalrous.
+- Common-pool: difficult to exclude, rivalrous.
+- Club: excludable, largely non-rivalrous until congestion.
+
+::: notes
+Time: 3 minutes. Source: Chapter 10, §10.3.2 and Table 10.2. Have students
+contrast privately owned land with a fish stock. A watershed includes several
+goods and services; do not classify everything as a common-pool resource.
+:::
+
+## When price misses a consequence
+
+An **externality** is a cost or benefit affecting others beyond a transaction.
+
+<br>
+
+Private costs and benefits can differ from social costs and benefits.
+
+<br>
+
+A price that omits those consequences can reward harmful activity or fail to
+reward beneficial activity.
+
+::: notes
+Time: 3 minutes. Source: Chapter 10, §10.3.3. Distinguish market failure from
+policy failure: policies can also create unintended incentives or harm. Use
+the chapter's examples only; no current legal or empirical claims are needed.
+:::
+
+## Box 10.4: why offer cost-share?
+
+A landowner pays to change a practice. Benefits can extend beyond the property.
+
+<br>
+
+**Cost-share** lowers part of the financial barrier to adoption.
+**Payments for ecosystem services** compensate for defined services.
+
+<br>
+
+Neither an offer nor a payment guarantees the intended outcome.
+
+::: notes
+Time: 4 minutes. Source: Chapter 10, §10.3.3 and Box 10.4. Explain technical
+assistance, maintenance, and income foregone as relevant costs. The chapter's
+real-program payment rates do not become rates for Friday's fictional case.
+Distinguish reimbursing practices from paying for a verified service.
+:::
+
+## Pair check: trace the incentive
+
+Using Box 10.4, name:
+
+1. a cost borne by the landowner;
+2. a benefit that extends beyond the property; and
+3. how cost-share could change the choice.
+
+::: notes
+Time: 4 minutes. Source: Chapter 10, Box 10.4. Two minutes in pairs and two
+minutes for two responses and correction. Require a causal explanation of the
+incentive, not merely the phrase "positive externality." This rehearses Friday
+item 1 without supplying a preferred alternative.
+:::
+
+## Price does not capture every value
+
+**Market value** concerns goods and services exchanged in markets.
+
+<br>
+
+**Nonmarket value** includes benefits and costs without a direct market price.
+
+<br>
+
+No price tag does not mean no value. A program payment does not measure its
+full public benefit.
+
+::: notes
+Time: 3 minutes. Source: Chapter 10, §§10.4–10.4.1. Use the chapter's hiking
+example: fuel and parking have prices; scenery, time, and wildlife viewing also
+matter to choices. Avoid describing all economic values as cash revenue.
+:::
+
+## Five ways a resource can matter
+
+- **Direct use:** fishing, viewing wildlife, hiking.
+- **Indirect use:** ecosystem functions supporting other activities.
+- **Option:** keeping the opportunity for future use.
+- **Bequest:** conserving for future generations.
+- **Existence:** knowing a species continues to exist.
+
+::: notes
+Time: 4 minutes. Source: Chapter 10, §10.4.1. Ask students to distinguish
+option, bequest, and existence; the beneficiary and intended use differ.
+Total economic value encompasses these categories. Friday requires one value,
+not a complete valuation or an estimate of every category.
+:::
+
+## Who receives the benefit and who pays?
+
+An aggregate benefit can conceal uneven burdens.
+
+<br>
+
+Identify beneficiaries, cost bearers, and people missing from the accounting.
+
+<br>
+
+Compare installation, maintenance, foregone income, program costs, and benefits
+that extend beyond the parcel.
+
+::: notes
+Time: 3 minutes. Source: Chapter 10, §10.5.4 and Box 10.4. Distribution is a
+separate question from whether total benefits exceed costs. A landowner cost
+paid from a program budget changes the payer; it does not make resource costs
+disappear. This rehearses Friday item 2.
+:::
+
+## Match a valuation method to the question
+
+**Revealed preference:** observe actual behavior, such as visits or property
+choices.
+
+<br>
+
+**Stated preference:** ask about choices or willingness to pay for specified
+outcomes; include values beyond current use.
+
+<br>
+
+**Benefit transfer:** apply an existing study to a comparable setting.
+
+::: notes
+Time: 5 minutes. Source: Chapter 10, §§10.5.1–10.5.3. Give the chapter's travel
+cost and hedonic examples. Explain why observing visitors misses people who
+value existence but never visit. Discuss hypothetical-response limits and
+comparability for transfer. No outside study needs to be found on Friday.
+:::
+
+## Benefit-cost analysis needs a comparison
+
+Compare changes against a **baseline** over a defined period.
+
+<br>
+
+Include market and nonmarket effects, identify who gains and pays, and state
+what cannot be measured.
+
+<br>
+
+Without estimates, we can identify needed evidence. We cannot calculate a
+net benefit or declare an economic winner.
+
+::: notes
+Time: 3 minutes. Source: Chapter 10, §10.5.4. Briefly explain discounting as
+putting effects across years on a shared present-value basis; no calculations
+are assessed this week. The supplied case lacks a budget, ecological estimates,
+and valuation data, intentionally making recommendations provisional.
+:::
+
+## Friday's decision: two restoration alternatives
+
+Read the **Week 09 Case Brief: Comparing a Riparian Restoration Alternative**.
+
+<br>
+
+**A:** landowners choose to enroll; the partnership shares installation costs.
+
+<br>
+
+**B:** every eligible landowner would restore a buffer; authority and
+implementation capacity must first be confirmed.
+
+::: notes
+Time: 2 minutes. Source: Friday Case Brief 09, §§2–5; concepts: Chapter 10,
+Box 10.4 and §§10.3.1–10.3.3. The brief is a labeled composite teaching case.
+Do not assert that the partnership can impose B or that either alternative has
+measured ecological benefits. State the case-versus-concept evidence boundary.
+:::
+
+## Rehearse the comparison
+
+With a partner, use Exhibits A and B to identify:
+
+1. one incentive that differs between A and B;
+2. one public benefit and one cost bearer; and
+3. one information gap that could change your choice.
+
+::: notes
+Time: 4 minutes. Source: Friday Case Brief 09, Exhibits A–B and §5; Chapter 10,
+Box 10.4 and §§10.4–10.5. Give pairs two minutes, then take contrasting answers.
+Do not require a numerical valuation or assume guaranteed participation.
+:::
+
+## An evidence plan has a consequence
+
+Name the information, how to obtain it, and whose information is needed.
+
+<br>
+
+Then state: **If we found \_\_\_, we would revise \_\_\_ because \_\_\_.**
+
+<br>
+
+A cost, enrollment, valuation, or authority assessment can be appropriate.
+Choose the one that tests the deciding uncertainty.
+
+::: notes
+Time: 2 minutes. Source: Chapter 10, §§10.5.1–10.5.4; Friday Case Brief 09,
+§§5–7. A method name alone is insufficient. A directional finding is enough;
+no invented cutoff, completed survey, or outside legal research is required.
+This rehearses Friday item 4.
+:::
+
+## Before Friday and before submitting
+
+Read the brief and find your **preassigned group and role**.
+
+<br>
+
+Submit the role record and **four numbered sections** by **10:50 a.m. Friday**.
+
+<br>
+
+Every present member completes **Friday Group Check 09**, including the submitter.
+The shared response is **80 points**; the private check is **20 points**.
+
+::: notes
+Time: 1 minute. Source: Friday Application 09 and Group Check 09. Friday is
+October 23. Roles are decision lead, evidence lead, and stakeholder/tradeoff
+lead; the pair's combined role covers the latter two. The common rubric applies
+to the whole response. No generative AI. Brief and Chapter 10 may be consulted.
+:::
+
+## A defensible choice names what could change it
+
+Use economic concepts, case evidence, and the limits of both.
+
+<br>
+
+Recommend an alternative, explain its uneven consequences, and identify the
+finding that would make you reconsider.
+
+::: notes
+Time: 1 minute. Source: Chapter 10, §§10.5.4–10.6. More than one alternative
+can be defended; neither may be called a proven net-benefit winner from this
+record. Total speaker-note timing is 50 minutes. Manual release checks: slide
+fit, text contrast, reading order, keyboard navigation, and printable handout.
+:::

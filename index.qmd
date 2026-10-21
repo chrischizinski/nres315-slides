@@ -73,4 +73,10 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
   <small class="deck-updated">Published: October 14, 2026 at 8:53 AM CDT</small>
   <small>[Lecture 14 handout (PDF)](handouts/15-society-and-place.pdf)</small>
 
+## Module 9 — Economics and conservation tradeoffs
+
+- [Lecture 15 — Economics: incentives, value, and who pays](slides/16-economics.qmd)
+  <small class="deck-updated">Source updated: October 21, 2026 at 8:45 AM CDT</small>
+  <small>[Lecture 15 handout (PDF)](handouts/16-economics.pdf)</small>
+
 New lectures appear here only after they are ready for students.
