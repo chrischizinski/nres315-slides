@@ -1,0 +1,244 @@
+---
+title: "Public Participation: Match the Promise to the Process"
+subtitle: "Module 11 self-study — Chapter 13"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "November 4, 2026"
+date-format: "MMMM D, YYYY"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## How to use this self-study lesson
+
+There is **no class meeting today**.
+
+<br>
+
+Plan for **25–30 minutes**. Keep the Willow Bay brief open, write responses to
+the pauses, and complete the reading quiz by **11:59 p.m.**
+
+## “The public” is not one audience
+
+A **public** is a person, group, or organization relevant to, affected by, or
+able to affect an issue.
+
+<br>
+
+The name matters. “Stakeholder,” “beneficiary,” “resident,” “user,” and
+“participant” highlight different relationships and can include or obscure
+different people.
+
+<br>
+
+Define whom you mean instead of treating “the public” as a single viewpoint.
+
+## Map relevance, effects, and absence
+
+For Willow Bay, consider:
+
+- people directly affected by a rule;
+- people with knowledge needed for the decision;
+- people needed for implementation;
+- people with legal, cultural, or governance relationships; and
+- people likely to be missed by convenient contact lists.
+
+<br>
+
+Presence in an existing record is not the test of relevance.
+
+## Participation, involvement, and engagement
+
+**Participation** is the broad family of practices that involve publics in
+planning and decisions.
+
+<br>
+
+**Public involvement** is usually formal and tied to a specific decision or
+required process.
+
+<br>
+
+**Engagement** is continuing, two-way, trust-based relationship work. A single
+hearing or comment period is not ongoing engagement.
+
+## Why participate?
+
+A well-designed process can:
+
+- improve information and judgment;
+- clarify conflict and implementation needs;
+- strengthen legitimacy and fairness;
+- build trust and relationships; and
+- support equity and inclusion.
+
+<br>
+
+It can also consume time, intensify conflict, exclude people, or lower trust if
+the agency over-promises.
+
+## Pre-work starts with self-assessment
+
+Before choosing a technique, managers should examine their assumptions,
+authority, skills, and willingness to share influence.
+
+<br>
+
+If the outcome is already fixed, do not advertise collaboration. If staff
+cannot facilitate fairly, pause, seek help, or change who leads.
+
+## Five strategies differ in influence
+
+1. **Inform:** provide understandable information.
+2. **Consult:** gather input and explain how it was considered.
+3. **Involve:** work directly with publics throughout the process.
+4. **Build consensus:** partner to shape alternatives and seek agreement.
+5. **Co-manage:** share continuing decision and implementation authority.
+
+## More influence is not always better
+
+The spectrum is not a moral ladder.
+
+<br>
+
+The appropriate strategy depends on discretion, concern, time, law, staff
+capacity, public capacity, and what implementation requires.
+
+<br>
+
+The ethical requirement is alignment between the **promise** and the **actual
+influence**.
+
+## Name what is open
+
+For every process, state:
+
+- what has already been decided;
+- what participants can still shape;
+- who will decide;
+- how input will be used; and
+- how the agency will report back.
+
+<br>
+
+Transparency about limits can protect trust better than an inflated promise.
+
+## Diagnose before choosing a technique
+
+A situational analysis examines the issue, history, authority, conflict,
+relationships, capacity, risks, and decision timeline.
+
+<br>
+
+A stakeholder or public analysis identifies who is relevant or affected, why,
+their interests and influence, and how they can participate accessibly.
+
+<br>
+
+Technique comes after diagnosis and strategy.
+
+## Techniques are not strategies
+
+An open house, survey, focus group, workshop, advisory committee, or negotiated
+agreement is a **technique**.
+
+<br>
+
+The same technique can serve different strategies depending on its purpose and
+the influence promised. A survey used to estimate preferences is research; a
+survey used to solicit advice is participation; sometimes it serves both.
+
+## Inform and consult well
+
+Informing requires timely, accessible, understandable information—not a data
+dump after the decision.
+
+<br>
+
+Consulting requires listening, documenting input, and explaining how it
+affected the outcome. A comment period with no response loop is incomplete.
+
+## Involve or build consensus when the work needs it
+
+Use greater ongoing influence when local knowledge, implementation partners,
+shared problem solving, or durable relationships are necessary.
+
+<br>
+
+These strategies require time, representative access, skilled facilitation,
+and real discretion. A ten-week advisory group can help shape alternatives but
+cannot honestly be called a long-term co-management relationship.
+
+## Trust means accepting vulnerability
+
+Trust is willingness to accept vulnerability under uncertainty.
+
+<br>
+
+It grows through competence, fairness, honesty, follow-through, and respectful
+relationships. It can decline when an agency asks for input after drafting the
+answer or hides how comments were used.
+
+<br>
+
+Participation is not a quick repair for prior broken commitments.
+
+## Equity requires more than an open door
+
+Equal invitation does not create equal ability to participate.
+
+<br>
+
+Timing, transportation, technology, language, disability access, childcare,
+compensation, and past treatment affect who can join. Select techniques and
+supports that reduce those barriers.
+
+## Pause: choose a Willow Bay promise
+
+Suppose MDWP selects component D, the four-meeting advisory working group, but
+the Commission keeps final authority.
+
+<br>
+
+Write one honest sentence promising what members **will** influence and one
+sentence stating what they **will not** decide.
+
+## Check the promise
+
+A defensible promise might be:
+
+> Members will help define the problem, develop alternatives, and advise MDWP;
+> MDWP will show how that advice shaped its recommendation.
+
+<br>
+
+The group will **not** make the final rule. Calling this co-management or
+promising that its preferred alternative will be adopted would overstate its
+authority.
+
+## Participation is evidence—but not a referendum
+
+Comments, meeting discussion, and advisory recommendations reveal experiences,
+arguments, knowledge, and implementation concerns.
+
+<br>
+
+Unless a probability design supports it, do not turn attendance or comments
+into “X% of the public supports...” Self-selection changes who participates.
+
+## Prepare the entry ticket
+
+Your Willow Bay plan should align five things:
+
+**purpose** → **public** → **strategy** → **technique** → **promise**
+
+<br>
+
+Submit the individual entry ticket by **Thursday, November 5, 11:59 p.m.**
+Bring it Friday, but do not draft the group response in advance.

@@ -82,7 +82,16 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 ## Module 10 — Ethics and moral reasoning
 
 - [Lecture 16 — Ethics: what should we do, and who counts?](slides/17-ethics.qmd)
-  <small class="deck-updated">Source updated: October 21, 2026 at 9:27 AM CDT</small>
+  <small class="deck-updated">Source updated: October 25, 2026 at 10:55 AM CDT</small>
   <small>[Lecture 16 handout (PDF)](handouts/17-ethics.pdf)</small>
+
+## Module 11 — Research and public participation
+
+- [Lecture 17 — Planning a human dimensions inquiry](slides/18-planning-an-inquiry.qmd)
+  <small class="deck-updated">Source updated: October 25, 2026 at 11:04 AM CDT</small>
+  <small>[Lecture 17 handout (PDF)](handouts/18-planning-an-inquiry.pdf)</small>
+- [Lecture 18 — Public participation: match the promise to the process](slides/19-public-participation.qmd)
+  <small class="deck-updated">Source updated: October 25, 2026 at 11:04 AM CDT</small>
+  <small>[Lecture 18 handout (PDF)](handouts/19-public-participation.pdf)</small>
 
 New lectures appear here only after they are ready for students.

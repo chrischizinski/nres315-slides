@@ -1,0 +1,230 @@
+---
+title: "Planning a Human Dimensions Inquiry"
+subtitle: "Module 11 self-study — Chapter 12"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "November 2, 2026"
+date-format: "MMMM D, YYYY"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## How to use this self-study lesson
+
+There is **no class meeting today**.
+
+<br>
+
+Set aside about **25–30 minutes**. Read each explanation, pause when prompted,
+and write your answer before advancing to the check.
+
+<br>
+
+Keep the Willow Bay case brief open. Nothing from this deck is submitted by
+itself; it prepares you for the entry ticket and Friday.
+
+## Start with the decision—not a favorite method
+
+The Midland Wildlife Commission must decide whether to create a seasonal
+quiet-water zone in Willow Bay.
+
+<br>
+
+“Send a survey” is not yet an inquiry plan. A defensible plan starts with the
+**decision need**, then identifies the question or participation purpose, and
+only then selects a design and method.
+
+## Research and participation do different work
+
+**Research** uses systematic, standardized empirical observation to answer a
+question about actions, beliefs, values, needs, experiences, or patterns.
+
+<br>
+
+**Participation** gives relevant and affected publics a structured role in a
+decision process. It can surface knowledge and improve legitimacy, but its
+participants are not automatically a representative research sample.
+
+## Both may be necessary
+
+Research might estimate how often defined users support several alternatives.
+
+<br>
+
+Participation might let affected publics help define those alternatives and
+explain constraints that the agency missed.
+
+<br>
+
+One cannot silently stand in for the other. State the job each will perform.
+
+## Design, methodology, and method
+
+- A **research design** is the logic and plan: purpose, questions, sampling,
+  timing, analysis, and interpretation.
+- A **methodology** supplies principles and justification for those choices.
+- A **method** is a specific data-collection technique, such as a questionnaire,
+  interview, focus group, observation, or analysis of existing records.
+
+<br>
+
+The same method can serve different designs; naming a method does not justify it.
+
+## Four purposes sharpen a research question
+
+A study may seek to:
+
+1. **explore** a topic that is not yet well understood;
+2. **describe** a phenomenon or population;
+3. identify **relationships** among variables; or
+4. **explain** causes.
+
+<br>
+
+Do not claim causal explanation from a design that can only describe.
+
+## Suitability and feasibility are separate tests
+
+**Suitability:** Would the inquiry actually answer the decision need in a
+credible and ethical way?
+
+<br>
+
+**Feasibility:** Can it be completed with the available time, money, expertise,
+access, and organizational support?
+
+<br>
+
+A useful idea can be infeasible; a cheap plan can be unsuitable.
+
+## Need to know beats nice to know
+
+Chapter 12 separates information into:
+
+- **essential:** directly serves the decision purpose;
+- **useful:** improves the decision but is not indispensable; and
+- **interesting:** worth knowing, but not needed now.
+
+<br>
+
+Willow Bay's ten weeks and $48,000 make that ranking consequential.
+
+## Existing information is evidence—with limits
+
+Counters, complaints, petitions, enforcement files, and nest counts may prevent
+duplicating work and reveal what remains unknown.
+
+<br>
+
+But each record was created for a purpose. Twenty-two complaints do not mean 22
+verified violations, and petition signatures do not estimate support among all
+bay users.
+
+## Ask who cares—and who can act
+
+An inquiry needs support from affected publics and from people inside the agency
+who will use its results.
+
+<br>
+
+Early leadership involvement can reduce the chance that findings are ignored.
+Early public involvement can reveal missing needs, knowledge, and risks.
+
+<br>
+
+Neither guarantees agreement.
+
+## Inquiry creates expectations
+
+Asking people to invest time can imply that action or influence will follow.
+
+<br>
+
+Before inviting participation or collecting data, MDWP should say what remains
+open, who decides, how results will be used, and what cannot change.
+
+<br>
+
+Do not study an option the agency cannot implement without explaining that limit.
+
+## Rigor must fit the claim
+
+Rigor means confidence in the truthfulness of findings.
+
+<br>
+
+Quantitative work emphasizes reliability and validity. Qualitative work
+emphasizes credibility, dependability, transferability, and confirmability.
+
+<br>
+
+More rigor takes resources. The standard must be high enough for the intended
+claim—not an excuse to make a larger claim from weak evidence.
+
+## Time changes what is defensible
+
+A high-quality survey commonly requires months. Meaningful advisory or
+collaborative work may take longer.
+
+<br>
+
+Willow Bay has ten weeks. The responsible response is to narrow the claim or
+the task, not to call a rushed process representative or collaborative.
+
+## Ethics begins before data collection
+
+The foundation is **do no harm**: minimize risk, seek benefit, respect
+self-determination, obtain informed consent, and secure culturally appropriate
+authorization where needed.
+
+<br>
+
+Avoid paternalism, colonialism, and “parachute” inquiry that extracts knowledge
+without relationship or return.
+
+## Pause: diagnose the Willow Bay plan
+
+For component B, the probability survey, write one sentence for each:
+
+1. What useful claim could it support?
+2. Who is absent from its two sampling lists?
+3. Is that absence a suitability problem, feasibility problem, or both?
+
+## Check your diagnosis
+
+The survey could estimate views among the **defined listed populations**.
+
+<br>
+
+It omits unregistered paddlers, many visitors, shore anglers, and people with
+cultural ties who are not registered owners or shoreline households.
+
+<br>
+
+That is a suitability problem if MDWP wants to describe *all bay users*; fixing
+it may also create feasibility problems within ten weeks and $48,000.
+
+## A compact planning chain
+
+**Decision** → **essential need** → **research question and/or participation
+purpose** → **public or target population** → **design and method** →
+**feasibility and ethics** → **claim and decision use**
+
+<br>
+
+If one link is vague, the next link cannot repair it.
+
+## Before Wednesday
+
+Read Chapter 13 and the Willow Bay statements.
+
+<br>
+
+Bring forward one question: **Who needs evidence about them, and who needs a
+meaningful role in the decision?** Those are not necessarily the same list.
