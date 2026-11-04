@@ -1,0 +1,385 @@
+---
+title: "Qualitative and Mixed-Methods Research"
+subtitle: "Module 12 — Meaning, rigor, and integration"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "November 11, 2026"
+date-format: "MMMM D, YYYY"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## Counts show a pattern—not its meaning
+
+Suppose above-no-wake passages cluster on crowded weekend afternoons.
+
+<br>
+
+Is that confusion about markers, deliberate resistance, safety during crossing,
+habit, or something else?
+
+<br>
+
+Qualitative inquiry asks **how people experience and interpret the situation**.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.2; Week 12 brief.
+:::
+
+## What you should be able to do
+
+- Match a qualitative question to an appropriate method and cases.
+- Apply four standards of qualitative rigor.
+- Explain why positionality and reflexivity belong in design.
+- Name how quantitative and qualitative strands integrate.
+
+::: notes
+Time: 1 minute. Source: Chapter 15 guiding questions and Box 15.1.
+:::
+
+## Qualitative data preserve expression and context
+
+Qualitative research collects and interprets language, actions, interactions,
+and social artifacts.
+
+<br>
+
+It develops rich, contextual understanding of lived experience, meaning, and
+social process—not a numerical estimate for a population.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §§15.2–15.2.1.
+:::
+
+## Use it when depth is the need
+
+Qualitative approaches are well suited when:
+
+- little is known;
+- perspectives are complex or varied;
+- context and nuance matter;
+- cases are small, distinctive, or hard to reduce to numbers; or
+- the question asks how or why people make meaning.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.2.1.
+:::
+
+## Depth is not statistical generalization
+
+A purposive interview sample can reveal an unanticipated access problem and
+explain how it operates.
+
+<br>
+
+It cannot establish what percentage of all bay users share that experience.
+
+<br>
+
+The design earns credibility through relevant variation and transparent logic,
+not by pretending cases were randomly selected.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §§15.2.1 and 15.3.2.
+:::
+
+## Four standards define trustworthiness
+
+```{r}
+#| label: qualitative-trustworthiness-table
+#| echo: false
+#| output: asis
+
+source("../table-style.R")
+
+data.frame(
+  Standard = c("Dependability", "Credibility", "Confirmability", "Transferability"),
+  `Core question` = c(
+    "Is the process coherent and documented?",
+    "Does the interpretation accurately represent the phenomenon?",
+    "Can claims be traced to data rather than researcher preference?",
+    "Is context rich enough for others to judge applicability?"
+  ),
+  check.names = FALSE
+) |>
+  nres315_slide_table(font_size = 21, header_font_size = 22, row_padding = 7)
+```
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.2.2 and Table 15.1.
+:::
+
+## Dependability makes the process visible
+
+Document recruitment, interview guides, changes, field decisions, coding, and
+analysis so others can understand and critique what was done.
+
+<br>
+
+Consistency does not require freezing an iterative design; it requires a clear
+record of what changed and why.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.2.2.
+:::
+
+## Credibility tests the interpretation
+
+Strategies include prolonged engagement, persistent observation,
+triangulation, peer debriefing, and member checking.
+
+<br>
+
+Member checking asks contributors whether an interpretation fairly represents
+their views; it does not turn every participant into a veto holder.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.2.2 and key terms.
+:::
+
+## Confirmability traces claims to evidence
+
+Maintain transcripts or field notes, a codebook, analytic memos, decision logs,
+and examples connecting themes to data.
+
+<br>
+
+The goal is not a claim of value-free neutrality. It is transparent reasoning
+that allows others to see how the interpretation was produced.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.2.2.
+:::
+
+## Transferability gives the user context
+
+Describe the people, place, time, relationships, and conditions richly enough
+that another person can judge whether insights apply elsewhere.
+
+<br>
+
+The research user makes that judgment. Transferability is not statistical
+generalizability from a representative sample.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.2.2.
+:::
+
+## Positionality locates the researcher
+
+Positionality includes identities, experiences, roles, commitments, and
+relationships that shape what a researcher notices, asks, and accepts as true.
+
+<br>
+
+MDWP's lead owns a shoreline home and supports restrictions. That fact neither
+automatically invalidates nor disappears from the study.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.2.3; Week 12 brief.
+:::
+
+## Reflexivity is an ongoing practice
+
+Researchers critically examine how their position, assumptions, power, and
+relationships shape recruitment, interaction, analysis, and reporting.
+
+<br>
+
+Tools include reflexive journaling, peer debriefing, positionality statements,
+and explicit records of analytic decisions.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.2.3.
+:::
+
+## Qualitative design still begins with a question
+
+A strong design connects:
+
+**purpose** → **question** → **methodology** → **cases** → **method** →
+**analysis** → **quality standard** → **claim**
+
+<br>
+
+“Do interviews” is no more complete than “send a survey.”
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.3; Chapter 12 §12.3.2.
+:::
+
+## Select information-rich cases
+
+Non-probability sampling is strategic, not careless.
+
+<br>
+
+Select people or artifacts with relevant knowledge, experiences, positions, or
+variation. Document inclusion logic and recruitment pathways.
+
+<br>
+
+One organization-appointed speaker cannot stand for every member of a public.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.3.2; Week 12 brief.
+:::
+
+## Interviews explore individual experience
+
+Semi-structured interviews use a guide but allow follow-up and unexpected
+meaning to emerge.
+
+<br>
+
+Use an interview funnel: begin broadly, move toward specific experiences, and
+listen actively. Memo immediately afterward and explain follow-up.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.4.1.
+:::
+
+## Focus groups reveal interaction
+
+Facilitated discussion can show agreement, disagreement, memory, norms, and
+power dynamics as participants respond to one another.
+
+<br>
+
+They are poorly suited when confidentiality or hierarchy prevents candid talk.
+Separating groups can reduce—but not erase—those risks.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.4.2.
+:::
+
+## Observation records practice in context
+
+Qualitative observation asks what happens, how, where, with whom, and what it
+appears to mean in a natural setting.
+
+<br>
+
+Record concrete actions and context before interpretation. “Hostile” is a
+conclusion; raised voices, interruptions, and gestures are evidence.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.4.3.
+:::
+
+## Archives preserve—and omit—social traces
+
+Meeting minutes, complaint narratives, signs, news, photographs, and public
+comments can reveal language and institutional history.
+
+<br>
+
+They were produced for other purposes, may omit marginalized experiences, and
+usually cannot answer follow-up questions.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.4.4.
+:::
+
+## Analysis is iterative interpretation
+
+Researchers organize data, code segments, compare cases, develop categories,
+test themes against contrary evidence, memo decisions, and refine claims.
+
+<br>
+
+Software can store and retrieve text. It does not take responsibility for the
+interpretation.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §15.5.
+:::
+
+## Mixed methods assigns distinct jobs
+
+Mixed methods integrates quantitative and qualitative approaches in one study
+or program.
+
+<br>
+
+The justification is not “more data is better.” Each strand should answer a
+different part of the problem, and the design must say where they meet.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 Box 15.1.
+:::
+
+## Four integration logics
+
+- **Convergent:** collect separately; compare or combine.
+- **Explanatory sequential:** QUAN first; QUAL explains patterns.
+- **Exploratory sequential:** QUAL first; QUAN tests or extends what emerged.
+- **Embedded:** a smaller strand sits within a dominant design.
+
+::: notes
+Time: 3 minutes. Source: Chapter 15 Box 15.1. Uppercase is emphasis, not a claim about importance.
+:::
+
+## Choose a Willow Bay sequence
+
+Observation shows when above-no-wake passages cluster. Interviews then ask
+people using those periods how they interpret markers, congestion, access, and
+fairness.
+
+<br>
+
+**Which mixed-methods logic is this, and where does integration occur?**
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 Box 15.1. Give pairs 60 seconds.
+:::
+
+## Check the sequence
+
+It is **explanatory sequential** if the quantitative observation results guide
+the later interviews and the qualitative findings explain those patterns.
+
+<br>
+
+Integration occurs when observation results shape sampling or questions and
+again when both strands are interpreted together.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 Box 15.1.
+:::
+
+## Triangulation is not a vote
+
+Different sources may converge, complement one another, or contradict.
+
+<br>
+
+A contradiction can reveal different definitions, contexts, or weaknesses. Do
+not count methods and let “two out of three” win without examining why evidence
+differs.
+
+::: notes
+Time: 2 minutes. Source: Chapter 15 §§15.2.2 and 15.4.4.
+:::
+
+## Prepare for Friday
+
+Your design must align:
+
+**question** → **design** → **method and cases** → **quality protection** →
+**integration** → **bounded claim**
+
+<br>
+
+Read the case definitions carefully. Support, compliance, participation,
+registered owner, and bay user name different things.
+
+::: notes
+Time: 1 minute. Total core time: 49 minutes. Source: Chapters 14–15; Week 12 application.
+:::

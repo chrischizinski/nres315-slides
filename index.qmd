@@ -82,7 +82,7 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 ## Module 10 — Ethics and moral reasoning
 
 - [Lecture 16 — Ethics: what should we do, and who counts?](slides/17-ethics.qmd)
-  <small class="deck-updated">Source updated: October 25, 2026 at 10:55 AM CDT</small>
+  <small class="deck-updated">Published: November 4, 2026 at 2:16 PM CST</small>
   <small>[Lecture 16 handout (PDF)](handouts/17-ethics.pdf)</small>
 
 ## Module 11 — Research and public participation
@@ -93,5 +93,14 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 - [Lecture 18 — Public participation: match the promise to the process](slides/19-public-participation.qmd)
   <small class="deck-updated">Source updated: October 25, 2026 at 11:04 AM CDT</small>
   <small>[Lecture 18 handout (PDF)](handouts/19-public-participation.pdf)</small>
+
+## Module 12 — Quantitative and qualitative research
+
+- [Lecture 19 — Quantitative research designs and methods](slides/20-quantitative-research.qmd)
+  <small class="deck-updated">Source updated: October 25, 2026 at 1:09 PM CDT</small>
+  <small>[Lecture 19 handout (PDF)](handouts/20-quantitative-research.pdf)</small>
+- [Lecture 20 — Qualitative and mixed-methods research](slides/21-qualitative-research.qmd)
+  <small class="deck-updated">Source updated: October 25, 2026 at 1:09 PM CDT</small>
+  <small>[Lecture 20 handout (PDF)](handouts/21-qualitative-research.pdf)</small>
 
 New lectures appear here only after they are ready for students.

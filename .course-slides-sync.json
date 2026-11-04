@@ -57,6 +57,8 @@
     "handouts/17-ethics.pdf",
     "handouts/18-planning-an-inquiry.pdf",
     "handouts/19-public-participation.pdf",
+    "handouts/20-quantitative-research.pdf",
+    "handouts/21-qualitative-research.pdf",
     "index.qmd",
     "slides/01-course-launch.qmd",
     "slides/02-people-habitats-species.qmd",
@@ -76,6 +78,8 @@
     "slides/17-ethics.qmd",
     "slides/18-planning-an-inquiry.qmd",
     "slides/19-public-participation.qmd",
+    "slides/20-quantitative-research.qmd",
+    "slides/21-qualitative-research.qmd",
     "source-footer.lua",
     "styles/slides.scss",
     "table-style.R"
