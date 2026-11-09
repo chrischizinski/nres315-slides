@@ -1,0 +1,397 @@
+---
+title: "Wildlife Crime, Compliance, and Enforcement"
+subtitle: "Module 16 — Why rules are followed, ignored, or contested"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "December 7, 2026"
+date-format: "MMMM D, YYYY"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## A rule violation, several questions
+
+A hunter takes a doe when the license permits only a buck.
+
+<br>
+
+They say they became excited and did not want to go home empty-handed.
+
+<br>
+
+**What should a manager learn before choosing an enforcement response?**
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §§19.1–19.2. This is the chapter’s opening scenario. Ask students to distinguish the known violation from what remains unknown about motivation and context.
+:::
+
+## What you should be able to do
+
+- Distinguish wildlife crime from explanations for why a violation occurs.
+- Use criminology theories as lenses, not stereotypes about offenders.
+- Compare compliance, detection, reporting, and enforcement strategies.
+- Explain how legitimacy and officer discretion affect management.
+
+::: notes
+Time: 1 minute. Source: Chapter 19 guiding questions. Preview Chapter 20’s integrative principle: human dimensions becomes useful when managers connect knowledge to practice.
+:::
+
+## Compliance protects more than a rule
+
+Rules can protect habitats, sustain species, and support human well-being.
+
+<br>
+
+They accomplish little if they are neither followed nor enforced.
+
+<br>
+
+Compliance is not driven by fear of punishment alone.
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §19.2 and §19.6.1. Link back to public trust and governance: compliance depends partly on whether rules and rule-making institutions are seen as fair and legitimate.
+:::
+
+## Separate the act from its explanation
+
+**Wildlife crime:** violation of a law, rule, or regulation.
+
+<br>
+
+**Poaching:** unlawful taking or attempted taking of fish or wildlife.
+
+<br>
+
+The label describes an act; it does not by itself explain motivation.
+
+::: notes
+Time: 1 minute. Source: Chapter 19 §19.3. Avoid assuming that every violation involves the same intent, harm, or social context. Applicable legal definitions depend on the relevant law and jurisdiction.
+:::
+
+## Consequences can extend beyond one event
+
+Wildlife crime can affect species, ecosystems, management programs, and public trust.
+
+<br>
+
+Perceived unfairness in rule creation can also weaken legitimacy and compliance.
+
+<br>
+
+Understand both the ecological stakes and the human conditions.
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §§19.3, 19.6.1. Keep the distinction between documented impact and possible broader consequence clear.
+:::
+
+## Criminology helps ask “why” more carefully
+
+Criminology studies the causes of crime.
+
+<br>
+
+Wildlife criminology examines violations, motivations, opportunities, enforcement, and prevention.
+
+<br>
+
+It moves analysis beyond “bad people break rules.”
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §§19.4–19.5. Emphasize that theory helps formulate questions; it does not diagnose a particular person without evidence.
+:::
+
+## Violations can have different motivations
+
+People may violate rules for varied reasons and in varied circumstances.
+
+<br>
+
+Motivations can include social learning, rationalization, opportunity, need, or contest over authority.
+
+<br>
+
+Do not infer a motive from the violation alone.
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §§19.4.2–19.4.3. The chapter notes that violators come from diverse backgrounds. Avoid profiling groups as inherently likely to break rules.
+:::
+
+## Differential association: behavior is learned socially
+
+People can learn techniques and justifications for rule-breaking through interaction.
+
+<br>
+
+The relevant question is which relationships and norms support the behavior.
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §19.5.1. This theory directs attention to social learning, not to a fixed criminal identity. Ask what evidence could show a norm without stereotyping a community.
+:::
+
+## Neutralization: people justify a violation
+
+People may acknowledge a rule but tell themselves why breaking it is acceptable.
+
+<br>
+
+Understanding a justification can help identify communication or legitimacy concerns.
+
+<br>
+
+It does not excuse or erase the violation.
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §19.5.2. Give a neutral example from the chapter’s theory, but do not suggest that all people who violate rules use the same rationale.
+:::
+
+## Routine activities: opportunity matters
+
+A violation becomes more possible when a motivated person, a suitable target, and limited guardianship converge.
+
+<br>
+
+Managers may reduce opportunity even when they cannot change motivation.
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §19.5.3. Use the chapter’s three elements. Emphasize prevention: visibility, reporting, or patrol patterns can alter opportunity.
+:::
+
+## Conflict theory: rules can be contested
+
+People may view a rule as unfair, exclusionary, or disconnected from local histories and livelihoods.
+
+<br>
+
+That perception can weaken legitimacy and voluntary compliance.
+
+<br>
+
+This explains a condition; it does not justify every violation.
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §19.5.4. Connect to earlier governance and justice content. Preserve the distinction between explaining contested legitimacy and excusing harm.
+:::
+
+## Four lenses, four questions
+
+```{r}
+#| label: criminology-theory-questions
+#| echo: false
+#| output: asis
+
+source("../table-style.R")
+
+data.frame(
+  `Theory` = c("Differential association", "Neutralization", "Routine activities", "Conflict theory"),
+  `Question it raises` = c(
+    "What social learning supports the behavior?",
+    "How is the violation rationalized?",
+    "What opportunity or missing guardianship matters?",
+    "How is the rule’s legitimacy experienced?"
+  ),
+  check.names = FALSE
+) |>
+  nres315_slide_table(font_size = 16, header_font_size = 17, row_padding = 6)
+```
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §19.5. Ask students to choose a lens that would help investigate the opening scenario, then name what evidence it would require.
+:::
+
+## Most people comply voluntarily
+
+People often follow wildlife rules because they regard them as legitimate or ethically right.
+
+<br>
+
+Self-regulation and shared norms matter, especially in remote settings.
+
+<br>
+
+Visible enforcement can deter violations, but it is only part of compliance.
+
+::: notes
+Time: 3 minutes. Source: Chapter 19 §19.6.1. Connect to Chapter 16 voluntary compliance and social norms. Explain that education and enforcement may complement one another.
+:::
+
+## Choose an enforcement response proportionately
+
+Soft enforcement can include education, outreach, or a warning-based interaction.
+
+<br>
+
+Traditional enforcement can include citations, investigation, or prosecution.
+
+<br>
+
+The facts, law, safety, and circumstances matter.
+
+::: notes
+Time: 3 minutes. Source: Chapter 19 §§19.6.2, 19.6.4. Do not tell students which response is legally required in a jurisdiction. The course question is how to reason about fair, proportionate practice.
+:::
+
+## Detection uses more than patrols
+
+Officers use visible patrols, field contacts, and compliance checks.
+
+<br>
+
+Agencies may also investigate complex or concealed violations.
+
+<br>
+
+Detection strategies should fit the problem and available authority.
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §19.6.2. Emphasize that enforcement tools differ in scope and resource need; do not imply that every tool is suitable for every case.
+:::
+
+## Public reporting needs accessible pathways
+
+Witnesses may not recognize a violation or know where to report it.
+
+<br>
+
+Fear of retaliation, uncertainty, or low perceived significance can also be barriers.
+
+<br>
+
+Clear reporting channels and feedback can support participation.
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §19.6.3 and Box 19.3. Ask what a reporting program should explain to a witness and what privacy or retaliation concerns may arise.
+:::
+
+## Officer discretion carries responsibility
+
+Officers may weigh legal standing, safety, public expectations, agency norms, and case details.
+
+<br>
+
+Discretion can support context-sensitive responses.
+
+<br>
+
+Consistency, fairness, and accountability remain important.
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §19.6.4 and Box 19.4. Frame discretion as a professional challenge, not arbitrary choice. Ask which factors should be documented or explained.
+:::
+
+## Enforcement operates within due process
+
+Wildlife investigations and penalties enter a broader criminal process.
+
+<br>
+
+Rules differ across jurisdictions; managers should not assume one penalty applies everywhere.
+
+<br>
+
+Fair process supports legitimate enforcement.
+
+::: notes
+Time: 2 minutes. Source: Chapter 19 §19.6.5. Avoid giving legal advice or importing outside law. Keep attention on the chapter’s human-dimensions point: how enforcement is carried out affects public trust.
+:::
+
+## Willow Bend: eleven entries, four accounts
+
+During a three-week temporary closure, staff logged 11 vehicle entries past a barrier.
+
+<br>
+
+Two drivers did not see the sign; one misunderstood the hours; one cited the only practical fishing route.
+
+<br>
+
+The record does not establish that all entries were intentional.
+
+::: notes
+Time: 2 minutes. Source: Week 16 case draft in course design. These are fictional case facts. Ask students to separate the 11 logged entries from the four driver explanations.
+:::
+
+## Diagnose before increasing enforcement
+
+Could sign visibility explain some entries?
+
+<br>
+
+Could unclear hours or an access barrier explain another?
+
+<br>
+
+What would targeted patrols reveal—and what would they not resolve?
+
+::: notes
+Time: 3 minutes. Source: Chapter 19 §§19.5–19.6; Week 16 case draft. Students should not assume all reports share one mechanism. Tie each proposed action to a specific diagnosis.
+:::
+
+## Build a six-week response
+
+Staff have **100 hours** for signs, an accessible listening session, and patrol shifts.
+
+<br>
+
+Choose a feasible combination; include an access review and a measure.
+
+<br>
+
+Do not treat enforcement as a substitute for checking whether the route works.
+
+::: notes
+Time: 2 minutes. Source: Week 16 case draft in course design. The complete case packet supplies hours for each component. Ask groups to identify one immediate response and a review condition.
+:::
+
+## “All for one, one for all” connects the course
+
+Fish and wildlife decisions connect people, habitats, and species.
+
+<br>
+
+Evidence-based management and participatory governance help us work with those connections.
+
+<br>
+
+Research, participation, ethics, and implementation belong in the same decision system.
+
+::: notes
+Time: 3 minutes. Source: Chapter 20 §20.1. This is the final lecture’s integration point. Ask students which earlier week helps answer the Willow Bend case’s access, trust, evidence, or values question.
+:::
+
+## Professional practice means translating knowledge
+
+Human-dimensions research can frame questions differently from day-to-day management.
+
+<br>
+
+Professional practice connects scholarship to the decision, institution, and people involved.
+
+<br>
+
+When the fit is unclear, name the gap and seek appropriate expertise.
+
+::: notes
+Time: 2 minutes. Source: Chapter 20 §20.3. The chapter notes that research questions and managers’ implementation questions may differ. Avoid inventing a formal competency rubric; emphasize translation and collaboration.
+:::
+
+## Wednesday: make a whole-course recommendation
+
+Use the closure case to recommend a six-week response.
+
+<br>
+
+Connect a compliance explanation to governance, justice, behavior, ethics, research, or participation.
+
+<br>
+
+Bound the claim and state what would change your recommendation.
+
+::: notes
+Time: 2 minutes. Source: Chapter 20 synthesis; Week 16 application design. Remind students that Wednesday’s work is the final graded group application, not a cumulative exam. The response is developed and written in class with the assigned group.
+:::

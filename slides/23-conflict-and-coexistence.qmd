@@ -1,0 +1,353 @@
+---
+title: "Human–Wildlife Interactions: Conflict and Coexistence"
+subtitle: "Module 14 — How do people and wildlife share a landscape?"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "November 23, 2026"
+date-format: "MMMM D, YYYY"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## One encounter, different stories
+
+A hiker meets a black bear on a trail.
+
+<br>
+
+One person recalls danger; another remembers a rare, welcome sighting.
+
+<br>
+
+**What makes an interaction become a conflict—or a moment of coexistence?**
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.2. Open with the chapter’s bear encounter. Do not ask students to disclose personal experiences; invite them to reason from the example.
+:::
+
+## What you should be able to do
+
+- Distinguish human–wildlife interaction, conflict, coexistence, and tolerance.
+- Describe the visible dispute and deeper layers that may sustain conflict.
+- Explain why context and language matter when managers frame an interaction.
+- Identify the questions needed before selecting a response.
+
+::: notes
+Time: 1 minute. Source: Chapter 18 guiding questions. Explain that today establishes the definitions and conflict-depth lens; next week adds individual, group, and system levels.
+:::
+
+## Interaction means both sides affect the encounter
+
+People and wildlife influence each other’s behavior in a shared setting.
+
+<br>
+
+People interpret what happened and feel something about it.
+
+<br>
+
+Those interpretations can shape later behavior, policy, and wildlife outcomes.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.2. “Interaction” is the broad description; it does not say whether the relationship is positive, negative, or conflictual.
+:::
+
+## Context changes how an encounter is understood
+
+Species, place, timing, past experience, perceived risk, and social expectations matter.
+
+<br>
+
+The same species can be valued, tolerated, feared, or viewed as a cost.
+
+<br>
+
+Do not infer one person’s view from a group label or a single report.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §18.2. Use the chapter’s bear and deer contrasts. Ask what additional context would help distinguish a one-time surprise from an ongoing concern.
+:::
+
+## Conflict is a real or perceived negative interaction
+
+Human–wildlife conflict occurs when human and wildlife interests or activities clash.
+
+<br>
+
+It can involve material impacts, safety concerns, emotions, values, or perceived threats.
+
+<br>
+
+Conflict is not limited to monetary damage.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.3.1. Preserve the chapter’s inclusion of real and perceived negative interactions while avoiding the implication that a perception is a verified biological impact.
+:::
+
+## A visible impact may be only the surface
+
+Crop loss, property damage, or a frightening encounter can be a dispute-level problem.
+
+<br>
+
+That visible event may be solvable with a practical measure.
+
+<br>
+
+Or it may sit above recurring problems, mistrust, or deeper disagreement.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.3.1 and Figure 18.1. Introduce the iceberg as a way to ask what lies below the visible event, not as a diagnostic answer by itself.
+:::
+
+## Three depths in the conflict iceberg
+
+```{r}
+#| label: conflict-depth-framework
+#| echo: false
+#| output: asis
+
+source("../table-style.R")
+
+data.frame(
+  `Level` = c("Dispute", "Underlying conflict", "Deep-rooted conflict"),
+  `What is visible` = c(
+    "Specific wildlife impact or safety event",
+    "Recurring unresolved issues and strained relationships",
+    "Threatened identities, values, histories, or trust"
+  ),
+  `Question before responding` = c(
+    "Can a practical measure address this event?",
+    "Who feels repeatedly burdened or unheard?",
+    "What values or relationships are at stake?"
+  ),
+  check.names = FALSE
+) |>
+  nres315_slide_table(font_size = 16, header_font_size = 17, row_padding = 6)
+```
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.3.1 and Figure 18.1. Make clear that the levels describe depth, not three unrelated species or publics. Use the last column to show why response choice depends on diagnosis.
+:::
+
+## Underlying conflict changes the problem
+
+Recurring impacts can build resentment when responses feel ineffective or unfair.
+
+<br>
+
+The issue can shift from a wildlife event to a human–human conflict over management.
+
+<br>
+
+Trust and relationships then become part of the work.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §18.3.1 and Box 18.1. The point is not that affected people are always correct about process; it is that their process experience can affect whether a technical response is accepted.
+:::
+
+## Deep-rooted conflict involves identity and values
+
+Unresolved disputes may become connected to histories, identities, or moral commitments.
+
+<br>
+
+Addressing the visible impact alone may leave the deeper disagreement untouched.
+
+<br>
+
+Managers may need a trusted process, not only a new technical measure.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §18.3.1 and Box 18.1. Explain that a mediator or facilitator may help when relationships and trust are strained; do not prescribe one universally.
+:::
+
+## Coexistence is workable, persistent sharing
+
+Human–wildlife coexistence refers to relationships in which wildlife can persist while people continue to live, work, and pursue valued activities.
+
+<br>
+
+It is a dynamic condition in a shared landscape.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.3.2. Use “workable” rather than “perfect.” The chapter does not define coexistence as zero risk or universal agreement.
+:::
+
+## Coexistence does not mean no conflict
+
+People may experience costs and still accept wildlife presence.
+
+<br>
+
+Conflict may continue while people and wildlife share space.
+
+<br>
+
+The question is whether relationships and management remain workable and fair.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §§18.3.1–18.3.2. Contrast absence of conflict with the presence of conditions that allow people and wildlife to persist together. Invite students to name one indicator beyond “complaints fell.”
+:::
+
+## Tolerance is one part of the relationship
+
+Tolerance describes willingness to accept wildlife presence despite perceived or actual risks and costs.
+
+<br>
+
+Acceptance includes attitudes and behavior; it is not simply a poll response.
+
+<br>
+
+Tolerance can differ among people and can change with context.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.3.2 and Chapter 18 key terms. Avoid treating tolerance as a fixed personality trait or a manager’s only desired outcome.
+:::
+
+## Conflict and coexistence can occur together
+
+A community can value a species and object to a specific impact.
+
+<br>
+
+Some residents may accept the animal while others bear concentrated costs.
+
+<br>
+
+One community-level label can hide different experiences.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §§18.3.1–18.3.2. Connect to Chapters 16–17: values and uses can overlap, and effects are not evenly distributed.
+:::
+
+## Words guide the response
+
+Calling a situation “conflict” can focus attention on harm and disagreement.
+
+<br>
+
+Calling it “coexistence” can direct attention to shared conditions and workable relationships.
+
+<br>
+
+Neither label should erase the experiences that need attention.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.3 and Box 18.2. The chapter discusses critiques of conflict language. Ask who might feel recognized or dismissed by each frame.
+:::
+
+## Use the wolf example to test the iceberg
+
+Livestock loss can be the visible dispute.
+
+<br>
+
+Slow or incomplete support may become an underlying conflict.
+
+<br>
+
+History and identity can make a new incident carry deeper meaning.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 Box 18.1. Describe the sequence as the chapter’s example; make clear that these levels are possible patterns, not claims about every ranching community.
+:::
+
+## Do not jump from report to remedy
+
+A complaint signals a concern; it does not by itself identify the cause or depth.
+
+<br>
+
+Ask what happened, who was affected, what has happened before, and how prior responses worked.
+
+<br>
+
+Keep verified events, perceptions, and unknowns distinct.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §§18.3–18.3.1. Link to research quality from Chapters 12–15: a record can be informative without representing all experiences.
+:::
+
+## Response should match what is happening
+
+An isolated, solvable dispute may call for a practical prevention or response measure.
+
+<br>
+
+Recurring or deep-rooted conflict may also require dialogue, accountability, or trust repair.
+
+<br>
+
+The same intervention will not fit every level.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.3.1 and Box 18.1. Do not reduce the iceberg to a formula; use it to guide further assessment.
+:::
+
+## A quick diagnosis before choosing
+
+Ask:
+
+1. What is the visible interaction or impact?
+2. Is it recurring, unevenly borne, or unresolved?
+3. Are identity, history, or trust now part of the disagreement?
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.3.1. Have students use the three questions on the deer example from the text. The list is a diagnostic prompt, not a scoring tool.
+:::
+
+## Pair discussion: same deer, different relationship
+
+One neighbor welcomes deer in the yard.
+
+<br>
+
+Another reports garden damage; a third worries about road crossings.
+
+<br>
+
+What would you need to know before calling this coexistence, a dispute, or a deeper conflict?
+
+::: notes
+Time: 6 minutes. Source: Chapter 18 §18.2; invented classroom prompt. Give pairs two minutes to list evidence, then invite two contrasting answers. Keep facts and interpretation separate; no group is assumed to be uniform.
+:::
+
+## Today’s distinction
+
+**Interaction** is the broad relationship.
+
+<br>
+
+**Conflict** names a real or perceived negative clash.
+
+<br>
+
+**Coexistence** is workable sharing; **tolerance** is willingness to accept presence despite costs or risk.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §§18.2–18.3. Ask students to restate one distinction in their own words.
+:::
+
+## Next: diagnose at more than one level
+
+Conflict depth is one lens.
+
+<br>
+
+Next week adds individual, group, and system levels of interaction.
+
+<br>
+
+Both help us choose a response that fits the conditions.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §§18.3–18.4. Explain that “dispute/underlying/deep-rooted” and “individual/group/system” are different frameworks; Wednesday’s lesson will compare rather than collapse them.
+:::

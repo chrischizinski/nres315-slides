@@ -1,0 +1,321 @@
+---
+title: "Diagnosing Human–Wildlife Interactions"
+subtitle: "Module 15 — Individual, group, and system levels"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "November 30, 2026"
+date-format: "MMMM D, YYYY"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## Same wildlife, different experiences
+
+A deer eats plants from one yard and draws birders to another.
+
+<br>
+
+A driver sees a road hazard; another resident sees a familiar neighbor.
+
+<br>
+
+**What shapes each person’s relationship with the animal?**
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §§18.2, 18.4. Open with the chapter’s deer example. Today’s goal is to diagnose influences, not to decide which person has the correct feeling.
+:::
+
+## What you should be able to do
+
+- Distinguish individual, group, and system levels of human–wildlife interaction.
+- Identify factors that shape each level.
+- Keep the interaction-level framework distinct from the conflict-depth iceberg.
+- Choose evidence that helps diagnose the level relevant to a decision.
+
+::: notes
+Time: 1 minute. Source: Chapter 18 §18.4. Preview the two frameworks: interaction levels organize where influences operate; conflict depth describes how a disagreement may become entrenched.
+:::
+
+## Three levels help organize a complex relationship
+
+```{r}
+#| label: interaction-levels-table
+#| echo: false
+#| output: asis
+
+source("../table-style.R")
+
+data.frame(
+  `Level` = c("Individual", "Group", "System"),
+  `Focus` = c(
+    "A person’s experience, perceptions, affect, and choices",
+    "Shared identities, norms, relationships, and collective action",
+    "Institutions, policy, land use, history, and social-ecological conditions"
+  ),
+  `Question` = c(
+    "How does this person experience the interaction?",
+    "How do relationships and group processes shape it?",
+    "What broader conditions produce or distribute it?"
+  ),
+  check.names = FALSE
+) |>
+  nres315_slide_table(font_size = 16, header_font_size = 17, row_padding = 6)
+```
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §18.4. Establish the map, then return to it throughout the lecture. These levels are connected; they are not three competing explanations.
+:::
+
+## The individual level includes states and traits
+
+**Traits** are relatively stable dispositions or orientations.
+
+<br>
+
+**States** are temporary responses shaped by the situation.
+
+<br>
+
+Fear during one encounter does not by itself tell us a person’s lasting view of a species.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.4.1. Use a hiker’s immediate alarm during a surprise bear encounter as a state example; do not infer their general attitude from that one response.
+:::
+
+## Individual experience shapes perceived risk
+
+Direct experience, knowledge, emotion, and expectations can shape risk perception.
+
+<br>
+
+Perceived risk may differ from measured probability.
+
+<br>
+
+Both can matter to a management decision, but they answer different questions.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §§18.4.1, 18.5. Distinguish subjective experience from objective measurement without dismissing either. Ask what evidence would be needed to describe each.
+:::
+
+## Ask about benefits as well as risks
+
+People may experience tangible costs or benefits.
+
+<br>
+
+They may also attach intangible meaning, identity, or existence value to wildlife.
+
+<br>
+
+Benefits and risks can influence acceptance in different ways for different people.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.5; connect to Chapter 10 nonmarket and intangible values. Avoid assuming that compensation addresses every concern.
+:::
+
+## Trust and perceived agency matter
+
+People notice not only wildlife impacts, but also how managers respond.
+
+<br>
+
+Perceived fairness, trust, and ability to influence decisions shape acceptance.
+
+<br>
+
+A technically effective action may still be contested if the process feels unfair.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §§18.4.1, 18.5. Connect to Weeks 5, 10, and 11: governance, justice, ethics, and participation affect the human response.
+:::
+
+## The group level includes identity and norms
+
+Group membership can shape how people interpret an animal and a management action.
+
+<br>
+
+Shared expectations can support tolerance—or intensify disagreement.
+
+<br>
+
+Group-level patterns do not mean every member shares the same view.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §18.4.2. Ask how a hunting club, neighborhood association, or conservation organization could shape conversation without representing every person in that group.
+:::
+
+## Group relationships influence what gets heard
+
+Leaders and trusted messengers can help circulate information.
+
+<br>
+
+Power differences may also determine whose experience becomes the public story.
+
+<br>
+
+A public meeting can reveal arguments without showing how common each view is.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.4.2; connect to Chapters 12–13 on sampling and participation. Emphasize that listening and estimating prevalence require different evidence.
+:::
+
+## The system level shapes the options
+
+Institutions, laws, policy, land use, markets, and history shape interactions.
+
+<br>
+
+Management actions can change both wildlife conditions and human opportunities.
+
+<br>
+
+System-level analysis asks how those conditions are produced and distributed.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §18.4.3. Use a road, property boundary, or agency rule as an example of a condition that shapes repeated encounters.
+:::
+
+## A system can distribute costs unevenly
+
+Wildlife and people are not evenly distributed across a landscape.
+
+<br>
+
+Risks, benefits, and management burdens can therefore cluster in particular places or groups.
+
+<br>
+
+System changes may be needed when individual prevention is not enough.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §§18.4.3, 18.5. Ask which level a road design, land-use pattern, or agency policy belongs to; accept that it can operate at more than one level.
+:::
+
+## Keep two frameworks distinct
+
+The **interaction-level lens** asks where influences operate: individual, group, or system.
+
+<br>
+
+The **conflict-depth lens** asks whether an issue is a dispute, underlying conflict, or deep-rooted conflict.
+
+<br>
+
+Both may help diagnose a case; neither substitutes for evidence.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §§18.3–18.4. This distinction is essential: an individual-level interaction could occur within a deep-rooted conflict, and a system-level condition could shape a simple dispute.
+:::
+
+## Willow Bend: individual evidence
+
+Residents report garden damage and deer crossings.
+
+<br>
+
+Photographs verify two damage reports; one resident has also described feeding deer near the road.
+
+<br>
+
+What additional individual experience or behavior would help explain the reported interaction?
+
+::: notes
+Time: 3 minutes. Source: Week 15 case draft in course design. Separate verified reports from unknown causes. Ask students to name a relevant but nonintrusive information need.
+:::
+
+## Willow Bend: group evidence
+
+A neighborhood group requests removal; other residents oppose lethal control.
+
+<br>
+
+Neither group statement represents every resident.
+
+<br>
+
+What would reveal variation, norms, and relationships within the community?
+
+::: notes
+Time: 3 minutes. Source: Week 15 case draft in course design. Connect to the chapter’s group-level lens. Students should not generalize from a group’s letter to all residents.
+:::
+
+## Willow Bend: system evidence
+
+The county road and wildlife area are managed by different institutions.
+
+<br>
+
+Collision reports have no traffic-volume denominator and may be incomplete.
+
+<br>
+
+What policy, design, or information gap shapes the interaction across the landscape?
+
+::: notes
+Time: 3 minutes. Source: Week 15 case draft in course design. The 18 recorded collisions over two years are not a rate. Students should identify the missing denominator and the cross-agency condition.
+:::
+
+## A diagnosis can cross levels
+
+An individual reports a collision risk.
+
+<br>
+
+Group narratives shape how neighbors interpret it.
+
+<br>
+
+Road design and agency coordination shape the available response.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §§18.4.1–18.4.3; Week 15 case draft. Show how one interaction can connect individual, group, and system conditions without flattening them into one cause.
+:::
+
+## Pause: match a question to a level
+
+With a partner, draft one question for each level:
+
+- **Individual:** experience, risk, affect, or behavior.
+- **Group:** identity, relationships, norms, or collective response.
+- **System:** policy, land use, institutions, or distribution.
+
+::: notes
+Time: 5 minutes. Source: Chapter 18 §18.4. Give pairs three minutes to draft, then take one example per level. Ask whether each question can be answered from the current case record or needs new evidence.
+:::
+
+## Diagnose before you intervene
+
+A visible impact does not explain the whole interaction.
+
+<br>
+
+Use the three levels to identify what information and relationships matter.
+
+<br>
+
+Then choose actions that fit the diagnosed conditions.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §§18.4–18.5. Close with a preview of Wednesday: matching intervention, evidence, and monitoring to unevenly distributed risks and benefits.
+:::
+
+## Wednesday: from diagnosis to response
+
+Bring one individual, group, and system condition from the Willow Bend brief.
+
+<br>
+
+Next class, match actions to those conditions and decide how to learn whether they work.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.5 and Week 15 case draft. Remind students to bring the case brief; no submitted application response should be drafted before Friday.
+:::

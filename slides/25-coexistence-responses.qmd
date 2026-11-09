@@ -1,0 +1,351 @@
+---
+title: "Designing Responses for Coexistence"
+subtitle: "Module 15 — Match action to risk, benefit, and burden"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "December 2, 2026"
+date-format: "MMMM D, YYYY"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## A diagnosis points toward a response
+
+Last class, we separated individual, group, and system conditions.
+
+<br>
+
+Today: how should a manager reduce harm while sustaining a workable relationship?
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §§18.4–18.5. Retrieve one diagnostic question from Monday before moving from analysis to intervention.
+:::
+
+## What you should be able to do
+
+- Compare response strategies for different risks and benefits.
+- Explain why compensation or communication alone may not be enough.
+- Identify who carries the cost of a proposed action.
+- Name a measure that could inform a later revision.
+
+::: notes
+Time: 1 minute. Source: Chapter 18 §18.5. Explain that the focus is not to select one universal “best” intervention; it is to match a response to diagnosed conditions.
+:::
+
+## Risks and benefits are both part of the relationship
+
+People may experience direct, tangible costs or benefits.
+
+<br>
+
+They may also value wildlife through cultural, relational, aesthetic, or existence meanings.
+
+<br>
+
+Different benefits and costs can occur in different places and for different publics.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §18.5; connect to Chapters 10 and 17. Avoid treating tangible and intangible as mutually exclusive or implying that monetary value captures every relationship.
+:::
+
+## Distribution can matter as much as the total
+
+Benefits may be widespread while risks are concentrated.
+
+<br>
+
+Some people encounter wildlife directly; others value its existence without direct contact.
+
+<br>
+
+Ask who receives benefits, who experiences risks, and who can influence the response.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §18.5. Use the chapter’s examples of uneven exposure and benefits. Link to justice and distribution from Week 5.
+:::
+
+## Perception and affect also shape tolerance
+
+Measured risk and perceived risk are related but not identical.
+
+<br>
+
+Emotion, meaning, trust, and perceived benefits can shape acceptance.
+
+<br>
+
+An intervention should not assume that changing one measurable cost changes every attitude.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.5. Link to Week 7 behavior and affect. Emphasize that this is a reason to assess experience, not to dismiss a reported concern as “just emotion.”
+:::
+
+## System-level responses balance several goals
+
+Managers may need to consider conservation, sustainable use, public safety, and conflict mitigation together.
+
+<br>
+
+Actions can affect wildlife conditions and human opportunities at the same time.
+
+<br>
+
+The response also sends a social signal about whose concerns count.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §18.4.3. Ask students to identify a response that might reduce one risk but create a distributional or ethical tradeoff.
+:::
+
+## Prevention can act before damage occurs
+
+Prevention may reduce the chance or severity of a negative interaction.
+
+<br>
+
+Examples in the chapter include fencing, guardian animals, flagging, and range riders in livestock settings.
+
+<br>
+
+Match the strategy to a plausible mechanism and local conditions.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.5. Examples come from livestock depredation contexts; they are not automatically appropriate for the Willow Bend deer case.
+:::
+
+## Compensation responds after a loss
+
+Compensation can acknowledge a real economic impact.
+
+<br>
+
+Its effect on tolerance varies; payment alone may not address trust or repeated burden.
+
+<br>
+
+The process must be timely, understandable, and perceived as genuine support.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §18.5. Use the chapter’s caution that a cumbersome or insufficiently responsive program may fail to improve the relationship even when payment eventually occurs.
+:::
+
+## One action can leave another concern untouched
+
+Reducing a direct impact does not necessarily resolve underlying or deep-rooted conflict.
+
+<br>
+
+Process, access, history, and trust may need separate attention.
+
+::: notes
+Time: 1 minute. Source: Chapter 18 §§18.3.1, 18.5. Bridge the conflict-depth framework from Week 14 to response design.
+:::
+
+## Lethal control carries social meaning
+
+Support varies with species, perceived impact, and the publics involved.
+
+<br>
+
+Some see lethal management as necessary; others see it as morally unacceptable.
+
+<br>
+
+The action may communicate whose values guide management.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.5; connect to Chapter 11 ethics. Avoid portraying rural or urban communities as homogeneous. The chapter’s examples show variation within and across publics.
+:::
+
+## Nonlethal does not mean effortless
+
+Nonlethal options can require money, labor, time, and coordination.
+
+<br>
+
+They may be more acceptable to some publics but not address every risk or value concern.
+
+<br>
+
+Feasibility and burden belong in the comparison.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.5. The book describes resource requirements and context-dependent outcomes. Do not imply that nonlethal approaches are always preferred or effective.
+:::
+
+## Design the program with affected publics
+
+Ask how people will experience the action and its process.
+
+<br>
+
+Identify who must do extra work, accept a new limit, or bear a residual risk.
+
+<br>
+
+Build a way to revisit the decision if the burden remains uneven.
+
+::: notes
+Time: 3 minutes. Source: Chapter 18 §§18.4.2–18.5; connect to Chapters 5 and 13. Participation does not mean every public controls the final decision; it does require clarity about influence and response.
+:::
+
+## Communicate the purpose and limits
+
+Explain what the response is designed to change.
+
+<br>
+
+State what it cannot guarantee and how the agency will assess its effects.
+
+<br>
+
+Avoid promising that one action will end conflict or produce unanimous support.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.5; connect to Week 11’s honest participation promises. Ask students to name one claim that would overstate what a short pilot can establish.
+:::
+
+## Monitoring should follow the decision
+
+Track outcomes that match the stated goal: impacts, safety, experience, access, or trust.
+
+<br>
+
+Separate a measured change from an explanation of why it changed.
+
+<br>
+
+Set a review point and a condition for revising the action.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.5; connect to Chapter 6 and Week 13 monitoring. This is an applied synthesis rather than a claim that every measure appears in the chapter.
+:::
+
+## Compare response choices
+
+```{r}
+#| label: coexistence-response-comparison
+#| echo: false
+#| output: asis
+
+source("../table-style.R")
+
+data.frame(
+  `Response` = c("Prevention", "Compensation/support", "Rule or lethal action", "Process and monitoring"),
+  `Can address` = c(
+    "Likelihood or severity of an impact",
+    "Some direct losses and burden recognition",
+    "A defined management objective or risk",
+    "Trust, inclusion, uncertainty, and revision"
+  ),
+  `Question to check` = c(
+    "Is it feasible for those expected to use it?",
+    "Is it timely and seen as meaningful?",
+    "Who bears the social and ethical costs?",
+    "What can change after review?"
+  ),
+  check.names = FALSE
+) |>
+  nres315_slide_table(font_size = 15, header_font_size = 16, row_padding = 6)
+```
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.5 synthesis. The table is a prompt for comparison, not a ranking. Invite students to add a missing response or limitation.
+:::
+
+## Willow Bend: options and constraints
+
+The case offers a road-corridor pilot, voluntary prevention, or a limited removal proposal.
+
+<br>
+
+Only one $18,000 option can be funded this year.
+
+<br>
+
+The case does not identify a single cause of collisions or measure deer abundance.
+
+::: notes
+Time: 2 minutes. Source: Week 15 case draft in course design. These are course-case facts. The case brief, not this slide, contains the complete option descriptions.
+:::
+
+## Match an action to a diagnosed condition
+
+The road-corridor pilot targets recorded collision locations.
+
+<br>
+
+Voluntary prevention shares effort with residents who choose to participate.
+
+<br>
+
+Removal needs added public process and legal review before it could proceed.
+
+::: notes
+Time: 3 minutes. Source: Week 15 case draft in course design. Ask which case uncertainty each option could reduce, and which one it cannot resolve alone.
+:::
+
+## Design a response in small groups
+
+Choose one funded option and one low-cost process step.
+
+<br>
+
+Name who benefits, who bears work or risk, and what the action cannot address.
+
+<br>
+
+Propose one indicator and a review date.
+
+::: notes
+Time: 5 minutes. Source: Chapter 18 §18.5; Week 15 application design. Give groups four minutes to draft, then take two contrasting proposals and use the final minute to ask what would make each group revise its choice. Do not let groups draft the submitted Friday response.
+:::
+
+## A good response can have a tradeoff
+
+No option removes every risk and satisfies every value.
+
+<br>
+
+A defensible recommendation explains who bears the remaining cost and why it is acceptable for now.
+
+<br>
+
+It also names what evidence or experience would change the decision.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §18.5; Week 15 case. Rehearse the standard application pattern: decision, evidence, affected publics, tradeoff, implementation, learning.
+:::
+
+## Risk, benefit, and burden must stay visible
+
+The location of wildlife shapes who experiences direct risk.
+
+<br>
+
+Values and trust shape which benefits people recognize.
+
+<br>
+
+Fair response design makes both distribution and learning explicit.
+
+::: notes
+Time: 2 minutes. Source: Chapter 18 §§18.4–18.5. Close by connecting Wednesday’s intervention work to the Friday case conference.
+:::
+
+## Friday: make the coexistence recommendation
+
+Read the case brief and bring one proposed action, one affected group, and one uncertainty.
+
+<br>
+
+The response is developed and written with your assigned group during class.
+
+::: notes
+Time: 2 minutes. Source: Week 15 module/application design. Remind students not to draft the shared response before class and not to use generative AI during the application unless explicitly authorized.
+:::

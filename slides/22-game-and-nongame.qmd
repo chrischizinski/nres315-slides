@@ -1,0 +1,375 @@
+---
+title: "Game and Nongame: One Landscape, Shared Decisions"
+subtitle: "Module 13 — Whose priorities shape wildlife management?"
+author: "NRES 315: Human Dimensions of Fish and Wildlife Management"
+date: "November 16, 2026"
+date-format: "MMMM D, YYYY"
+filters:
+  - ../source-footer.lua
+format:
+  revealjs:
+    theme: simple
+    css: ../styles/slides.scss
+    transition: fade
+    slide-number: true
+    embed-resources: true
+---
+
+## One landscape, competing obligations
+
+Willow Bend has deer used by hunters and grassland birds used by birders.
+
+<br>
+
+The agency has one year of money and staff time to choose a management pilot.
+
+<br>
+
+**How should one public landscape serve wildlife and people with different priorities?**
+
+::: notes
+Time: 2 minutes. Source: Chapters 16–17; Week 13 course case. Introduce the shared setting without treating the fictional case as evidence about real species. Ask students which details already tell us that this is a human-dimensions decision.
+:::
+
+## What you should be able to do
+
+- Explain why game and nongame decisions belong in a social-ecological systems frame.
+- Distinguish types of wildlife use from the values people attach to wildlife.
+- Compare how institutions, access, and participation shape management options.
+- Recommend a pilot with a monitoring signal that could change the next decision.
+
+::: notes
+Time: 1 minute. Source: Chapters 16–17 guiding questions. Preview that today moves from systems and uses to values, institutions, and a bounded management choice.
+:::
+
+## Management changes a connected system
+
+Wildlife populations and habitats change through ecological processes.
+
+<br>
+
+Human actions, rules, markets, access, and institutions also change the system.
+
+<br>
+
+A management action can alter both—and the results feed back into later choices.
+
+::: notes
+Time: 3 minutes. Source: Chapter 16 §16.3. Emphasize reciprocal links. Avoid presenting the social and ecological pieces as two separate checklists.
+:::
+
+## Ask what connects the parts
+
+```{r}
+#| label: game-nongame-ses-table
+#| echo: false
+#| output: asis
+
+source("../table-style.R")
+
+data.frame(
+  `Ecological conditions` = c("Habitat, species, seasonal change", "Population indicators and uncertainty"),
+  `Human conditions` = c("Use, access, values, livelihoods", "Rules, agencies, partners, resources"),
+  `Connection to ask about` = c("How does use affect habitat or access?", "How do rules change behavior or opportunity?"),
+  check.names = FALSE
+) |>
+  nres315_slide_table(font_size = 17, header_font_size = 18, row_padding = 7)
+```
+
+::: notes
+Time: 2 minutes. Source: Chapter 16 §16.3. Read one row aloud and ask for another link students can infer from Willow Bend. This is a thinking scaffold, not a complete inventory of the case.
+:::
+
+## “Game” and “nongame” are management categories
+
+The labels reflect legal, cultural, political, and geographic systems.
+
+<br>
+
+They do not divide species into biologically important and unimportant groups.
+
+<br>
+
+Different designations can shape funding, rules, attention, and public expectations.
+
+::: notes
+Time: 2 minutes. Source: Chapter 17 §17.2.1 and §17.4. Clarify that the chapter uses “nongame” as an administrative umbrella, not as a biological trait. Ask what a category makes visible and what it can hide.
+:::
+
+## Wildlife use has more than one form
+
+- **Consumptive use:** wildlife is removed, including hunting, fishing, and trapping.
+- **Nonconsumptive use:** people observe, photograph, or otherwise appreciate wildlife.
+- **Subsistence use:** wildlife contributes to material, cultural, or community needs.
+
+<br>
+
+These are useful distinctions; real practices and relationships can overlap.
+
+::: notes
+Time: 2 minutes. Source: Chapter 16 §16.4. Ask students to identify one overlapping use without implying that all participants have the same motive.
+:::
+
+## Intent and value answer different questions
+
+**Intent:** Is the activity extractive or appreciative?
+
+<br>
+
+**Value:** Is wildlife important for benefits to people, for its own sake, or through relationships?
+
+<br>
+
+One person can hold several values at once.
+
+::: notes
+Time: 2 minutes. Source: Chapter 17 §§17.3.1–17.3.2. Keep intent separate from value. An activity category does not by itself tell us why someone cares or what they believe should happen.
+:::
+
+## Three value lenses
+
+- **Instrumental:** wildlife matters for benefits it provides to people.
+- **Intrinsic:** wildlife matters in its own right.
+- **Relational:** wildlife matters through responsibilities, identities, and relationships.
+
+<br>
+
+These lenses can coexist within one person or community.
+
+::: notes
+Time: 2 minutes. Source: Chapter 17 §17.3.2. Use the deer and grassland birds only as prompts. Do not assign a value to hunters, birders, or residents based on their group label.
+:::
+
+## Worldviews shape conservation priorities
+
+People may place more weight on human use, mutual relationships, or ecological wholes.
+
+<br>
+
+Those orientations affect which outcomes seem important and which costs seem acceptable.
+
+<br>
+
+They do not reliably sort people into fixed, opposing camps.
+
+::: notes
+Time: 2 minutes. Source: Chapter 17 §17.3.3. Stress that worldviews are an interpretive lens, not a shortcut for guessing any individual’s position.
+:::
+
+## Culture and institutions shape the choice
+
+Hunting, fishing, and wildlife conservation can carry traditions, livelihoods, and identities.
+
+<br>
+
+Rules operate within those contexts; identical policies can have different effects across communities.
+
+<br>
+
+Managers need to ask who has access, authority, capacity, and a meaningful voice.
+
+::: notes
+Time: 2 minutes. Source: Chapter 16 §16.5; Chapter 17 §§17.4–17.5.1. Do not treat culture as a fixed explanation. Invite attention to institutions and material conditions alongside identity.
+:::
+
+## Nongame work involves many actors
+
+Federal, state, Tribal, and international frameworks may all matter, depending on the species and place.
+
+<br>
+
+Landowners, nongovernmental organizations, researchers, communities, and businesses can add capacity.
+
+<br>
+
+Their roles and authority are not interchangeable.
+
+::: notes
+Time: 2 minutes. Source: Chapter 17 §§17.4.1–17.4.5. Use the examples as a map of possible actors, not as a claim that every framework applies to Willow Bend. Tribal sovereignty and jurisdiction should not be collapsed into generic “stakeholder input.”
+:::
+
+## Conservation capacity is uneven
+
+Nongame programs often face limited staffing, funding, and public attention.
+
+<br>
+
+Charisma, familiarity, and affect can influence which species attract attention.
+
+<br>
+
+That influence is a decision condition to examine—not proof that a public is wrong.
+
+::: notes
+Time: 2 minutes. Source: Chapter 17 §§17.6.1–17.6.3. Ask how a manager might notice a capacity shortfall or attention bias without devaluing public concern.
+:::
+
+## Monitoring should connect ecology and people
+
+Monitoring can inform regulations and reveal whether a management action is working.
+
+<br>
+
+Ecological indicators alone may miss access, participation, compliance, or distributional effects.
+
+<br>
+
+Choose measures that match the decision and revise them as the system changes.
+
+::: notes
+Time: 3 minutes. Source: Chapter 16 §16.6; Chapter 17 §17.6.4. Connect back to Chapter 6: monitoring supports learning when a result can affect a later action.
+:::
+
+## Access and fairness shape who can participate
+
+Regulations can establish formal opportunities while practical barriers still limit access.
+
+<br>
+
+Costs may include travel, equipment, time, physical access, language, or unclear rules.
+
+<br>
+
+Fairness asks how opportunities and burdens are distributed—not only whether a rule is uniform.
+
+::: notes
+Time: 3 minutes. Source: Chapter 16 §16.7. Ask who might be absent from a management record and why. Do not assume access has the same meaning for every public.
+:::
+
+## Compliance is partly social
+
+Formal enforcement matters, but daily behavior is also shaped by shared expectations.
+
+<br>
+
+Peer norms, trust, perceived legitimacy, and clear rules can support voluntary compliance.
+
+<br>
+
+Communication alone cannot resolve every access or values disagreement.
+
+::: notes
+Time: 2 minutes. Source: Chapter 16 §16.8. Make the distinction between explaining a rule and earning agreement. This previews Chapter 19 without treating noncompliance as only an information problem.
+:::
+
+## Evidence helps, but may not settle disagreement
+
+Science can correct a factual misunderstanding and clarify ecological tradeoffs.
+
+<br>
+
+People may still disagree because values, interests, trust, and history differ.
+
+<br>
+
+Good decisions make both evidence and value choices visible.
+
+::: notes
+Time: 3 minutes. Source: Chapter 16 §16.9.1. Ask students for an example where additional data could narrow uncertainty but could not choose the value priority. Link to prior chapters on paradigms and ethics.
+:::
+
+## Loud participation is not a representative sample
+
+Petitions, public meetings, and social media can reveal concerns and arguments.
+
+<br>
+
+They do not automatically show how common a view is across a defined population.
+
+<br>
+
+Managers should listen carefully and be honest about what each record can establish.
+
+::: notes
+Time: 3 minutes. Source: Chapter 16 §16.10.2; connect to Chapters 12–15. This slide should recall the Week 11–12 inquiry lessons without implying that public comments lack value.
+:::
+
+## Compare the decision lenses
+
+```{r}
+#| label: game-nongame-decision-lenses
+#| echo: false
+#| output: asis
+
+source("../table-style.R")
+
+data.frame(
+  `Decision lens` = c("Wildlife use", "Human values", "Authority and capacity", "Learning"),
+  `Question to ask` = c(
+    "Who uses or depends on the area, and how?",
+    "Which instrumental, intrinsic, or relational values matter?",
+    "Who decides, participates, and can implement the action?",
+    "What evidence could change the next decision?"
+  ),
+  check.names = FALSE
+) |>
+  nres315_slide_table(font_size = 17, header_font_size = 18, row_padding = 7)
+```
+
+::: notes
+Time: 3 minutes. Source: Chapters 16–17 synthesis. Give students a moment to choose the lens that most often disappears from wildlife management discussions.
+:::
+
+## Willow Bend gives one bounded choice
+
+The case sets a one-year ceiling of **$40,000 and 720 staff hours**.
+
+<br>
+
+Game-use, nongame-habitat, and paired pilot options are all feasible.
+
+<br>
+
+The case does not establish a population trend for the birds or a causal effect between the species.
+
+::: notes
+Time: 2 minutes. Source: Week 13 case draft in course design. These are case facts, not claims from Chapters 16–17. The Friday case packet must carry the full options table; students should not have to remember these ceilings from lecture.
+:::
+
+## A recommendation makes priorities visible
+
+Choose an action, then name whose values and uses it prioritizes.
+
+<br>
+
+Identify a public that could challenge the choice or is missing from the record.
+
+<br>
+
+State what observation would change the agency’s next-year decision.
+
+::: notes
+Time: 3 minutes. Source: Chapters 16–17; Week 13 application design. Have students turn to a partner and test whether a one-sentence recommendation includes a decision, public, and learning signal.
+:::
+
+## Preview the Friday decision
+
+Groups will recommend a one-year pilot for Willow Bend.
+
+<br>
+
+They must use one concept from each chapter and acknowledge one unresolved tradeoff.
+
+<br>
+
+The goal is a defensible decision—not a universal ranking of game and nongame species.
+
+::: notes
+Time: 2 minutes. Source: Week 13 application design. Remind students to read the case brief before Friday and not to draft the shared response ahead of class.
+:::
+
+## A connected management practice
+
+Management categories shape attention and institutional action.
+
+<br>
+
+Wildlife uses and values overlap within landscapes and communities.
+
+<br>
+
+Evidence, participation, fairness, and monitoring help managers learn across those connections.
+
+::: notes
+Time: 2 minutes. Source: Chapters 16–17 summaries. Close by returning to the opening question: whose priorities shape management? The answer should be supported through a transparent process, not guessed from one loud voice.
+:::
