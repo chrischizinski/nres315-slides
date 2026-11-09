@@ -480,7 +480,7 @@
     "href": "slides/20-quantitative-research.html#variable-type-constrains-analysis",
     "title": "Quantitative Research Designs and Methods",
     "section": "Variable type constrains analysis",
-    "text": "Variable type constrains analysis\n\nDichotomous: two categories—wake observed / not observed.\nCategorical: unordered or ordered categories—vessel type; support level.\nContinuous: measured along a numeric scale—minutes in the bay.\n\n\nDo not treat labels as though distances between them are known.\n\nTime: 2 minutes. Source: Chapter 14 §14.2.1 and Table 14.1.\n\n\nSource: Chapter 14 §14.2.1 and Table 14.1"
+    "text": "Variable type constrains analysis\n\nDichotomous: two categories—wake observed / not observed.\nCategorical: unordered or ordered categories—vessel type; support level.\nContinuous: measured along a numeric scale—minutes in the bay.\n\n\nDo not treat labels as though distances between them are known.\n\nTime: 1 minute. Source: Chapter 14 §14.2.1 and Table 14.1.\n\n\nSource: Chapter 14 §14.2.1 and Table 14.1"
   },
   {
     "objectID": "slides/20-quantitative-research.html#reliability-and-validity-ask-different-questions",
@@ -490,11 +490,18 @@
     "text": "Reliability and validity ask different questions\nReliability: Would the measurement or procedure produce consistent results?\n\nValidity: Does the design and measurement accurately support the intended interpretation?\n\nTwo observers can agree perfectly on a flawed definition: reliable, not valid.\n\nTime: 2 minutes. Source: Chapter 14 §14.2.2 and Table 14.2. Use the 31/40 observer agreement as the reliability warning.\n\n\nSource: Chapter 14 §14.2.2 and Table 14.2"
   },
   {
+    "objectID": "slides/20-quantitative-research.html#a-target-separates-consistency-from-accuracy",
+    "href": "slides/20-quantitative-research.html#a-target-separates-consistency-from-accuracy",
+    "title": "Quantitative Research Designs and Methods",
+    "section": "A target separates consistency from accuracy",
+    "text": "A target separates consistency from accuracy\n\n\nTime: 2 minutes. Source: Chapter 14 §14.2.2 and Table 14.2. Treat the bullseye as the intended value and each dot as one repeated measurement. Tightness illustrates reliability; distance from the center illustrates accuracy in this analogy. A tight cluster can be consistently biased, like two observers agreeing on a flawed definition. In real research, validity concerns whether the design and measurement support the intended interpretation, not simply whether a value lands on a physical target.\n\n\nSource: Chapter 14 §14.2.2 and Table 14.2"
+  },
+  {
     "objectID": "slides/20-quantitative-research.html#three-quantitative-design-families",
     "href": "slides/20-quantitative-research.html#three-quantitative-design-families",
     "title": "Quantitative Research Designs and Methods",
     "section": "Three quantitative design families",
-    "text": "Three quantitative design families\n\n\n\n\n\n\nDesign\nIntervention\nRandom assignment\nStrongest typical claim\n\n\n\n\nExperimental\nYes\nYes\nCausal effect\n\n\nQuasi-experimental\nYes or natural change\nNo\nPlausible effect, with threats\n\n\nDescriptive non-experimental\nNo\nNo\nPattern, amount, or association\n\n\n\n\n\n\nTime: 2 minutes. Source: Chapter 14 §14.3. Stress that method and design are separate; a questionnaire can appear in any family.\n\n\nSource: Chapter 14 §14.3"
+    "text": "Three quantitative design families\n\n\n\n\n\n\nDesign\nIntervention\nRandom assignment\nStrongest typical claim\n\n\n\n\nExperimental\nYes\nYes\nCausal effect\n\n\nQuasi-experimental\nYes or natural change\nNo\nPlausible effect, with threats\n\n\nDescriptive non-experimental\nNo\nNo\nPattern, amount, or association\n\n\n\n\n\n\nTime: 1 minute. Source: Chapter 14 §14.3. Stress that method and design are separate; a questionnaire can appear in any family.\n\n\nSource: Chapter 14 §14.3"
   },
   {
     "objectID": "slides/20-quantitative-research.html#experiments-create-a-counterfactual",
@@ -508,7 +515,7 @@
     "href": "slides/20-quantitative-research.html#quasi-experiments-use-imperfect-comparisons",
     "title": "Quantitative Research Designs and Methods",
     "section": "Quasi-experiments use imperfect comparisons",
-    "text": "Quasi-experiments use imperfect comparisons\nA before–after policy comparison or treated–untreated site comparison can be useful without random assignment.\n\nBut preexisting differences, spillover, history, or simultaneous changes may explain the result.\n\nDesign the comparison and measure rival explanations.\n\nTime: 2 minutes. Source: Chapter 14 §14.3.2.\n\n\nSource: Chapter 14 §14.3.2"
+    "text": "Quasi-experiments use imperfect comparisons\nBefore–after: Compare the same site before and after an action.\n\nAt Willow Bay, compare above-wake passages before and after a sign pilot. Season, weather, or other changes could explain a shift.\n\nTreated–untreated: Compare a site receiving an action with a similar site that does not. Sites may differ before the action begins.\n\nTime: 3 minutes. Source: Chapter 14 §14.3.2. These designs use a comparison but do not randomly assign treatment. For before–after, ask what else changed over time; for treated–untreated, ask how the sites differed before treatment. A stronger design may track both sites before and after, while still checking whether the comparison is credible.\n\n\nSource: Chapter 14 §14.3.2"
   },
   {
     "objectID": "slides/20-quantitative-research.html#description-is-not-a-failed-experiment",
@@ -518,11 +525,25 @@
     "text": "Description is not a failed experiment\nDescriptive designs answer what, how much, where, when, and among whom.\n\nThey can guide decisions without identifying a cause.\n\nWillow Bay passage observation can estimate sampled patterns; it cannot prove that wakes caused the decline in nests.\n\nTime: 2 minutes. Source: Chapter 14 §14.3.3; Week 12 brief.\n\n\nSource: Chapter 14 §14.3.3; Week 12 brief"
   },
   {
+    "objectID": "slides/20-quantitative-research.html#why-do-a-descriptive-study",
+    "href": "slides/20-quantitative-research.html#why-do-a-descriptive-study",
+    "title": "Quantitative Research Designs and Methods",
+    "section": "Why do a descriptive study?",
+    "text": "Why do a descriptive study?\n\nEstablish a baseline or estimate how often and how much an issue occurs.\nShow where, when, and among whom a pattern appears.\nMonitor change when an experiment is not feasible or ethical.\nIdentify questions for a later explanatory study.\n\n\nAt Willow Bay, a descriptive study can locate passage patterns and guide monitoring—even when it cannot explain why the pattern occurs.\n\nTime: 2 minutes. Source: Chapter 14 §14.3.3. Descriptive evidence can support planning, prioritization, and monitoring. It is especially useful when managers first need a trustworthy account of the pattern, when intervention is not under study, or when randomization is impractical or unethical. Keep the claim descriptive; do not turn a baseline into a causal explanation.\n\n\nSource: Chapter 14 §14.3.3"
+  },
+  {
     "objectID": "slides/20-quantitative-research.html#population-frame-sample-respondent",
     "href": "slides/20-quantitative-research.html#population-frame-sample-respondent",
     "title": "Quantitative Research Designs and Methods",
     "section": "Population, frame, sample, respondent",
     "text": "Population, frame, sample, respondent\nTarget population → everyone the claim is about\nSampling frame → operational list used to reach that population\nSample → units selected from the frame\nRespondents → selected people who actually provide data\n\nThese sets rarely match perfectly.\n\nTime: 3 minutes. Source: Chapter 14 §14.4 and key terms. Have students apply all four to the boat-owner questionnaire.\n\n\nSource: Chapter 14 §14.4 and key terms"
+  },
+  {
+    "objectID": "slides/20-quantitative-research.html#four-steps-from-population-to-respondents",
+    "href": "slides/20-quantitative-research.html#four-steps-from-population-to-respondents",
+    "title": "Quantitative Research Designs and Methods",
+    "section": "Four steps from population to respondents",
+    "text": "Four steps from population to respondents\n\n\nTime: 1 minute. Source: Chapter 14 §§14.4 and 14.7.1, 14.7.3. Trace the four groups from left to right. Ask where missing target users enter the account and where selected nonrespondents drop out.\n\n\nSource: Chapter 14 §§14.4 and 14.7.1, 14.7.3"
   },
   {
     "objectID": "slides/20-quantitative-research.html#probability-sampling-supports-population-inference",
@@ -543,21 +564,21 @@
     "href": "slides/20-quantitative-research.html#three-common-quantitative-methods",
     "title": "Quantitative Research Designs and Methods",
     "section": "Three common quantitative methods",
-    "text": "Three common quantitative methods\n\nQuestionnaires: structured self-reports.\nBehavioral observation: systematic records of actions or traces.\nSecondary data: records collected previously for another purpose.\n\n\nThe method should follow the question. Self-report and observed behavior are different evidence.\n\nTime: 2 minutes. Source: Chapter 14 §14.5.\n\n\nSource: Chapter 14 §14.5"
+    "text": "Three common quantitative methods\n\nQuestionnaires: structured self-reports.\nBehavioral observation: systematic records of actions or traces.\nSecondary data: records collected previously for another purpose.\n\n\nThe method should follow the question. Self-report and observed behavior are different evidence.\n\nTime: 1 minute. Source: Chapter 14 §14.5.\n\n\nSource: Chapter 14 §14.5"
   },
   {
     "objectID": "slides/20-quantitative-research.html#observation-needs-a-protocol",
     "href": "slides/20-quantitative-research.html#observation-needs-a-protocol",
     "title": "Quantitative Research Designs and Methods",
     "section": "Observation needs a protocol",
-    "text": "Observation needs a protocol\nTime sampling records behavior during selected intervals; event sampling records a specified event and its context.\n\nWillow Bay uses 36 randomly selected two-hour periods, stratified across days and times. The claim concerns those sampled temporal conditions—not every moment.\n\nTime: 2 minutes. Source: Chapter 14 §14.5.2; Week 12 brief.\n\n\nSource: Chapter 14 §14.5.2; Week 12 brief"
+    "text": "Observation needs a protocol\nTime sampling records behavior during selected intervals; event sampling records a specified event and its context.\n\nWillow Bay uses 36 randomly selected two-hour periods, stratified across days and times. The claim concerns those sampled temporal conditions—not every moment.\n\nTime: 1 minute. Source: Chapter 14 §14.5.2; Week 12 brief.\n\n\nSource: Chapter 14 §14.5.2; Week 12 brief"
   },
   {
     "objectID": "slides/20-quantitative-research.html#secondary-data-inherit-their-history",
     "href": "slides/20-quantitative-research.html#secondary-data-inherit-their-history",
     "title": "Quantitative Research Designs and Methods",
     "section": "Secondary data inherit their history",
-    "text": "Secondary data inherit their history\nExisting complaints and counters can be efficient and reveal patterns.\n\nBut categories, missing cases, collection purposes, quality, and timing may not fit the new question. Differences among records can reflect methods rather than real differences.\n\nTime: 2 minutes. Source: Chapter 14 §14.5.3.\n\n\nSource: Chapter 14 §14.5.3"
+    "text": "Secondary data inherit their history\nExisting complaints and counters can be efficient and reveal patterns.\n\nBut categories, missing cases, collection purposes, quality, and timing may not fit the new question. Differences among records can reflect methods rather than real differences.\n\nTime: 1 minute. Source: Chapter 14 §14.5.3.\n\n\nSource: Chapter 14 §14.5.3"
   },
   {
     "objectID": "slides/20-quantitative-research.html#survey-research-is-more-than-a-questionnaire",
@@ -616,18 +637,18 @@
     "text": "Check the diagnosis\n\nMissing paddlers → coverage\nSelected people do not answer and differ → nonresponse\nLeading wording → measurement\nChance sample differences → sampling\n\n\nName the mechanism; “bias” alone is not a diagnosis.\n\nTime: 1 minute. Source: Chapter 14 §14.7.\n\n\nSource: Chapter 14 §14.7"
   },
   {
-    "objectID": "slides/20-quantitative-research.html#bound-mondays-conclusion",
-    "href": "slides/20-quantitative-research.html#bound-mondays-conclusion",
+    "objectID": "slides/20-quantitative-research.html#say-what-the-observations-can-support",
+    "href": "slides/20-quantitative-research.html#say-what-the-observations-can-support",
     "title": "Quantitative Research Designs and Methods",
-    "section": "Bound Monday’s conclusion",
-    "text": "Bound Monday’s conclusion\nA defensible quantitative design says:\n\nDuring sampled periods, trained observers classified ___ of ___ passages as above no-wake under the study rule.\n\n\nIt does not silently become:\n\nBoaters caused the bird decline, and most bay users support regulation.\n\n\nTime: 2 minutes. Source: Chapter 14 §§14.3, 14.5, 14.7. Preview Wednesday: explanations and meanings require other evidence.\n\n\nSource: Chapter 14 §§14.3, 14.5, 14.7"
+    "section": "Say what the observations can support",
+    "text": "Say what the observations can support\nAsk: Of the passages observers actually recorded, how many met the study’s above-wake rule?\n\nX = observed passages classified above-wake. Y = all observed passages.\n\nReport: “During the sampled periods, X of Y observed passages met the above-wake rule.” This describes those periods; it does not explain the bird decline or measure public support.\n\nTime: 2 minutes. Source: Chapter 14 §§14.3, 14.5, 14.7. Explain that X and Y are placeholders for study results, not missing case facts. The count or proportion describes sampled periods only; broader estimates depend on the sampling design. It cannot establish a cause of bird decline or how most bay users feel. Preview Wednesday: explanations and meanings require other evidence.\n\n\nSource: Chapter 14 §§14.3, 14.5, 14.7"
   },
   {
     "objectID": "slides/20-quantitative-research.html#before-wednesday",
     "href": "slides/20-quantitative-research.html#before-wednesday",
     "title": "Quantitative Research Designs and Methods",
     "section": "Before Wednesday",
-    "text": "Before Wednesday\nRead Chapter 15 with one question in mind:\nIf observation shows when noncompliance occurs, how could we learn what those actions mean to different users—and make that interpretation trustworthy?\n\nTime: 1 minute. Total core time: 49 minutes. Source: Chapter 15 §§15.2–15.5.\n\n\nSource: Chapter 15 §§15.2–15.5"
+    "text": "Before Wednesday\nRead Chapter 15 with one question in mind:\nIf observation shows when noncompliance occurs, how could we learn what those actions mean to different users—and make that interpretation trustworthy?\n\nTime: 1 minute. Total core time: 50 minutes. Source: Chapter 15 §§15.2–15.5.\n\n\nSource: Chapter 15 §§15.2–15.5"
   },
   {
     "objectID": "slides/18-planning-an-inquiry.html#how-to-use-this-self-study-lesson",
@@ -2048,7 +2069,7 @@
     "href": "index.html#module-12-quantitative-and-qualitative-research",
     "title": "NRES 315",
     "section": "Module 12 — Quantitative and qualitative research",
-    "text": "Module 12 — Quantitative and qualitative research\n\nLecture 19 — Quantitative research designs and methods Source updated: October 25, 2026 at 1:09 PM CDT Lecture 19 handout (PDF)\nLecture 20 — Qualitative and mixed-methods research Source updated: October 25, 2026 at 1:09 PM CDT Lecture 20 handout (PDF)"
+    "text": "Module 12 — Quantitative and qualitative research\n\nLecture 19 — Quantitative research designs and methods Source updated: November 9, 2026 at 9:01 AM CST Lecture 19 handout (PDF)\nLecture 20 — Qualitative and mixed-methods research Source updated: October 25, 2026 at 1:09 PM CDT Lecture 20 handout (PDF)"
   },
   {
     "objectID": "index.html#module-13-game-and-nongame-priorities",
