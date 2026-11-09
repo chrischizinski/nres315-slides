@@ -106,28 +106,28 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
 ## Module 13 — Game and nongame priorities
 
 - [Lecture 21 — Game and nongame: one landscape, shared decisions](slides/22-game-and-nongame.qmd)
-  <small class="deck-updated">Source updated: November 8, 2026 at 12:58 PM CST</small>
+  <small class="deck-updated">Published: November 8, 2026 at 8:35 PM CST</small>
   <small>[Lecture 21 handout (PDF)](handouts/22-game-and-nongame.pdf)</small>
 
 ## Module 14 — Human–wildlife conflict and coexistence
 
 - [Lecture 22 — Human–wildlife interactions: conflict and coexistence](slides/23-conflict-and-coexistence.qmd)
-  <small class="deck-updated">Source updated: November 8, 2026 at 12:58 PM CST</small>
+  <small class="deck-updated">Published: November 8, 2026 at 8:35 PM CST</small>
   <small>[Lecture 22 handout (PDF)](handouts/23-conflict-and-coexistence.pdf)</small>
 
 ## Module 15 — Diagnosing and designing for coexistence
 
 - [Lecture 23 — Diagnosing human–wildlife interactions](slides/24-interaction-levels.qmd)
-  <small class="deck-updated">Source updated: November 8, 2026 at 12:58 PM CST</small>
+  <small class="deck-updated">Published: November 8, 2026 at 8:35 PM CST</small>
   <small>[Lecture 23 handout (PDF)](handouts/24-interaction-levels.pdf)</small>
 - [Lecture 24 — Designing responses for coexistence](slides/25-coexistence-responses.qmd)
-  <small class="deck-updated">Source updated: November 8, 2026 at 12:58 PM CST</small>
+  <small class="deck-updated">Published: November 8, 2026 at 8:35 PM CST</small>
   <small>[Lecture 24 handout (PDF)](handouts/25-coexistence-responses.pdf)</small>
 
 ## Module 16 — Compliance and integrated practice
 
 - [Lecture 25 — Wildlife crime, compliance, and enforcement](slides/26-compliance-and-enforcement.qmd)
-  <small class="deck-updated">Source updated: November 8, 2026 at 12:58 PM CST</small>
+  <small class="deck-updated">Published: November 8, 2026 at 8:35 PM CST</small>
   <small>[Lecture 25 handout (PDF)](handouts/26-compliance-and-enforcement.pdf)</small>
 
 New lectures appear here only after they are ready for students.
