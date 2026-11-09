@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">From target population to respondents</title>
+  <desc id="desc">A four-step flow moves from target population to sampling frame, selected sample, and respondents. The target population is the group a claim concerns. The frame is the list or route used to reach them. A sample is selected from the frame. Respondents are sampled people who provide data. A coverage-error note says the frame may omit eligible people or include ineligible people. A nonresponse note says some selected people may not provide data. The groups are not guaranteed to match perfectly.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0 0L12 6L0 12Z" fill="#285a4b"/>
+    </marker>
+  </defs>
+  <style>
+    .card{fill:#f5f8f5;stroke:#6e927c;stroke-width:3}
+    .num{fill:#17384a}
+    .numtext{font:700 19px 'Lato',Arial,sans-serif;fill:#fff;text-anchor:middle}
+    .head{font:700 26px 'Lato',Arial,sans-serif;fill:#17384a;text-anchor:middle}
+    .copy{font:400 20px 'Lato',Arial,sans-serif;fill:#243b36;text-anchor:middle}
+    .arrow{fill:none;stroke:#285a4b;stroke-width:4;marker-end:url(#arrow)}
+    .callout{fill:#fff8ed;stroke:#bd8a4b;stroke-width:2}
+    .alerthead{font:700 21px 'Lato',Arial,sans-serif;fill:#704d22}
+    .alertcopy{font:400 18px 'Lato',Arial,sans-serif;fill:#443b30}
+  </style>
+
+  <rect class="card" x="20" y="72" width="250" height="270" rx="14"/>
+  <circle class="num" cx="50" cy="103" r="19"/><text class="numtext" x="50" y="110">1</text>
+  <text class="head" x="145" y="151">Population</text>
+  <text class="copy" x="145" y="202"><tspan x="145">The full group your</tspan><tspan x="145" dy="27">claim is about</tspan></text>
+
+  <path class="arrow" d="M278 207H308"/>
+  <text class="copy" x="294" y="177" font-size="15">define</text>
+
+  <rect class="card" x="320" y="72" width="250" height="270" rx="14"/>
+  <circle class="num" cx="350" cy="103" r="19"/><text class="numtext" x="350" y="110">2</text>
+  <text class="head" x="445" y="151">Frame</text>
+  <text class="copy" x="445" y="202"><tspan x="445">The list or route used</tspan><tspan x="445" dy="27">to reach that group</tspan></text>
+
+  <path class="arrow" d="M578 207H608"/>
+  <text class="copy" x="594" y="177" font-size="15">select</text>
+
+  <rect class="card" x="620" y="72" width="250" height="270" rx="14"/>
+  <circle class="num" cx="650" cy="103" r="19"/><text class="numtext" x="650" y="110">3</text>
+  <text class="head" x="745" y="151">Sample</text>
+  <text class="copy" x="745" y="202"><tspan x="745">The units chosen</tspan><tspan x="745" dy="27">from the frame</tspan></text>
+
+  <path class="arrow" d="M878 207H908"/>
+  <text class="copy" x="894" y="177" font-size="15">respond</text>
+
+  <rect class="card" x="920" y="72" width="260" height="270" rx="14"/>
+  <circle class="num" cx="950" cy="103" r="19"/><text class="numtext" x="950" y="110">4</text>
+  <text class="head" x="1050" y="151">Respondents</text>
+  <text class="copy" x="1050" y="202"><tspan x="1050">Sampled people who</tspan><tspan x="1050" dy="27">provide data</tspan></text>
+
+  <rect class="callout" x="24" y="390" width="552" height="130" rx="12"/>
+  <text class="alerthead" x="46" y="427">Coverage error · population → frame</text>
+  <text class="alertcopy" x="46" y="464"><tspan x="46">The frame can omit eligible people or list</tspan><tspan x="46" dy="25">people outside the target population.</tspan></text>
+
+  <rect class="callout" x="624" y="390" width="552" height="130" rx="12"/>
+  <text class="alerthead" x="646" y="427">Nonresponse · sample → respondents</text>
+  <text class="alertcopy" x="646" y="464"><tspan x="646">Some selected people may not respond;</tspan><tspan x="646" dy="25">their absence can bias the results.</tspan></text>
+</svg>

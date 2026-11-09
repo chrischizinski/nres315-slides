@@ -71,7 +71,7 @@ Time: 2 minutes. Source: Chapter 14 §§14.2 and 14.8. Ask for one numeric Willo
 Do not treat labels as though distances between them are known.
 
 ::: notes
-Time: 2 minutes. Source: Chapter 14 §14.2.1 and Table 14.1.
+Time: 1 minute. Source: Chapter 14 §14.2.1 and Table 14.1.
 :::
 
 ## Reliability and validity ask different questions
@@ -89,6 +89,14 @@ Two observers can agree perfectly on a flawed definition: reliable, not valid.
 
 ::: notes
 Time: 2 minutes. Source: Chapter 14 §14.2.2 and Table 14.2. Use the 31/40 observer agreement as the reliability warning.
+:::
+
+## A target separates consistency from accuracy
+
+![](../assets/diagrams/reliability-validity-targets.svg){width=920px fig-alt="Four targets compare repeated measurements. A tight cluster at center is reliable and valid; a tight cluster off-center is reliable but not valid; a dispersed cluster centered on average is not reliable but is centered on average; a dispersed off-center cluster is neither reliable nor valid. Rings mark the intended value, and dots mark repeated measurements. The target is an analogy; validity depends on the intended interpretation."}
+
+::: notes
+Time: 2 minutes. Source: Chapter 14 §14.2.2 and Table 14.2. Treat the bullseye as the intended value and each dot as one repeated measurement. Tightness illustrates reliability; distance from the center illustrates accuracy in this analogy. A tight cluster can be consistently biased, like two observers agreeing on a flawed definition. In real research, validity concerns whether the design and measurement support the intended interpretation, not simply whether a value lands on a physical target.
 :::
 
 ## Three quantitative design families
@@ -115,7 +123,7 @@ data.frame(
 ```
 
 ::: notes
-Time: 2 minutes. Source: Chapter 14 §14.3. Stress that method and design are separate; a questionnaire can appear in any family.
+Time: 1 minute. Source: Chapter 14 §14.3. Stress that method and design are separate; a questionnaire can appear in any family.
 :::
 
 ## Experiments create a counterfactual
@@ -137,20 +145,20 @@ Time: 2 minutes. Source: Chapter 14 §14.3.1.
 
 ## Quasi-experiments use imperfect comparisons
 
-A before–after policy comparison or treated–untreated site comparison can be
-useful without random assignment.
+**<u>Before–after:</u>** Compare the same site before and after an action.
 
 <br>
 
-But preexisting differences, spillover, history, or simultaneous changes may
-explain the result.
+At Willow Bay, compare above-wake passages before and after a sign pilot.
+Season, weather, or other changes could explain a shift.
 
 <br>
 
-Design the comparison and measure rival explanations.
+**<u>Treated–untreated:</u>** Compare a site receiving an action with a similar
+site that does not. Sites may differ before the action begins.
 
 ::: notes
-Time: 2 minutes. Source: Chapter 14 §14.3.2.
+Time: 3 minutes. Source: Chapter 14 §14.3.2. These designs use a comparison but do not randomly assign treatment. For before–after, ask what else changed over time; for treated–untreated, ask how the sites differed before treatment. A stronger design may track both sites before and after, while still checking whether the comparison is credible.
 :::
 
 ## Description is not a failed experiment
@@ -170,6 +178,22 @@ that wakes caused the decline in nests.
 Time: 2 minutes. Source: Chapter 14 §14.3.3; Week 12 brief.
 :::
 
+## Why do a descriptive study?
+
+- Establish a baseline or estimate how often and how much an issue occurs.
+- Show where, when, and among whom a pattern appears.
+- Monitor change when an experiment is not feasible or ethical.
+- Identify questions for a later explanatory study.
+
+<br>
+
+At Willow Bay, a descriptive study can locate passage patterns and guide
+monitoring—even when it cannot explain why the pattern occurs.
+
+::: notes
+Time: 2 minutes. Source: Chapter 14 §14.3.3. Descriptive evidence can support planning, prioritization, and monitoring. It is especially useful when managers first need a trustworthy account of the pattern, when intervention is not under study, or when randomization is impractical or unethical. Keep the claim descriptive; do not turn a baseline into a causal explanation.
+:::
+
 ## Population, frame, sample, respondent
 
 **Target population** → everyone the claim is about
@@ -186,6 +210,14 @@ These sets rarely match perfectly.
 
 ::: notes
 Time: 3 minutes. Source: Chapter 14 §14.4 and key terms. Have students apply all four to the boat-owner questionnaire.
+:::
+
+## Four steps from population to respondents
+
+![](../assets/diagrams/population-frame-sample-respondents.svg){width=960px fig-alt="A four-step flow moves from target population to sampling frame, selected sample, and respondents. The frame may omit eligible people or include ineligible ones, creating coverage error. Some selected people may not respond, creating nonresponse error. The groups do not necessarily match perfectly."}
+
+::: notes
+Time: 1 minute. Source: Chapter 14 §§14.4 and 14.7.1, 14.7.3. Trace the four groups from left to right. Ask where missing target users enter the account and where selected nonrespondents drop out.
 :::
 
 ## Probability sampling supports population inference
@@ -234,7 +266,7 @@ The method should follow the question. Self-report and observed behavior are
 different evidence.
 
 ::: notes
-Time: 2 minutes. Source: Chapter 14 §14.5.
+Time: 1 minute. Source: Chapter 14 §14.5.
 :::
 
 ## Observation needs a protocol
@@ -248,7 +280,7 @@ Willow Bay uses 36 randomly selected two-hour periods, stratified across days
 and times. The claim concerns those sampled temporal conditions—not every moment.
 
 ::: notes
-Time: 2 minutes. Source: Chapter 14 §14.5.2; Week 12 brief.
+Time: 1 minute. Source: Chapter 14 §14.5.2; Week 12 brief.
 :::
 
 ## Secondary data inherit their history
@@ -262,7 +294,7 @@ fit the new question. Differences among records can reflect methods rather than
 real differences.
 
 ::: notes
-Time: 2 minutes. Source: Chapter 14 §14.5.3.
+Time: 1 minute. Source: Chapter 14 §14.5.3.
 :::
 
 ## Survey research is more than a questionnaire
@@ -384,21 +416,23 @@ Name the mechanism; “bias” alone is not a diagnosis.
 Time: 1 minute. Source: Chapter 14 §14.7.
 :::
 
-## Bound Monday's conclusion
+## Say what the observations can support
 
-A defensible quantitative design says:
-
-> During sampled periods, trained observers classified ___ of ___ passages as
-> above no-wake under the study rule.
+Ask: Of the passages observers actually recorded, how many met the study's
+above-wake rule?
 
 <br>
 
-It does not silently become:
+**X** = observed passages classified above-wake.  **Y** = all observed passages.
 
-> Boaters caused the bird decline, and most bay users support regulation.
+<br>
+
+Report: “During the sampled periods, **X of Y** observed passages met the
+above-wake rule.” This describes those periods; it does not explain the bird
+decline or measure public support.
 
 ::: notes
-Time: 2 minutes. Source: Chapter 14 §§14.3, 14.5, 14.7. Preview Wednesday: explanations and meanings require other evidence.
+Time: 2 minutes. Source: Chapter 14 §§14.3, 14.5, 14.7. Explain that X and Y are placeholders for study results, not missing case facts. The count or proportion describes sampled periods only; broader estimates depend on the sampling design. It cannot establish a cause of bird decline or how most bay users feel. Preview Wednesday: explanations and meanings require other evidence.
 :::
 
 ## Before Wednesday
@@ -409,5 +443,5 @@ Read Chapter 15 with one question in mind:
 actions mean to different users—and make that interpretation trustworthy?**
 
 ::: notes
-Time: 1 minute. Total core time: 49 minutes. Source: Chapter 15 §§15.2–15.5.
+Time: 1 minute. Total core time: 50 minutes. Source: Chapter 15 §§15.2–15.5.
 :::

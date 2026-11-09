@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Reliability and validity shown with four target diagrams</title>
+  <desc id="desc">Four target panels compare repeated measurements. A tight cluster at the center is reliable and valid. A tight cluster away from the center is reliable but not valid. A wide cluster centered on average is not reliable but is centered on average. A wide cluster shifted away is neither reliable nor valid. Concentric rings show the intended value, and dots show repeated measurements.</desc>
+  <defs>
+    <g id="target">
+      <circle r="92" fill="#edf3ef" stroke="#285a4b" stroke-width="3"/>
+      <circle r="68" fill="#d8e6dc" stroke="#285a4b" stroke-width="2.5"/>
+      <circle r="44" fill="#bdd2c3" stroke="#285a4b" stroke-width="2.5"/>
+      <circle r="21" fill="#8eaf9a" stroke="#285a4b" stroke-width="2.5"/>
+      <circle r="5" fill="#17384a"/>
+      <path d="M-101 0H101M0-101V101" stroke="#17384a" stroke-width="1.5" opacity=".32"/>
+    </g>
+    <g id="hit">
+      <circle r="9" fill="#bd5b45" stroke="#702c26" stroke-width="2"/>
+    </g>
+  </defs>
+  <style>
+    .panel{fill:#fbfcfa;stroke:#b8c8bd;stroke-width:2}
+    .head{font:700 27px 'Lato',Arial,sans-serif;fill:#17384a}
+    .copy{font:400 20px 'Lato',Arial,sans-serif;fill:#243b36}
+    .foot{font:400 18px 'Lato',Arial,sans-serif;fill:#354a43}
+  </style>
+
+  <rect class="panel" x="12" y="12" width="576" height="276" rx="12"/>
+  <text class="head" x="34" y="52">Reliable + valid</text>
+  <g transform="translate(166 166)">
+    <use href="#target"/>
+    <use href="#hit" transform="translate(-7 -8)"/>
+    <use href="#hit" transform="translate(8 -4)"/>
+    <use href="#hit" transform="translate(1 9)"/>
+    <use href="#hit" transform="translate(-9 5)"/>
+    <use href="#hit" transform="translate(7 10)"/>
+  </g>
+  <text class="copy" x="300" y="127"><tspan x="300">Repeated measures</tspan><tspan x="300" dy="28">are consistent and</tspan><tspan x="300" dy="28">near the intended</tspan><tspan x="300" dy="28">value.</tspan></text>
+
+  <rect class="panel" x="612" y="12" width="576" height="276" rx="12"/>
+  <text class="head" x="634" y="52">Reliable, not valid</text>
+  <g transform="translate(766 166)">
+    <use href="#target"/>
+    <use href="#hit" transform="translate(38 -35)"/>
+    <use href="#hit" transform="translate(51 -29)"/>
+    <use href="#hit" transform="translate(45 -18)"/>
+    <use href="#hit" transform="translate(34 -23)"/>
+    <use href="#hit" transform="translate(54 -41)"/>
+  </g>
+  <text class="copy" x="900" y="127"><tspan x="900">Repeated measures</tspan><tspan x="900" dy="28">agree, but share a</tspan><tspan x="900" dy="28">systematic offset</tspan><tspan x="900" dy="28">from the intended</tspan><tspan x="900" dy="28">value.</tspan></text>
+
+  <rect class="panel" x="12" y="306" width="576" height="276" rx="12"/>
+  <text class="head" x="34" y="346">Not reliable; centered on average</text>
+  <g transform="translate(166 460)">
+    <use href="#target"/>
+    <use href="#hit" transform="translate(-53 -29)"/>
+    <use href="#hit" transform="translate(39 -56)"/>
+    <use href="#hit" transform="translate(55 29)"/>
+    <use href="#hit" transform="translate(-42 52)"/>
+    <use href="#hit" transform="translate(8 -17)"/>
+    <use href="#hit" transform="translate(-8 18)"/>
+  </g>
+  <text class="copy" x="300" y="421"><tspan x="300">Results vary widely;</tspan><tspan x="300" dy="28">their average is near</tspan><tspan x="300" dy="28">the intended value.</tspan><tspan x="300" dy="34">Single readings are</tspan><tspan x="300" dy="28">not consistent.</tspan></text>
+
+  <rect class="panel" x="612" y="306" width="576" height="276" rx="12"/>
+  <text class="head" x="634" y="346">Not reliable or valid</text>
+  <g transform="translate(766 460)">
+    <use href="#target"/>
+    <use href="#hit" transform="translate(40 -47)"/>
+    <use href="#hit" transform="translate(65 -17)"/>
+    <use href="#hit" transform="translate(23 -8)"/>
+    <use href="#hit" transform="translate(55 14)"/>
+    <use href="#hit" transform="translate(33 43)"/>
+    <use href="#hit" transform="translate(70 51)"/>
+  </g>
+  <text class="copy" x="900" y="421"><tspan x="900">Results vary widely</tspan><tspan x="900" dy="28">and miss the intended</tspan><tspan x="900" dy="28">value overall.</tspan></text>
+
+  <text class="foot" x="20" y="622">Concentric rings = intended value · dots = repeated measurements · tightness shows consistency</text>
+</svg>
