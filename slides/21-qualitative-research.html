@@ -878,6 +878,51 @@ $selectionBackgroundColor: #d4e7d1;
   color: inherit;
 }
 
+/* Explicit classroom discussion prompts. Leave rhetorical questions and
+   statements in the regular slide flow; mark only prompts students should
+   answer together. */
+.reveal .discussion-prompt {
+  margin: 0.75em 0 0.6em;
+  padding: 0.42em 0.7em 0.48em 0.85em;
+  border-left: 0.2em solid #2f6b57;
+  background: #e3ece4;
+  color: #102f43;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.reveal .discussion-prompt::before {
+  content: "DISCUSS";
+  display: block;
+  margin-bottom: 0.18em;
+  color: #146778;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: 0.42em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
+.reveal .discussion-probes {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.35em 0.55em;
+  margin: 0.35em 0 0.6em;
+}
+
+.reveal .discussion-probes.two-col {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.reveal .discussion-probes p {
+  margin: 0;
+  padding: 0.32em 0.48em;
+  border-top: 0.1em solid #2f6b57;
+  background: #f0f4ef;
+  color: #1d2a31;
+  font-size: 0.78em;
+  line-height: 1.2;
+}
+
 .reveal .smart-term {
   display: inline-block;
   margin: 0.08em 0.08em;
@@ -1607,6 +1652,25 @@ display:block!important;
 <p>Source: Chapter 15 §15.2; Week 12 brief</p>
 </div>
 </section>
+<section id="take-a-moment-what-else-could-explain-it" class="slide level2">
+<h2>Take a moment: what else could explain it?</h2>
+<p>Write one possible explanation for the weekend pattern, then compare with a neighbor.</p>
+<p><br></p>
+<p>Be ready to share one idea—or pass.</p>
+<aside class="notes">
+<p>Time: 2 minutes. Give 30 seconds to think, 60 seconds to compare, then invite two brief responses. Keep this low stakes; no one needs to defend a final answer.</p>
+<style type="text/css">
+span.MJX_Assistive_MathML {
+position:absolute!important;
+clip: rect(1px, 1px, 1px, 1px);
+padding: 1px 0 0 0!important;
+border: 0!important;
+height: 1px!important;
+width: 1px!important;
+overflow: hidden!important;
+display:block!important;
+}</style></aside>
+</section>
 <section id="what-you-should-be-able-to-do" class="slide level2">
 <h2>What you should be able to do</h2>
 <ul>
@@ -1707,20 +1771,20 @@ display:block!important;
 </section>
 <section id="four-standards-define-trustworthiness" class="slide level2">
 <h2>Four standards define trustworthiness</h2>
-<div id="bxigazaapr" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#bxigazaapr table {
+<div id="xcpebcckid" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#xcpebcckid table {
 font-family: 'Atkinson Hyperlegible', Arial, sans-serif;
 -webkit-font-smoothing: antialiased;
 -moz-osx-font-smoothing: grayscale;
 }
-#bxigazaapr thead, #bxigazaapr tbody, #bxigazaapr tfoot, #bxigazaapr tr, #bxigazaapr td, #bxigazaapr th {
+#xcpebcckid thead, #xcpebcckid tbody, #xcpebcckid tfoot, #xcpebcckid tr, #xcpebcckid td, #xcpebcckid th {
 border-style: none;
 }
-#bxigazaapr p {
+#xcpebcckid p {
 margin: 0;
 padding: 0;
 }
-#bxigazaapr .gt_table {
+#xcpebcckid .gt_table {
 display: table;
 border-collapse: collapse;
 line-height: normal;
@@ -1745,11 +1809,11 @@ border-left-style: none;
 border-left-width: 2px;
 border-left-color: #D3D3D3;
 }
-#bxigazaapr .gt_caption {
+#xcpebcckid .gt_caption {
 padding-top: 4px;
 padding-bottom: 4px;
 }
-#bxigazaapr .gt_title {
+#xcpebcckid .gt_title {
 color: #333333;
 font-size: 125%;
 font-weight: initial;
@@ -1760,7 +1824,7 @@ padding-right: 5px;
 border-bottom-color: #FFFFFF;
 border-bottom-width: 0;
 }
-#bxigazaapr .gt_subtitle {
+#xcpebcckid .gt_subtitle {
 color: #333333;
 font-size: 85%;
 font-weight: initial;
@@ -1771,7 +1835,7 @@ padding-right: 5px;
 border-top-color: #FFFFFF;
 border-top-width: 0;
 }
-#bxigazaapr .gt_heading {
+#xcpebcckid .gt_heading {
 background-color: #FFFFFF;
 text-align: center;
 border-bottom-color: #FFFFFF;
@@ -1782,12 +1846,12 @@ border-right-style: none;
 border-right-width: 1px;
 border-right-color: #D3D3D3;
 }
-#bxigazaapr .gt_bottom_border {
+#xcpebcckid .gt_bottom_border {
 border-bottom-style: solid;
 border-bottom-width: 2px;
 border-bottom-color: #D3D3D3;
 }
-#bxigazaapr .gt_col_headings {
+#xcpebcckid .gt_col_headings {
 border-top-style: solid;
 border-top-width: 4px;
 border-top-color: #2F6B57;
@@ -1801,7 +1865,7 @@ border-right-style: none;
 border-right-width: 1px;
 border-right-color: #D3D3D3;
 }
-#bxigazaapr .gt_col_heading {
+#xcpebcckid .gt_col_heading {
 color: #333333;
 background-color: #E0EBE0;
 font-size: 22px;
@@ -1820,7 +1884,7 @@ padding-left: 5px;
 padding-right: 5px;
 overflow-x: hidden;
 }
-#bxigazaapr .gt_column_spanner_outer {
+#xcpebcckid .gt_column_spanner_outer {
 color: #333333;
 background-color: #E0EBE0;
 font-size: 22px;
@@ -1831,13 +1895,13 @@ padding-bottom: 0;
 padding-left: 4px;
 padding-right: 4px;
 }
-#bxigazaapr .gt_column_spanner_outer:first-child {
+#xcpebcckid .gt_column_spanner_outer:first-child {
 padding-left: 0;
 }
-#bxigazaapr .gt_column_spanner_outer:last-child {
+#xcpebcckid .gt_column_spanner_outer:last-child {
 padding-right: 0;
 }
-#bxigazaapr .gt_column_spanner {
+#xcpebcckid .gt_column_spanner {
 border-bottom-style: solid;
 border-bottom-width: 2px;
 border-bottom-color: #D3D3D3;
@@ -1848,10 +1912,10 @@ overflow-x: hidden;
 display: inline-block;
 width: 100%;
 }
-#bxigazaapr .gt_spanner_row {
+#xcpebcckid .gt_spanner_row {
 border-bottom-style: hidden;
 }
-#bxigazaapr .gt_group_heading {
+#xcpebcckid .gt_group_heading {
 padding-top: 8px;
 padding-bottom: 8px;
 padding-left: 5px;
@@ -1876,7 +1940,7 @@ border-right-color: #D3D3D3;
 vertical-align: middle;
 text-align: left;
 }
-#bxigazaapr .gt_empty_group_heading {
+#xcpebcckid .gt_empty_group_heading {
 padding: 0.5px;
 color: #333333;
 background-color: #FFFFFF;
@@ -1890,13 +1954,13 @@ border-bottom-width: 2px;
 border-bottom-color: #D3D3D3;
 vertical-align: middle;
 }
-#bxigazaapr .gt_from_md > :first-child {
+#xcpebcckid .gt_from_md > :first-child {
 margin-top: 0;
 }
-#bxigazaapr .gt_from_md > :last-child {
+#xcpebcckid .gt_from_md > :last-child {
 margin-bottom: 0;
 }
-#bxigazaapr .gt_row {
+#xcpebcckid .gt_row {
 padding-top: 7px;
 padding-bottom: 7px;
 padding-left: 5px;
@@ -1914,7 +1978,7 @@ border-right-color: #D3D3D3;
 vertical-align: middle;
 overflow-x: hidden;
 }
-#bxigazaapr .gt_stub {
+#xcpebcckid .gt_stub {
 color: #333333;
 background-color: #FFFFFF;
 font-size: 100%;
@@ -1926,7 +1990,7 @@ border-right-color: #D3D3D3;
 padding-left: 5px;
 padding-right: 5px;
 }
-#bxigazaapr .gt_stub_row_group {
+#xcpebcckid .gt_stub_row_group {
 color: #333333;
 background-color: #FFFFFF;
 font-size: 100%;
@@ -1939,13 +2003,13 @@ padding-left: 5px;
 padding-right: 5px;
 vertical-align: top;
 }
-#bxigazaapr .gt_row_group_first td {
+#xcpebcckid .gt_row_group_first td {
 border-top-width: 2px;
 }
-#bxigazaapr .gt_row_group_first th {
+#xcpebcckid .gt_row_group_first th {
 border-top-width: 2px;
 }
-#bxigazaapr .gt_summary_row {
+#xcpebcckid .gt_summary_row {
 color: #333333;
 background-color: #FFFFFF;
 text-transform: inherit;
@@ -1954,14 +2018,14 @@ padding-bottom: 8px;
 padding-left: 5px;
 padding-right: 5px;
 }
-#bxigazaapr .gt_first_summary_row {
+#xcpebcckid .gt_first_summary_row {
 border-top-style: solid;
 border-top-color: #D3D3D3;
 }
-#bxigazaapr .gt_first_summary_row.thick {
+#xcpebcckid .gt_first_summary_row.thick {
 border-top-width: 2px;
 }
-#bxigazaapr .gt_last_summary_row {
+#xcpebcckid .gt_last_summary_row {
 padding-top: 8px;
 padding-bottom: 8px;
 padding-left: 5px;
@@ -1970,7 +2034,7 @@ border-bottom-style: solid;
 border-bottom-width: 2px;
 border-bottom-color: #D3D3D3;
 }
-#bxigazaapr .gt_grand_summary_row {
+#xcpebcckid .gt_grand_summary_row {
 color: #333333;
 background-color: #FFFFFF;
 text-transform: inherit;
@@ -1979,7 +2043,7 @@ padding-bottom: 8px;
 padding-left: 5px;
 padding-right: 5px;
 }
-#bxigazaapr .gt_first_grand_summary_row {
+#xcpebcckid .gt_first_grand_summary_row {
 padding-top: 8px;
 padding-bottom: 8px;
 padding-left: 5px;
@@ -1988,7 +2052,7 @@ border-top-style: double;
 border-top-width: 6px;
 border-top-color: #D3D3D3;
 }
-#bxigazaapr .gt_last_grand_summary_row_top {
+#xcpebcckid .gt_last_grand_summary_row_top {
 padding-top: 8px;
 padding-bottom: 8px;
 padding-left: 5px;
@@ -1997,10 +2061,10 @@ border-bottom-style: double;
 border-bottom-width: 6px;
 border-bottom-color: #D3D3D3;
 }
-#bxigazaapr .gt_striped {
+#xcpebcckid .gt_striped {
 background-color: rgba(128, 128, 128, 0.05);
 }
-#bxigazaapr .gt_table_body {
+#xcpebcckid .gt_table_body {
 border-top-style: solid;
 border-top-width: 2px;
 border-top-color: #D3D3D3;
@@ -2008,7 +2072,7 @@ border-bottom-style: solid;
 border-bottom-width: 2px;
 border-bottom-color: #D3D3D3;
 }
-#bxigazaapr .gt_footnotes {
+#xcpebcckid .gt_footnotes {
 color: #333333;
 background-color: #FFFFFF;
 border-bottom-style: none;
@@ -2021,7 +2085,7 @@ border-right-style: none;
 border-right-width: 2px;
 border-right-color: #D3D3D3;
 }
-#bxigazaapr .gt_footnote {
+#xcpebcckid .gt_footnote {
 margin: 0px;
 font-size: 90%;
 padding-top: 4px;
@@ -2029,7 +2093,7 @@ padding-bottom: 4px;
 padding-left: 5px;
 padding-right: 5px;
 }
-#bxigazaapr .gt_sourcenotes {
+#xcpebcckid .gt_sourcenotes {
 color: #333333;
 background-color: #FFFFFF;
 border-bottom-style: none;
@@ -2042,64 +2106,64 @@ border-right-style: none;
 border-right-width: 2px;
 border-right-color: #D3D3D3;
 }
-#bxigazaapr .gt_sourcenote {
+#xcpebcckid .gt_sourcenote {
 font-size: 90%;
 padding-top: 4px;
 padding-bottom: 4px;
 padding-left: 5px;
 padding-right: 5px;
 }
-#bxigazaapr .gt_left {
+#xcpebcckid .gt_left {
 text-align: left;
 }
-#bxigazaapr .gt_center {
+#xcpebcckid .gt_center {
 text-align: center;
 }
-#bxigazaapr .gt_right {
+#xcpebcckid .gt_right {
 text-align: right;
 font-variant-numeric: tabular-nums;
 }
-#bxigazaapr .gt_font_normal {
+#xcpebcckid .gt_font_normal {
 font-weight: normal;
 }
-#bxigazaapr .gt_font_bold {
+#xcpebcckid .gt_font_bold {
 font-weight: bold;
 }
-#bxigazaapr .gt_font_italic {
+#xcpebcckid .gt_font_italic {
 font-style: italic;
 }
-#bxigazaapr .gt_super {
+#xcpebcckid .gt_super {
 font-size: 65%;
 }
-#bxigazaapr .gt_footnote_marks {
+#xcpebcckid .gt_footnote_marks {
 font-size: 75%;
 vertical-align: 0.4em;
 position: initial;
 }
-#bxigazaapr .gt_asterisk {
+#xcpebcckid .gt_asterisk {
 font-size: 100%;
 vertical-align: 0;
 }
-#bxigazaapr .gt_indent_1 {
+#xcpebcckid .gt_indent_1 {
 text-indent: 5px;
 }
-#bxigazaapr .gt_indent_2 {
+#xcpebcckid .gt_indent_2 {
 text-indent: 10px;
 }
-#bxigazaapr .gt_indent_3 {
+#xcpebcckid .gt_indent_3 {
 text-indent: 15px;
 }
-#bxigazaapr .gt_indent_4 {
+#xcpebcckid .gt_indent_4 {
 text-indent: 20px;
 }
-#bxigazaapr .gt_indent_5 {
+#xcpebcckid .gt_indent_5 {
 text-indent: 25px;
 }
-#bxigazaapr .katex-display {
+#xcpebcckid .katex-display {
 display: inline-flex !important;
 margin-bottom: 0.75em !important;
 }
-#bxigazaapr div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#xcpebcckid div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
 height: 0px !important;
 }
 </style>
@@ -2148,6 +2212,25 @@ display:block!important;
 <div class="source-note">
 <p>Source: Chapter 15 §15.2.2 and Table 15.1</p>
 </div>
+</section>
+<section id="quick-check-which-standard-is-at-risk" class="slide level2">
+<h2>Quick check: which standard is at risk?</h2>
+<p>A researcher cannot explain how interview notes became the final themes.</p>
+<p><br></p>
+<p><strong>Which trustworthiness standard needs attention most?</strong></p>
+<aside class="notes">
+<p>Time: 1 minute. Ask students to choose silently, then take one or two answers. Dependability is the best fit because the analytic process is not documented.</p>
+<style type="text/css">
+span.MJX_Assistive_MathML {
+position:absolute!important;
+clip: rect(1px, 1px, 1px, 1px);
+padding: 1px 0 0 0!important;
+border: 0!important;
+height: 1px!important;
+width: 1px!important;
+overflow: hidden!important;
+display:block!important;
+}</style></aside>
 </section>
 <section id="dependability-makes-the-process-visible" class="slide level2">
 <h2>Dependability makes the process visible</h2>
