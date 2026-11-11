@@ -100,7 +100,7 @@ Canvas remains the course home for assignments, deadlines, grades, announcements
   <small class="deck-updated">Source updated: November 9, 2026 at 9:01 AM CST</small>
   <small>[Lecture 19 handout (PDF)](handouts/20-quantitative-research.pdf)</small>
 - [Lecture 20 — Qualitative and mixed-methods research](slides/21-qualitative-research.qmd)
-  <small class="deck-updated">Source updated: November 11, 2026 at 8:56 AM CST</small>
+  <small class="deck-updated">Source updated: November 11, 2026 at 9:03 AM CST</small>
   <small>[Lecture 20 handout (PDF)](handouts/21-qualitative-research.pdf)</small>
 
 ## Module 13 — Game and nongame priorities

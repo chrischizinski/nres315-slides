@@ -32,17 +32,20 @@ Qualitative inquiry asks **how people experience and interpret the situation**.
 Time: 2 minutes. Source: Chapter 15 §15.2; Week 12 brief.
 :::
 
-## Take a moment: what else could explain it?
+## Build an interview question from competing explanations
 
 ::: {.discussion-prompt .pair-prompt}
-Take 30 seconds to jot down one possible explanation. Then compare it with a
-neighbor; be ready to share—or pass.
+Choose two possible explanations: confusion about markers, deliberate
+resistance, safety during crossing, or habit. Agree on one interview question
+that could help tell those two explanations apart. Be ready to share the
+question and what it would distinguish.
 :::
 
 ::: notes
-Time: 2 minutes. Give 30 seconds to think, 60 seconds to compare, then invite
-two brief responses. Keep this low stakes; no one needs to defend a final
-answer.
+Time: 2 minutes. Give pairs 60 seconds, then invite two sample questions.
+Listen for open-ended wording about what people understood, noticed, or
+considered when passing. The question should distinguish two explanations
+without assuming that anyone acted intentionally or misunderstood a marker.
 :::
 
 ## What you should be able to do
@@ -352,7 +355,7 @@ Time: 2 minutes. Source: Chapter 15 Box 15.1.
 Time: 3 minutes. Source: Chapter 15 Box 15.1. Uppercase is emphasis, not a claim about importance.
 :::
 
-## Choose a Willow Bay sequence
+## Link observation to interviews
 
 Observation shows when above-no-wake passages cluster. Interviews then ask
 people using those periods how they interpret markers, congestion, access, and
@@ -361,11 +364,16 @@ fairness.
 <br>
 
 ::: {.discussion-prompt .pair-prompt}
-Which mixed-methods logic is this, and where does integration occur?
+Name the mixed-methods logic. Then identify one observation result that should
+shape whom you interview or what you ask.
 :::
 
 ::: notes
-Time: 2 minutes. Source: Chapter 15 Box 15.1. Give pairs 60 seconds.
+Time: 2 minutes. Source: Chapter 15 Box 15.1. Give pairs 60 seconds. Listen
+for explanatory sequential and a concrete link from the observed time or
+conditions to interview recruitment or follow-up questions. Integration
+occurs when the observation guides the interview phase and when both strands
+are interpreted together.
 :::
 
 ## Check the sequence
