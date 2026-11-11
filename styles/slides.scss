@@ -220,6 +220,51 @@ $selectionBackgroundColor: #d4e7d1;
   color: inherit;
 }
 
+/* Explicit classroom discussion prompts. Leave rhetorical questions and
+   statements in the regular slide flow; mark only prompts students should
+   answer together. */
+.reveal .discussion-prompt {
+  margin: 0.75em 0 0.6em;
+  padding: 0.42em 0.7em 0.48em 0.85em;
+  border-left: 0.2em solid #2f6b57;
+  background: #e3ece4;
+  color: #102f43;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.reveal .discussion-prompt::before {
+  content: "DISCUSS";
+  display: block;
+  margin-bottom: 0.18em;
+  color: #146778;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: 0.42em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
+.reveal .discussion-probes {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.35em 0.55em;
+  margin: 0.35em 0 0.6em;
+}
+
+.reveal .discussion-probes.two-col {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.reveal .discussion-probes p {
+  margin: 0;
+  padding: 0.32em 0.48em;
+  border-top: 0.1em solid #2f6b57;
+  background: #f0f4ef;
+  color: #1d2a31;
+  font-size: 0.78em;
+  line-height: 1.2;
+}
+
 .reveal .smart-term {
   display: inline-block;
   margin: 0.08em 0.08em;

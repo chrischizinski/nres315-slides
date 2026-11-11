@@ -32,6 +32,21 @@ Qualitative inquiry asks **how people experience and interpret the situation**.
 Time: 2 minutes. Source: Chapter 15 §15.2; Week 12 brief.
 :::
 
+## Take a moment: what else could explain it?
+
+Write one possible explanation for the weekend pattern, then compare with a
+neighbor.
+
+<br>
+
+Be ready to share one idea—or pass.
+
+::: notes
+Time: 2 minutes. Give 30 seconds to think, 60 seconds to compare, then invite
+two brief responses. Keep this low stakes; no one needs to defend a final
+answer.
+:::
+
 ## What you should be able to do
 
 - Match a qualitative question to an appropriate method and cases.
@@ -113,6 +128,19 @@ data.frame(
 
 ::: notes
 Time: 2 minutes. Source: Chapter 15 §15.2.2 and Table 15.1.
+:::
+
+## Quick check: which standard is at risk?
+
+A researcher cannot explain how interview notes became the final themes.
+
+<br>
+
+**Which trustworthiness standard needs attention most?**
+
+::: notes
+Time: 1 minute. Ask students to choose silently, then take one or two answers.
+Dependability is the best fit because the analytic process is not documented.
 :::
 
 ## Dependability makes the process visible
