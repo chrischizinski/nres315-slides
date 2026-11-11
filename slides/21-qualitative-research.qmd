@@ -34,12 +34,10 @@ Time: 2 minutes. Source: Chapter 15 §15.2; Week 12 brief.
 
 ## Take a moment: what else could explain it?
 
-Write one possible explanation for the weekend pattern, then compare with a
-neighbor.
-
-<br>
-
-Be ready to share one idea—or pass.
+::: {.discussion-prompt .pair-prompt}
+Take 30 seconds to jot down one possible explanation. Then compare it with a
+neighbor; be ready to share—or pass.
+:::
 
 ::: notes
 Time: 2 minutes. Give 30 seconds to think, 60 seconds to compare, then invite
@@ -362,7 +360,9 @@ fairness.
 
 <br>
 
-**Which mixed-methods logic is this, and where does integration occur?**
+::: {.discussion-prompt .pair-prompt}
+Which mixed-methods logic is this, and where does integration occur?
+:::
 
 ::: notes
 Time: 2 minutes. Source: Chapter 15 Box 15.1. Give pairs 60 seconds.
